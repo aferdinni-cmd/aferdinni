@@ -1,0 +1,194 @@
+{
+  "chapters": [
+    {
+      "id": "traffic-rules",
+      "title": "Traffic rules and signs",
+      "blocks": [
+        { "type": "p", "text": "The foundation of safe driving is knowing the traffic rules and understanding what the signs tell you. In lessons we cover the essentials, but here is a summary worth reading before each lesson." },
+        { "type": "h", "text": "Speed and distance" },
+        { "type": "p", "text": "Your speed should always suit the conditions, not just the speed limit. That means slowing down when visibility is poor, the road is wet or icy, or when people and animals are close to the road." },
+        { "type": "ul", "items": [
+          "Keep at least a three-second gap to the car in front in good weather.",
+          "Increase the gap in rain, darkness or icy conditions.",
+          "Drive more slowly where children, pedestrians or livestock may appear suddenly."
+        ]},
+        { "type": "h", "text": "Signs that matter" },
+        { "type": "ul", "items": [
+          "Round signs: prohibition, obligation or restriction (such as a speed limit).",
+          "Triangular signs: warning, hazard or change ahead.",
+          "Rectangular signs: information and directions.",
+          "Stop signs and give-way signs: always stop completely and check before moving off."
+        ]},
+        { "type": "note", "title": "Remember", "text": "Signs tell you what is ahead – but you also need to read the traffic. Look far ahead and pay attention to what others are doing." }
+      ]
+    },
+    {
+      "id": "observation",
+      "title": "Observation and driving",
+      "blocks": [
+        { "type": "p", "text": "Looking around is one of the things we practise most at the beginning, because good observation is what makes it possible to follow the traffic around you." },
+        { "type": "h", "text": "A disciplined routine" },
+        { "type": "ul", "items": [
+          "Check the mirror before you change lane or turn.",
+          "Look ahead and back: mirror, over your shoulder, and in the side mirror.",
+          "Signal clearly in good time and check whether someone is in your blind spot.",
+          "Adjust your speed so that you can turn or change lane safely."
+        ]},
+        { "type": "h", "text": "The blind spot" },
+        { "type": "p", "text": "Side mirrors do not show everything. The area the mirrors miss is called the blind spot, and that is where cars and bicycles can hide. That is why you must always glance over your shoulder before changing lane." },
+        { "type": "note", "title": "Practice", "text": "Practise the routine slowly and in order. It is better to take a moment than to skip a step." }
+      ]
+    },
+    {
+      "id": "roundabouts",
+      "title": "Roundabouts and junctions",
+      "blocks": [
+        { "type": "p", "text": "At junctions and in roundabouts you need to think about right of way, speed and clear communication with other drivers." },
+        { "type": "h", "text": "Roundabouts" },
+        { "type": "ul", "items": [
+          "Enter the roundabout at low speed and watch for drivers already inside it.",
+          "Use your indicator when you leave the roundabout – signal in good time.",
+          "Choose your lane early and stay in it inside the roundabout.",
+          "Read the signs and lane markings before the roundabout so you know where to go."
+        ]},
+        { "type": "h", "text": "Right of way" },
+        { "type": "p", "text": "Read the junction: signs, markings and position. Keep looking both ways even when you have the right of way – it is always better to stop if someone else is not following the rules." },
+        { "type": "note", "title": "Good advice", "text": "Decide early. A late decision in a roundabout is the most common mistake made by new drivers." }
+      ]
+    },
+    {
+      "id": "motorway",
+      "title": "Motorway driving",
+      "blocks": [
+        { "type": "p", "text": "Motorway driving calls for decisiveness and good visibility. Speeds are higher, so you need to think further ahead." },
+        { "type": "h", "text": "Joining the motorway" },
+        { "type": "ul", "items": [
+          "Use the slip road to build up speed and match the traffic.",
+          "Check your mirror and look over your shoulder before joining the main carriageway.",
+          "Signal in good time and join when you have a safe gap.",
+          "Do not stop at the end of the slip road unless you have to."
+        ]},
+        { "type": "h", "text": "On the motorway" },
+        { "type": "ul", "items": [
+          "Keep a steady speed and a safe distance from the car in front.",
+          "Stay in the right-hand lane when you are not overtaking.",
+          "Overtake decisively and with a clear signal.",
+          "Look far ahead so you see slow traffic and changes in good time."
+        ]},
+        { "type": "note", "title": "Note", "text": "Poor weather means lower speed and a bigger gap – especially on a motorway, where you need to brake early." }
+      ]
+    },
+    {
+      "id": "the-car",
+      "title": "The car and safety",
+      "blocks": [
+        { "type": "p", "text": "Safe driving begins before the car moves. Go over the car and set everything up so that you feel comfortable and have good visibility." },
+        { "type": "h", "text": "Before every drive" },
+        { "type": "ul", "items": [
+          "Adjust the seat, steering wheel and mirrors.",
+          "Make sure everyone is wearing a seat belt.",
+          "Check the lights, wipers and that the windows are clean.",
+          "Check what the car is telling you: dashboard warnings, temperature and fuel."
+        ]},
+        { "type": "h", "text": "Responsibility in the car" },
+        { "type": "p", "text": "As the driver you are responsible for your passengers and your surroundings. Do not make calls or use your phone while driving – even a short message takes your attention off the road." },
+        { "type": "note", "title": "Note", "text": "If something unexpected comes up, stop in a safe place before you make a decision." }
+      ]
+    },
+    {
+      "id": "conditions",
+      "title": "Weather and conditions",
+      "blocks": [
+        { "type": "p", "text": "Weather and conditions in Iceland can change quickly. A good driver adapts their driving to the conditions at hand." },
+        { "type": "h", "text": "Darkness" },
+        { "type": "ul", "items": [
+          "Use your lights and keep the windows clean.",
+          "Drive more slowly than usual and look further ahead.",
+          "Be aware of glare from oncoming cars – look to the right edge of the road."
+        ]},
+        { "type": "h", "text": "Rain and ice" },
+        { "type": "ul", "items": [
+          "Increase the distance and reduce your speed.",
+          "Brake gently and earlier than usual.",
+          "Avoid sudden steering movements on wet or icy roads.",
+          "Check your winter tyres and tread before the winter."
+        ]},
+        { "type": "note", "title": "Remember", "text": "If you are unsure about the conditions, slow down. Slowing down in bad weather is always the right decision." }
+      ]
+    },
+    {
+      "id": "hazards",
+      "title": "Hazards and defensive driving",
+      "blocks": [
+        { "type": "p", "text": "Defensive driving is about seeing hazards before they become a problem. That means looking far ahead, allowing for other people's mistakes and always having a plan B." },
+        { "type": "ul", "items": [
+          "Look 12–15 seconds ahead along the road.",
+          "Pay attention to the cars around you, not just the one in front.",
+          "Give yourself room if someone is pulling out of a side road or a parking space.",
+          "Always have an escape route if something happens suddenly."
+        ]},
+        { "type": "h", "text": "Common mistakes" },
+        { "type": "ul", "items": [
+          "Entering a bend or a roundabout too fast.",
+          "Forgetting to look over your shoulder before changing lane.",
+          "Following too closely in heavy traffic.",
+          "Reacting too late to signs or markings."
+        ]},
+        { "type": "note", "title": "Practice", "text": "Review each lesson afterwards: what went well and what needs practice next? It speeds up your learning." }
+      ]
+    },
+    {
+      "id": "driving-test",
+      "title": "The driving test",
+      "blocks": [
+        { "type": "p", "text": "The driving test is not only a test of driving but also of safety, observation and independence. When you can drive safely and independently, you are ready." },
+        { "type": "h", "text": "What is assessed" },
+        { "type": "ul", "items": [
+          "Safe and steady driving in different conditions.",
+          "Observation, lane changes and turns.",
+          "Roundabouts and junctions.",
+          "Speed control and distance.",
+          "Understanding of signs and markings.",
+          "Communication with others in traffic."
+        ]},
+        { "type": "h", "text": "Before the test" },
+        { "type": "ul", "items": [
+          "Go over the study material and the checklist on this site.",
+          "Make sure the car is in good condition if you use your own.",
+          "Arrive on time and bring your documents.",
+          "Rest well – fatigue is one of the biggest risks in a test."
+        ]},
+        { "type": "note", "title": "Good advice", "text": "Talk yourself through the drive: what you see, what you are going to do and why. It helps you stay organised and shows clearly how you think." }
+      ]
+    },
+    {
+      "id": "checklist",
+      "title": "Checklist for every lesson",
+      "blocks": [
+        { "type": "p", "text": "This list is meant as a short reminder for each lesson. Go over it before you arrive." },
+        { "type": "h", "text": "Before setting off" },
+        { "type": "ul", "items": [
+          "Learner's permit and documents with you.",
+          "Seat and mirrors adjusted.",
+          "Everyone wearing a seat belt.",
+          "Lights and wipers working."
+        ]},
+        { "type": "h", "text": "While driving" },
+        { "type": "ul", "items": [
+          "Look far ahead and follow the traffic.",
+          "Keep a steady speed and a good following distance.",
+          "Signal in good time.",
+          "Check over your shoulder before changing lane."
+        ]},
+        { "type": "h", "text": "After the lesson" },
+        { "type": "ul", "items": [
+          "What went well?",
+          "What needs more practice?",
+          "What will the next lesson cover?",
+          "Book your next lesson in Noona."
+        ]},
+        { "type": "note", "title": "Contact", "text": "Get in touch if anything is unclear – by phone or email." }
+      ]
+    }
+  ]
+}

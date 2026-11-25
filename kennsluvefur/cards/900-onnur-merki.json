@@ -1,0 +1,109 @@
+{
+  "cards": [
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "902.1 fyrra Þverslá.",
+      "image": "https://files.reglugerd.is/files/0250-2024/d3fb53d1-2c98-41d1-bf29-dab341278479.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "902.1 seinna Þverslá.",
+      "image": "https://files.reglugerd.is/files/0250-2024/77493eae-0a89-4005-939f-65b92780199f.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "902.2 Þverslá.",
+      "image": "https://files.reglugerd.is/files/0250-2024/43b6a21d-1a93-4b96-bd0d-afed6ab9d759.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "904 fyrra Stefnuör. Stefnuör við vegarbrún gefur til kynna breytingu á stefnu vegarins sem vegna aðstæðna kann að vera vegfarendum óljós.",
+      "image": "https://files.reglugerd.is/files/0250-2024/299a88f8-817a-4285-b4e9-5c5fbfe6b541.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "904 seinna Stefnuör. Stefnuör við vegarbrún gefur til kynna breytingu á stefnu vegarins sem vegna aðstæðna kann að vera vegfarendum óljós.",
+      "image": "https://files.reglugerd.is/files/0250-2024/24325cbf-1906-4f70-aa41-e7ac75ec6041.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "906.11 Gátskjöldur. Gátskjöldur, með svörtum og gulum skástrikum sem vísa niður að vegi, gefur til kynna þrengingu á akbraut.",
+      "image": "https://files.reglugerd.is/files/0250-2024/46eb4763-1557-40b7-bcc6-fba24c518651.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "906.12 Gátskjöldur. Gátskjöldur, með svörtum og gulum skástrikum sem vísa niður að vegi, gefur til kynna þrengingu á akbraut.",
+      "image": "https://files.reglugerd.is/files/0250-2024/4da58198-3b08-41c2-80ad-e93707727d28.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "906.21 Gátskjöldur. Gátskjöldur, með svörtum og gulum skástrikum sem vísa niður að vegi, gefur til kynna þrengingu á akbraut.",
+      "image": "https://files.reglugerd.is/files/0250-2024/51cef74e-b303-47a2-9978-d7f873e214a0.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "906.22 Gátskjöldur. Gátskjöldur, með svörtum og gulum skástrikum sem vísa niður að vegi, gefur til kynna þrengingu á akbraut.",
+      "image": "https://files.reglugerd.is/files/0250-2024/c0234720-9f59-4e67-8d93-3b189fc9b961.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "908.1 Gátskjöldur. Gátskjöldur, með svörtum og gulum skástrikum sem vísa niður að vegi, gefur til kynna þrengingu á akbraut.",
+      "image": "https://files.reglugerd.is/files/0250-2024/bf0325df-b0ed-420e-b156-4f24687acada.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "908.2 Gátskjöldur. Gátskjöldur, með svörtum og gulum skástrikum sem vísa niður að vegi, gefur til kynna þrengingu á akbraut.",
+      "image": "https://files.reglugerd.is/files/0250-2024/f7bcaa49-7333-4d65-bfc1-adc365a17bda.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "912.1 Gátskjöldur á veggreiningu. Gátskildir á veggreiningu, með svörtum og gulum skástrikum sem vísa niður frá miðju skjaldarins, vekja athygli vegfarenda á veggreiningu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/4b5dfdf4-6cf0-4026-a721-bfcb1d602142.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "912.2 Gátskjöldur á veggreiningu. Gátskildir á veggreiningu, með svörtum og gulum skástrikum sem vísa niður frá miðju skjaldarins, vekja athygli vegfarenda á veggreiningu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/05d9bcfc-d38c-42d0-9d8e-1e403d299ca6.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "913 Gátstaur. Gátstaurar beggja vegna akbrautar gefa til kynna að á akbraut sé hraðahindrun.",
+      "image": "https://files.reglugerd.is/files/0250-2024/12b06211-3deb-4139-85ef-e785db3a91af.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "914.11 Gátskjöldur í jarðgöngum. Gátskildir í vegkanti, með svörtum og hvítum skástrikum sem vísa niður að vegi, afmarka akbraut í jarðgöngum.",
+      "image": "https://files.reglugerd.is/files/0250-2024/6d0abb43-a9ab-40d3-a56c-de490744c077.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "914.12 Gátskjöldur í jarðgöngum. Gátskildir í vegkanti, með svörtum og hvítum skástrikum sem vísa niður að vegi, afmarka akbraut í jarðgöngum.",
+      "image": "https://files.reglugerd.is/files/0250-2024/b920e5d9-8588-4a56-a8ef-f209d63c447f.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "916 Fjarlægðarmerking í jarðgöngum. Merki þetta gefur til kynna fjarlægðir að gangamunnum í jarðgöngum.",
+      "image": "https://files.reglugerd.is/files/0250-2024/8b835d9f-eaba-4c6a-a7e3-62d412e632e5.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "920.1 Vegstika. Vegstikur afmarka vegarbrún og bæta vegsýn vegfarenda. Glitmerki á vegstikum eru með hvítu endurskini og skásett þannig að þau vísi niður að vegi.",
+      "image": "https://files.reglugerd.is/files/0250-2024/295448b0-27cf-4c84-a00c-a26977262a74.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "920.2 Vegstika. Vegstikur afmarka vegarbrún og bæta vegsýn vegfarenda. Glitmerki á vegstikum eru með hvítu endurskini og skásett þannig að þau vísi niður að vegi.",
+      "image": "https://files.reglugerd.is/files/0250-2024/a72dbea8-7312-430d-abc7-d0d0c34c5725.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "920.3 Vegstika. Vegstikur afmarka vegarbrún og bæta vegsýn vegfarenda. Glitmerki á vegstikum eru með hvítu endurskini og skásett þannig að þau vísi niður að vegi.",
+      "image": "https://files.reglugerd.is/files/0250-2024/7f987ae0-c4c7-4d7e-bb06-13d74e56ad4e.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "940 Stólpi til afmörkunar miðeyju eða bannsvæðis. Stólpar til afmörkunar akbrautar við miðeyju eða bannsvæði til áréttingar yfirborðsmerkinga.",
+      "image": "https://files.reglugerd.is/files/0250-2024/6def3d6f-8ba4-4146-85c7-65076eef884b.jpg"
+    }
+  ]
+}

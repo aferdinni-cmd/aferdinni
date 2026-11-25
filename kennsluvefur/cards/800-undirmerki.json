@@ -1,0 +1,399 @@
+{
+  "cards": [
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "802.1 Fjarlægð. Merki þetta segir til um hversu langt er að þeim stað sem aðalmerkið á við.",
+      "image": "https://files.reglugerd.is/files/0250-2024/216c0f75-354c-4037-a6de-0d34c832c7f9.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "802.2 Fjarlægð. Merki þetta segir til um hversu langt er að þeim stað sem aðalmerkið á við.",
+      "image": "https://files.reglugerd.is/files/0250-2024/6d1ca7d2-f33a-4535-b4f5-9bbf18dc5063.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "804.1 Lengd gildissvæðis. Merki þetta segir til um gildissvæði aðalmerkis. Á merkinu kemur fram fjarlægð að upphafi gildissvæðis og fjarlægð að lokum þess, mæld frá merkinu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/7518bc83-97aa-4c82-affc-bda0e4f823b0.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "804.2 Lengd gildissvæðis. Merki þetta segir til um gildissvæði aðalmerkis. Á merkinu kemur fram fjarlægð að upphafi gildissvæðis og fjarlægð að lokum þess, mæld frá merkinu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/398d42dd-d354-470a-b924-7f7153dba71b.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "806.1 Gildistími. Merki þetta segir til um gildistíma aðalmerkis. Tíminn er gefinn upp í heilum tölum á bilinu 0-24.",
+      "image": "https://files.reglugerd.is/files/0250-2024/7a89850a-bd75-4da8-8dbf-df85a47f265a.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "806.2 Gildistími. Merki þetta segir til um gildistíma aðalmerkis. Tíminn er gefinn upp í heilum tölum á bilinu 0-24.",
+      "image": "https://files.reglugerd.is/files/0250-2024/f6e7ac64-248c-42b8-8bd3-a633f3ad6643.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "807.1 Fólksbifreið undir 3.500 kg. Táknið stendur fyrir bifreið undir 3.500 kg sem aðallega er ætluð til farm- eða fólksflutninga.",
+      "image": "https://files.reglugerd.is/files/0250-2024/1c2019fa-1141-457a-91d6-86a72a42f67d.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "807.2 Vörubifreið. Táknið stendur fyrir bifreið ætlaðri til farmflutninga, með leyfða heildarþyngd meiri en 3,5 tonn og að hámarki fyrir átta farþega.",
+      "image": "https://files.reglugerd.is/files/0250-2024/35390d60-4662-49be-ab7b-aa3df9460dda.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "807.21 Vöruafgreiðsla. Táknið stendur fyrir lestun og losun á þungum eða fyrirferðarmiklum farmi.",
+      "image": "https://files.reglugerd.is/files/0250-2024/a7078348-04d6-4d2e-a3c0-d1f53559e08d.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "807.3 Hópbifreið. Táknið stendur fyrir hópbifreið sem ætluð er fyrir fleiri en 8 farþega.",
+      "image": "https://files.reglugerd.is/files/0250-2024/002fff3f-87d8-43e4-bfc2-a93bffdb7531.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "807.4 Vörubifreið með eftirvagn, vagnlest. Táknið stendur fyrir vagnlest bifreiðar og eftirvagns, þar sem bifreiðin er ætluð til farmflutninga, með leyfða heildarþyngd meiri en 3,5 tonn og að hámarki fyrir átta farþega (vörubifreið).",
+      "image": "https://files.reglugerd.is/files/0250-2024/d5ab9073-4f91-4a2d-a802-7cc33956d343.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "807.51 Dráttarvél. Táknið stendur fyrir dráttarvélar og vinnuvélar.",
+      "image": "https://files.reglugerd.is/files/0250-2024/8a9a2c1a-5882-4050-8662-2babec748f65.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "807.52 Torfærutæki á beltum. Táknið stendur fyrir vélknúið ökutæki sem er aðallega ætlað til fólks- eða farmflutninga utan vega og er búið beltum.",
+      "image": "https://files.reglugerd.is/files/0250-2024/fa252e74-5a4f-48ce-b190-af8892a8ae09.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "807.6 Reiðhjól. Táknið stendur fyrir reiðhjól samkvæmt skilgreiningu umferðarlaga.",
+      "image": "https://files.reglugerd.is/files/0250-2024/98425b77-a959-4021-aa84-f052e609dfe0.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "807.65 Vélknúið hlaupahjól. Táknið stendur fyrir lítið vélknúið ökutæki sem ekki telst til létts bifhjóls og er hannað til aksturs á hraða frá 6 km/klst. upp í 25 km/klst. m.a. vélknúið hlaupahjól og tvíhjóla ökutæki á einum öxli. Slíkum farartækjum má ekki aka á akbraut.",
+      "image": "https://files.reglugerd.is/files/0250-2024/532ae19c-794a-41f0-9a5a-878bf414e05c.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "807.71 Létt bifhjól. Táknið stendur fyrir létt bifhjól samkvæmt skilgreiningu umferðarlaga.",
+      "image": "https://files.reglugerd.is/files/0250-2024/a210980f-ad83-4e35-afb2-031873456d17.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "807.72 Bifhjól. Táknið stendur fyrir bifhjól samkvæmt skilgreiningu umferðarlaga.",
+      "image": "https://files.reglugerd.is/files/0250-2024/52c9f87b-9f82-4d3d-89a8-9cda062d8903.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "807.81 Gangandi vegfarendur. Táknið stendur fyrir umferð gangandi vegfarenda.",
+      "image": "https://files.reglugerd.is/files/0250-2024/ce515fdc-d5fc-4883-928e-e27b24ffdbac.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "807.82 Hreyfihamlaðir vegfarendur. Táknið stendur fyrir umferð hreyfihamlaðra vegfarenda.",
+      "image": "https://files.reglugerd.is/files/0250-2024/a486bf76-faa0-4ab9-aac1-4495ca387e58.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "807.91 Húsbíll. Táknið stendur fyrir húsbíla.",
+      "image": "https://files.reglugerd.is/files/0250-2024/d0638251-3b2e-4027-9b51-cea172f1fea7.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "807.92 Hjólhýsi, fellihýsi og tjaldvagnar. Táknið stendur fyrir ferðavagna svo sem hjólhýsi, fellihýsi og tjaldvagna.",
+      "image": "https://files.reglugerd.is/files/0250-2024/ce1a8585-c9b5-4f3e-8559-adbf06413f56.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "808.1 Texti. Merki þetta gefur nánari skilgreiningu á gildissviði, undanþágu frá eða skýringu á því umferðarmerki sem merkið stendur með.",
+      "image": "https://files.reglugerd.is/files/0250-2024/e58423e6-73d8-43c1-8088-cbadb5817858.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "808.2 Texti. Merki þetta gefur nánari skilgreiningu á gildissviði, undanþágu frá eða skýringu á því umferðarmerki sem merkið stendur með.",
+      "image": "https://files.reglugerd.is/files/0250-2024/82221967-cf54-43e8-8265-d099058ca7cf.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "808.3 Texti. Merki þetta gefur nánari skilgreiningu á gildissviði, undanþágu frá eða skýringu á því umferðarmerki sem merkið stendur með.",
+      "image": "https://files.reglugerd.is/files/0250-2024/76e3cc6e-e620-4300-a1aa-401ef5cbb5f1.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "808.4 Texti. Merki þetta gefur nánari skilgreiningu á gildissviði, undanþágu frá eða skýringu á því umferðarmerki sem merkið stendur með.",
+      "image": "https://files.reglugerd.is/files/0250-2024/745b0cb5-8b5a-49c9-ad1b-4eea16c5c392.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "808.5 Texti. Merki þetta gefur nánari skilgreiningu á gildissviði, undanþágu frá eða skýringu á því umferðarmerki sem merkið stendur með.",
+      "image": "https://files.reglugerd.is/files/0250-2024/cb214379-7420-4358-8797-4f4a4f68b1b2.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "808.6 Texti. Merki þetta gefur nánari skilgreiningu á gildissviði, undanþágu frá eða skýringu á því umferðarmerki sem merkið stendur með.",
+      "image": "https://files.reglugerd.is/files/0250-2024/abaa2843-48e8-4141-bc1e-1d8ac5efba61.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "810.1 Stefna sem aðalmerki á við. Merki þetta vísar í þá átt sem aðalmerki á við.",
+      "image": "https://files.reglugerd.is/files/0250-2024/b543ac19-4eb1-41e9-bd42-c4b9a7fe5ceb.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "810.2 Stefna sem aðalmerki á við. Merki þetta vísar í þá átt sem aðalmerki á við.",
+      "image": "https://files.reglugerd.is/files/0250-2024/bdaa8aca-ff50-45df-8b34-91cc50470038.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "810.3 Stefna sem aðalmerki á við. Merki þetta vísar í þá átt sem aðalmerki á við.",
+      "image": "https://files.reglugerd.is/files/0250-2024/2639d027-9a6d-4c31-b864-db2845d4d774.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "810.4 Stefna sem aðalmerki á við. Merki þetta vísar í þá átt sem aðalmerki á við.",
+      "image": "https://files.reglugerd.is/files/0250-2024/84079aea-0b07-4052-97be-cfef6f160bba.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "810.5 Stefna sem aðalmerki á við. Merki þetta vísar í þá átt sem aðalmerki á við.",
+      "image": "https://files.reglugerd.is/files/0250-2024/572f5409-78e1-4e08-920c-c90422898339.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "810.6 Stefna sem aðalmerki á við. Merki þetta vísar í þá átt sem aðalmerki á við.",
+      "image": "https://files.reglugerd.is/files/0250-2024/9f0d7eb1-d94f-420b-84a1-6372126f3fc6.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "810.7 Stefna sem aðalmerki á við. Merki þetta vísar í þá átt sem aðalmerki á við.",
+      "image": "https://files.reglugerd.is/files/0250-2024/29bc850d-38c1-47f8-bd5e-a1c3b6725077.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "811.1 Hjólastígur, tvístefna. Merki þetta gefur til kynna umferð í báðar áttir á hjólastíg.",
+      "image": "https://files.reglugerd.is/files/0250-2024/e2af7938-a1d1-4efe-8c97-6a8d42599f96.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "811.2 Hjólastígur, tvístefnu lýkur. Merki þetta gefur til kynna lok tvístefnu á hjólastíg.",
+      "image": "https://files.reglugerd.is/files/0250-2024/0805f784-8f16-4866-81ce-7caaeafe3a8c.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "812 Leiðbeinandi hámarkshraði. Merki þetta gefur til kynna þann hámarkshraða sem ráðlagður er á þeim vegarkafla sem yfirmerkið nær yfir.",
+      "image": "https://files.reglugerd.is/files/0250-2024/f434aa3d-ea4f-419f-9727-374971c62dc2.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "815.1 Leið aðalbrautar á vegamótum. Merki þetta gefur til kynna leið aðalbrautar á vegamótum þar sem sver lína táknar leið aðalbrautar en mjó lína víkjandi veg með biðskyldu eða stöðvunarskyldu gagnvart aðalbraut.",
+      "image": "https://files.reglugerd.is/files/0250-2024/488501b9-e35b-43e3-a794-2edea6df0eef.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "815.2 Leið aðalbrautar á vegamótum. Merki þetta gefur til kynna leið aðalbrautar á vegamótum þar sem sver lína táknar leið aðalbrautar en mjó lína víkjandi veg með biðskyldu eða stöðvunarskyldu gagnvart aðalbraut.",
+      "image": "https://files.reglugerd.is/files/0250-2024/7d86406b-3c36-4d22-a2b4-9bddaae58ddc.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "815.3 Leið aðalbrautar á vegamótum. Merki þetta gefur til kynna leið aðalbrautar á vegamótum þar sem sver lína táknar leið aðalbrautar en mjó lína víkjandi veg með biðskyldu eða stöðvunarskyldu gagnvart aðalbraut.",
+      "image": "https://files.reglugerd.is/files/0250-2024/50482c6d-408f-49f0-8e24-8123d030a07c.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "815.4 Leið aðalbrautar á vegamótum. Merki þetta gefur til kynna leið aðalbrautar á vegamótum þar sem sver lína táknar leið aðalbrautar en mjó lína víkjandi veg með biðskyldu eða stöðvunarskyldu gagnvart aðalbraut.",
+      "image": "https://files.reglugerd.is/files/0250-2024/0c606833-2973-44cd-9776-de9f1f373a03.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "815.5 Leið aðalbrautar á vegamótum. Merki þetta gefur til kynna leið aðalbrautar á vegamótum þar sem sver lína táknar leið aðalbrautar en mjó lína víkjandi veg með biðskyldu eða stöðvunarskyldu gagnvart aðalbraut.",
+      "image": "https://files.reglugerd.is/files/0250-2024/c4dc77f2-6fa8-401e-9894-0c8dcdda1049.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "824 Stöðvunarskylda fram undan.",
+      "image": "https://files.reglugerd.is/files/0250-2024/b322d616-f9f2-4f52-be49-bc0e56ba42ad.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "826.1 Umferð hjólandi vegfarenda úr báðum áttum.",
+      "image": "https://files.reglugerd.is/files/0250-2024/c423c044-9f15-4edd-a124-b9c9673c2e0d.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "826.2 Umferð hópbifreiða í almenningsakstri úr báðum áttum.",
+      "image": "https://files.reglugerd.is/files/0250-2024/4a3410e5-0328-474d-81d3-95f9b35af88b.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "828.1 Gildissvæði. Merki þetta gefur til kynna að bannmerki eða sérreglumerki sem það stendur með gildi í þá átt sem örin tilgreinir. Heimilt er að setja upplýsingar um lengd í heilum metrum inn á örina.",
+      "image": "https://files.reglugerd.is/files/0250-2024/d75cc5bb-9e47-4a42-b278-440bf73cf5bd.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "828.2 Gildissvæði. Merki þetta gefur til kynna að bannmerki eða sérreglumerki sem það stendur með gildi í þá átt sem örin tilgreinir. Heimilt er að setja upplýsingar um lengd í heilum metrum inn á örina.",
+      "image": "https://files.reglugerd.is/files/0250-2024/29601f01-b956-41a8-8d8f-a8e49adfcf77.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "828.3 Gildissvæði. Merki þetta gefur til kynna að bannmerki eða sérreglumerki sem það stendur með gildi í þá átt sem örin tilgreinir. Heimilt er að setja upplýsingar um lengd í heilum metrum inn á örina.",
+      "image": "https://files.reglugerd.is/files/0250-2024/1a9c58d2-5dbe-4559-8d91-10e725603758.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "828.4 Gildissvæði. Merki þetta gefur til kynna að bannmerki eða sérreglumerki sem það stendur með gildi í þá átt sem örin tilgreinir. Heimilt er að setja upplýsingar um lengd í heilum metrum inn á örina.",
+      "image": "https://files.reglugerd.is/files/0250-2024/ace368a9-3373-4df3-8a8e-93cd05f90c41.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "828.5 Gildissvæði. Merki þetta gefur til kynna að bannmerki eða sérreglumerki sem það stendur með gildi í þá átt sem örin tilgreinir. Heimilt er að setja upplýsingar um lengd í heilum metrum inn á örina.",
+      "image": "https://files.reglugerd.is/files/0250-2024/56973d76-731c-4b6b-8530-fa6ff6a98310.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "828.6 Gildissvæði. Merki þetta gefur til kynna að bannmerki eða sérreglumerki sem það stendur með gildi í þá átt sem örin tilgreinir. Heimilt er að setja upplýsingar um lengd í heilum metrum inn á örina.",
+      "image": "https://files.reglugerd.is/files/0250-2024/09bef110-0a6c-4b4c-8f47-9ff678747b43.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "828.7 Gildissvæði. Merki þetta gefur til kynna að bannmerki eða sérreglumerki sem það stendur með gildi í þá átt sem örin tilgreinir. Heimilt er að setja upplýsingar um lengd í heilum metrum inn á örina.",
+      "image": "https://files.reglugerd.is/files/0250-2024/80a40a56-ad66-4ea2-8cb0-a234c1d32e15.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "828.8 Gildissvæði. Merki þetta gefur til kynna að bannmerki eða sérreglumerki sem það stendur með gildi í þá átt sem örin tilgreinir. Heimilt er að setja upplýsingar um lengd í heilum metrum inn á örina.",
+      "image": "https://files.reglugerd.is/files/0250-2024/222446d5-6455-4c90-a687-2880af1f9dcc.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "828.9 Gildissvæði. Merki þetta gefur til kynna að bannmerki eða sérreglumerki sem það stendur með gildi í þá átt sem örin tilgreinir. Heimilt er að setja upplýsingar um lengd í heilum metrum inn á örina.",
+      "image": "https://files.reglugerd.is/files/0250-2024/5f5007a1-0478-4213-a0d1-0d714424b7d3.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "829.1 Bifreiðastæði, fyrirkomulag. Merki þetta gefur til kynna fyrirkomulag bifreiðastæða, samsíða, hornrétt eða á ská.",
+      "image": "https://files.reglugerd.is/files/0250-2024/9e709d36-4c6c-4f87-bb71-b1d54e531176.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "829.2 Bifreiðastæði, fyrirkomulag. Merki þetta gefur til kynna fyrirkomulag bifreiðastæða, samsíða, hornrétt eða á ská.",
+      "image": "https://files.reglugerd.is/files/0250-2024/2a7bb9b7-3986-4d86-b814-5fd6b4a60760.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "829.3 Bifreiðastæði, fyrirkomulag. Merki þetta gefur til kynna fyrirkomulag bifreiðastæða, samsíða, hornrétt eða á ská.",
+      "image": "https://files.reglugerd.is/files/0250-2024/bde7f4d0-76ce-46e9-b6e7-e7712cbcd36e.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "831.1 Hámarkstími.",
+      "image": "https://files.reglugerd.is/files/0250-2024/b850411c-45d6-4f9e-b89a-1f0a7496d9ba.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "831.2 Hámarkstími.",
+      "image": "https://files.reglugerd.is/files/0250-2024/3238562f-47a5-412f-8ed0-2388ffa04f31.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "831.51 Brotlegir verða fjarlægðir. Merki þetta gefur til kynna að ökutæki sem lagt er óleyfilega geti verið fjarlægð.",
+      "image": "https://files.reglugerd.is/files/0250-2024/52dbacd5-f027-4033-95c2-7e0e4fbea7f3.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "831.52 Brotlegir verða fjarlægðir. Merki þetta gefur til kynna að ökutæki sem lagt er óleyfilega geti verið fjarlægð.",
+      "image": "https://files.reglugerd.is/files/0250-2024/00a0a51a-146e-4e2b-b541-2c8ede40e293.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "840.1 Sjónskertir vegfarendur. Merki þetta vekur athygli á að vænta megi umferðar sjónskerts fólks.",
+      "image": "https://files.reglugerd.is/files/0250-2024/3a097a95-6e5c-4c40-bc80-a45ca0fd09ed.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "840.2 Heyrnarskertir vegfarendur. Merki þetta vekur athygli á að vænta megi umferðar heyrnarskerts fólks.",
+      "image": "https://files.reglugerd.is/files/0250-2024/849f75f1-e0bd-4753-8a80-c1da7a45b4c0.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "842.1 Nýlögð klæðing. Merki þetta gefur til kynna að ekið sé á nýlagðri klæðingu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/46b01379-88e8-46a6-9fb4-75c372f4efca.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "842.2 Malbik endar. Merki þetta gefur til kynna að bundið slitlag endi og malarvegur taki við.",
+      "image": "https://files.reglugerd.is/files/0250-2024/e284a6d1-f46a-4024-a635-b319dd693c6c.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "844.1 Seinfarinn vegur. Merki þetta gefur til kynna að ekið sé inn á leið sem fær er fólksbílum en sé seinfarin og mögulega gróf og brött.",
+      "image": "https://files.reglugerd.is/files/0250-2024/621ea716-812c-49b9-bc9c-685ace561620.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "844.2 Illfær vegur. Merki þetta gefur til kynna að ekið sé inn á leið sem er ófær almennum fólksbifreiðum en fær fjórhjóladrifnum bifreiðum sem eru hærri en almennar fólksbifreiðar, svo sem jeppum.",
+      "image": "https://files.reglugerd.is/files/0250-2024/0e79f678-6154-4a2a-b36a-ba416d396157.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "844.3 Torleiði. Merki þetta gefur til kynna að ekið sé inn á leið sem einungis er fær sérútbúnum torfærubifreiðum, svo sem jeppum og fjallabílum. Á leiðinni kunna að vera mjög brattar brekkur, snjóskaflar og ár sem tæplega eru færar bifreiðum.",
+      "image": "https://files.reglugerd.is/files/0250-2024/788fc4b2-16c0-421f-b723-3ba6d2b3049b.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "846.3 Óbrúaðar ár. Merki þetta gefur til kynna að ekið sé inn á leið með óbrúuðum ám sem getur verið varhugaverð.",
+      "image": "https://files.reglugerd.is/files/0250-2024/144ccd3b-4b9e-400c-ba2b-3e2226c7bc7e.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "848.3 Snjór á vegi. Merki þetta gefur til kynna að ekið sé inn á leið þar sem vænta má ófærðar og er mögulega einungis fær stærri eða sérútbúnum jeppum og fjallabílum. Á leiðinni kunna að vera brattar brekkur og snjóskaflar.",
+      "image": "https://files.reglugerd.is/files/0250-2024/4bbe2690-e929-4898-8772-cebcc30903e6.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "848.5 Hált í bleytu. Merki þetta gefur til kynna aðstæður sem sérstaklega þarf að varast í rigningu og bleytu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/818df512-34cd-41de-b3ed-633ffd1686c3.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "850.1 Blindhæð. Merki þetta gefur til kynna að fram undan sé hæð sem takmarkar mjög vegsýn.",
+      "image": "https://files.reglugerd.is/files/0250-2024/e84b0bf5-a65c-4edb-848b-7c21b4f8d692.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "850.2 Blindhæð. Merki þetta gefur til kynna að fram undan sé hæð sem takmarkar mjög vegsýn.",
+      "image": "https://files.reglugerd.is/files/0250-2024/5e47325c-f755-4e40-9dc6-43f023936b3f.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "852 Slysasvæði. Merki þetta gefur til kynna að slys séu óvenju tíð á svæðinu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/5faa7b89-19d5-45c3-8ba2-10e87c3d1453.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "854.1 Einbreitt slitlag. Merki þetta gefur til kynna að bundið slitlag sé 5 metrar að breidd eða mjórra. Vegfarendur þurfa því að víkja út á malaröxl þegar mæst er.",
+      "image": "https://files.reglugerd.is/files/0250-2024/a0fe6617-c440-4e4e-92a1-73810dcd4d3d.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "854.2 Einbreið brú. Merki þetta gefur til kynna að fram undan sé einbreið brú.",
+      "image": "https://files.reglugerd.is/files/0250-2024/5f1aa686-5ecc-491e-bd5f-42fa9017a16b.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "854.3 Einbreið brú með þröngri akbraut. Merki þetta gefur til kynna að fram undan sé einbreið brú með akbraut mjórri en 3,05 m.",
+      "image": "https://files.reglugerd.is/files/0250-2024/18c90657-6206-43f5-b618-501783a27920.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "854.4 Einbreið jarðgöng. Merki þetta gefur til kynna að fram undan séu einbreið jarðgöng.",
+      "image": "https://files.reglugerd.is/files/0250-2024/cb510c33-e33b-4b69-8c21-d5a2cd52a0d9.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "860 Keðjunarstaður. Merki þetta gefur til kynna útskot við veg sem sérstaklega er ætlað fyrir ökumenn sem þurfa að setja á keðjur eða taka þær af.",
+      "image": "https://files.reglugerd.is/files/0250-2024/924d0eb5-b00d-43ec-9a0f-3bde4cc34959.jpg"
+    }
+  ]
+}

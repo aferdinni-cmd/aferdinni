@@ -1,0 +1,28 @@
+{
+  "cards": [
+    { "q": "Hver er örugg fjarlægð í bílinn fyrir framan?", "a": "Að minnsta kosti 3 sekúndur í góðu veðri. Auka á fjarlægðina í rigningu, myrkri og hálku." },
+    { "q": "Hvað þýðir þríhyrningsskilti?", "a": "Varúð: framundan er hætta eða breyting á aðstæðum." },
+    { "q": "Hvað þýðir hringskilti?", "a": "Bann, skylda eða takmörkun, til dæmis hámarkshraði." },
+    { "q": "Hvað á að gera við stoppskilti?", "a": "Stöðva alveg, athuga báðar áttir og halda svo af stað þegar það er öruggt." },
+    { "q": "Hvað er blindblettur?", "a": "Svæði sem speglarnir ná ekki yfir. Þess vegna þarf að líta yfir öxl áður en skipt er um akrein." },
+    { "q": "Í hvaða röð á að skoða áður en skipt er um akrein?", "a": "Spegill, svo yfir öxl, svo stefnuljós í tíma – og skiptu svo um akrein." },
+    { "q": "Hvað á að gera þegar farið er inn í hringtorg?", "a": "Hægja á, veita þeim sem þegar eru inni forgang og velja akrein snemma." },
+    { "q": "Hvenær á að gefa stefnuljós út úr hringtorgi?", "a": "Í tíma, áður en farið er út úr hringtorginu." },
+    { "q": "Hvernig er best að fara inn á hraðbraut?", "a": "Nota aðreinina til að auka hraðann og aðlagast umferðinni, líta í spegil og yfir öxl." },
+    { "q": "Á hvaða akrein á að vera á hraðbraut?", "a": "Í hægri akrein þegar ekki er verið að fara fram úr." },
+    { "q": "Hvað á að athuga áður en lagt er af stað?", "a": "Sæti, spegla, belti, ljós, þurrkur og að gluggarnir séu hreinir." },
+    { "q": "Má nota símann við akstur?", "a": "Ekki nema með handfrjálsum búnaði – jafnvel stutt innsláttur dregur athyglina frá veginum." },
+    { "q": "Hvað á að gera í myrkri?", "a": "Nota ljós, hafa gluggana hreina, aka hægar og horfa lengra fram." },
+    { "q": "Hvað á að gera á blautum eða hálum vegi?", "a": "Auka fjarlægð, draga úr hraða og bremsa mýkt og fyrr en venjulega." },
+    { "q": "Hvað er fyrirbyggjandi akstur?", "a": "Að sjá hættur fyrirfram, horfa langt fram, gera ráð fyrir mistökum annarra og hafa alltaf útgönguleið." },
+    { "q": "Hversu langt fram á að horfa?", "a": "Um 12–15 sekúndur fram á veginn." },
+    { "q": "Hver er algengur mistök í hringtorgi?", "a": "Of mikill hraði inn í hringtorgið og of seint ákvörðun um útgöngu." },
+    { "q": "Hvað er metið í ökuprófi?", "a": "Öruggur og stöðugur akstur, vík, hringtorg, hraðastýring, skilningur á skiltum og samskipti í umferðinni." },
+    { "q": "Hvað á að gera fyrir ökuprófið?", "a": "Fara yfir námsefnið og gátlistann, athuga bílinn, mæta í tíma með skjölin og hvíla sig vel." },
+    { "q": "Má keyra hraðar en hámarkshraði?", "a": "Nei. Hámarkshraði er þak, ekki markmið – hraðinn á alltaf að passa við aðstæður." },
+    { "q": "Hvað á að gera ef eitthvað óvænt kemur upp í bílnum?", "a": "Stöðva á öruggum stað áður en tekin er ákvörðun." },
+    { "q": "Hvað á að gera þegar bíll kemur úr hliðarvegi?", "a": "Gefa sér pláss og hafa útgönguleið ef hann virðir ekki forgang." },
+    { "q": "Hvað er gott að gera eftir hvern kennslutíma?", "a": "Fara yfir hvað gekk vel, hvað þarf að æfa betur og bóka næsta tíma." },
+    { "q": "Hvað er mikilvægt í samskiptum við aðra í umferðinni?", "a": "Skýr merki í tíma, tillitssemi og að gera ráð fyrir mistökum annarra." }
+  ]
+}

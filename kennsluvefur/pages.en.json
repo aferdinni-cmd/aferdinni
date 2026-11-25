@@ -1,0 +1,58 @@
+{
+  "sections": [
+    {
+      "title": "Road signs",
+      "pages": [
+        { "id": "100-vidvorunarmerki", "title": "100 – Warning signs", "type": "cards" },
+        { "id": "200-forgangsmerki", "title": "200 – Priority signs", "type": "cards" },
+        { "id": "300-bannmerki", "title": "300 – Prohibitory signs", "type": "cards" },
+        { "id": "400-bodmerki", "title": "400 – Mandatory signs", "type": "cards" },
+        { "id": "500-serreglumerki", "title": "500 – Special regulation signs", "type": "cards" },
+        { "id": "600-upplysingamerki", "title": "600 – Information signs", "type": "cards" },
+        { "id": "700-vegvisar", "title": "700 – Direction and service signs", "type": "cards" },
+        { "id": "800-undirmerki", "title": "800 – Supplementary plates", "type": "cards" },
+        { "id": "900-onnur-merki", "title": "900 – Other signs", "type": "cards" }
+      ]
+    },
+    {
+      "title": "B-licence preparation questions",
+      "pages": [
+        { "id": "b-rettindi", "title": "B-licence preparation questions", "type": "cards" }
+      ]
+    },
+    {
+      "title": "Preparation for the oral test",
+      "pages": [
+        { "id": "munnlegt-prof", "title": "Preparation for the oral test", "type": "cards" }
+      ]
+    },
+    {
+      "title": "Miscellaneous questions",
+      "pages": [
+        { "id": "ymsar-spurningar", "title": "Miscellaneous questions", "type": "cards" }
+      ]
+    },
+    {
+      "title": "Assignments",
+      "pages": [
+        { "id": "verkefni", "title": "Exam preparation assignments", "type": "cards" }
+      ]
+    },
+    {
+      "title": "Videos",
+      "pages": [
+        { "id": "myndbond", "title": "Videos", "type": "videos" }
+      ]
+    },
+    {
+      "title": "Sources",
+      "pages": [
+        { "id": "heimildir", "title": "Sources", "type": "sources" }
+      ]
+    },
+    {
+      "title": "Course material in chapters",
+      "source": "chapters"
+    }
+  ]
+}

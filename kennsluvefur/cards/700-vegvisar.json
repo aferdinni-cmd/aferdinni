@@ -1,0 +1,464 @@
+{
+  "cards": [
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "701.1 Töfluleiðamerki. Merki þetta sýnir leiðaval við vegamót sem eru fram undan, áður en komið er að vegamótum.",
+      "image": "https://files.reglugerd.is/files/0250-2024/60f2cbcc-7ad7-4211-963a-cff02b13eb3e.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "701.2 Töfluleiðamerki. Merki þetta sýnir leiðaval við vegamót sem eru fram undan, áður en komið er að vegamótum.",
+      "image": "https://files.reglugerd.is/files/0250-2024/88f96f66-5aa9-4e08-be03-0b231b1737b3.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "701.3 Töfluleiðamerki. Merki þetta sýnir leiðaval við vegamót sem eru fram undan, áður en komið er að vegamótum.",
+      "image": "https://files.reglugerd.is/files/0250-2024/fa59c3ef-f719-41b6-a02b-dbb1c50593f2.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "701.4 Töfluleiðamerki. Merki þetta sýnir leiðaval við vegamót sem eru fram undan, áður en komið er að vegamótum.",
+      "image": "https://files.reglugerd.is/files/0250-2024/bbca20d0-5c27-402a-b75a-fd1d6f4dde03.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "703.1 Staðarleiðatafla. Merki þetta sýnir einfaldaða mynd af leiðavali við vegamót sem eru fram undan, áður en komið er að vegamótum.",
+      "image": "https://files.reglugerd.is/files/0250-2024/b65a89db-08ca-4094-ad3a-3f3f765b39df.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "703.2 Staðarleiðatafla. Merki þetta sýnir einfaldaða mynd af leiðavali við vegamót sem eru fram undan, áður en komið er að vegamótum.",
+      "image": "https://files.reglugerd.is/files/0250-2024/9d4cf864-e8dc-4e84-9c95-e767c0afeb25.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "703.3 Staðarleiðatafla. Merki þetta sýnir einfaldaða mynd af leiðavali við vegamót sem eru fram undan, áður en komið er að vegamótum.",
+      "image": "https://files.reglugerd.is/files/0250-2024/5f5292b3-c1e5-4ad8-928c-b772da7767d5.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "707 Akreinaleiðatafla. Merki þetta sýnir einfaldaða mynd af vegamótum sem eru fram undan, áður en komið er að vegamótum, til leiðbeiningar um akreinaval fyrir ökumenn.",
+      "image": "https://files.reglugerd.is/files/0250-2024/3eb6f280-1ae4-4fc4-8d02-58fd07f7d383.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "709 fyrra Akreinaleiðatafla. Merki þetta sýnir einfaldaða mynd af vegamótum sem eru fram undan, áður en komið er að vegamótum, til leiðbeiningar um akreinaval fyrir ökumenn.",
+      "image": "https://files.reglugerd.is/files/0250-2024/8b99fc2b-2b00-46eb-b33b-f97fa01c2323.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "709 seinna Akreinaleiðatafla. Merki þetta sýnir einfaldaða mynd af vegamótum sem eru fram undan, áður en komið er að vegamótum, til leiðbeiningar um akreinaval fyrir ökumenn.",
+      "image": "https://files.reglugerd.is/files/0250-2024/acae8271-8074-4e60-ae09-7d41227c2c2f.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "711.1 Töfluvegvísir. Merki þetta vísar á áfangastaði í hverri akstursstefnu og stendur á eða við vegamót, einkum þar sem akreinar eru fleiri en ein.",
+      "image": "https://files.reglugerd.is/files/0250-2024/46ae627e-9dfb-417e-b470-5eb91cbaa2a3.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "711.2 Töfluvegvísir. Merki þetta vísar á áfangastaði í hverri akstursstefnu og stendur á eða við vegamót, einkum þar sem akreinar eru fleiri en ein.",
+      "image": "https://files.reglugerd.is/files/0250-2024/959880c0-8415-4626-abd1-c6b1c7389c39.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "711.3 Töfluvegvísir. Merki þetta vísar á áfangastaði í hverri akstursstefnu og stendur á eða við vegamót, einkum þar sem akreinar eru fleiri en ein.",
+      "image": "https://files.reglugerd.is/files/0250-2024/b23fc7d6-ff78-4612-8b7b-47aebc979b8e.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "711.4 Töfluvegvísir. Merki þetta vísar á áfangastaði í hverri akstursstefnu og stendur á eða við vegamót, einkum þar sem akreinar eru fleiri en ein.",
+      "image": "https://files.reglugerd.is/files/0250-2024/a7a313e7-5fb5-4992-a94b-13517d2a7eab.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "712.1 Töfluvegvísir fyrir hringtorg. Merki þetta vísar á áfangastaði í hverri akstursstefnu og stendur á eða við hringtorg, einkum þar sem akreinar eru fleiri en ein. Mælikvarði 1:40.",
+      "image": "https://files.reglugerd.is/files/0250-2024/1cc52739-8b90-4e7b-a427-3fa5a56fdc2d.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "712.2 Töfluvegvísir fyrir hringtorg. Merki þetta vísar á áfangastaði í hverri akstursstefnu og stendur á eða við hringtorg, einkum þar sem akreinar eru fleiri en ein. Mælikvarði 1:40.",
+      "image": "https://files.reglugerd.is/files/0250-2024/f613790c-630b-444e-b749-a24caa37d35e.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "713.1 fyrra Vegvísir. Merki þetta vísar á áfangastað í þá stefnu sem merkið vísar og stendur við vegamót. Lárétt lína í stað staðarheitis og vegalengdar táknar að vegnúmer teljist næg vegvísun.",
+      "image": "https://files.reglugerd.is/files/0250-2024/6802df63-c021-4702-93c4-3096ba4a7c87.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "713.1 seinna Vegvísir. Merki þetta vísar á áfangastað í þá stefnu sem merkið vísar og stendur við vegamót. Lárétt lína í stað staðarheitis og vegalengdar táknar að vegnúmer teljist næg vegvísun.",
+      "image": "https://files.reglugerd.is/files/0250-2024/99752b98-1d75-4ce6-8a2e-53f5cf07f536.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "713.2 Vegvísir. Merki þetta vísar á áfangastað í þá stefnu sem merkið vísar og stendur við vegamót. Lárétt lína í stað staðarheitis og vegalengdar táknar að vegnúmer teljist næg vegvísun.",
+      "image": "https://files.reglugerd.is/files/0250-2024/1da8aee1-e824-4195-9237-88eb2c7a38dd.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "713.3 Vegvísir. Merki þetta vísar á áfangastað í þá stefnu sem merkið vísar og stendur við vegamót. Lárétt lína í stað staðarheitis og vegalengdar táknar að vegnúmer teljist næg vegvísun.",
+      "image": "https://files.reglugerd.is/files/0250-2024/cd6a7025-4573-4c54-988a-8f659195fafd.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "713.5 Vegvísir. Merki þetta vísar á áfangastað í þá stefnu sem merkið vísar og stendur við vegamót. Lárétt lína í stað staðarheitis og vegalengdar táknar að vegnúmer teljist næg vegvísun.",
+      "image": "https://files.reglugerd.is/files/0250-2024/977cb819-94c3-458b-8bc4-cbbfea4a2ced.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "713.6 Vegvísir. Merki þetta vísar á áfangastað í þá stefnu sem merkið vísar og stendur við vegamót. Lárétt lína í stað staðarheitis og vegalengdar táknar að vegnúmer teljist næg vegvísun.",
+      "image": "https://files.reglugerd.is/files/0250-2024/ca64fa9f-3c3b-4294-ba59-0f07d1cfffa1.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "714.2 Staðarvísir. Merki þetta vísar á tiltekinn stað, svo sem býli og stendur við vegamót.",
+      "image": "https://files.reglugerd.is/files/0250-2024/a1f7a915-f928-4b56-b572-0670f3d7180a.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "714.5 Staðarvísir. Merki þetta vísar á tiltekinn stað, svo sem býli og stendur við vegamót.",
+      "image": "https://files.reglugerd.is/files/0250-2024/d84f1b71-cddf-43ca-8301-050911c0766f.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "715.1 Fráreinavísir. Merki þetta stendur við upphaf fráreinar og vísar á stað sem fráreinin leiðir til.",
+      "image": "https://files.reglugerd.is/files/0250-2024/1a946dcd-5cc7-409d-b42e-75b8276dbb53.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "715.2 Fráreinavísir. Merki þetta stendur við upphaf fráreinar og vísar á stað sem fráreinin leiðir til.",
+      "image": "https://files.reglugerd.is/files/0250-2024/27b00008-c2fb-439e-aa80-1c1699f0bf0c.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "717 Staðarleiðarvísir. Merki þetta gefur til kynna stað og þjónustu sem er fram undan, áður en að honum er komið.",
+      "image": "https://files.reglugerd.is/files/0250-2024/aa292d77-ab2e-47ae-b7e0-4481a7ae8893.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "723.00 Ónúmeraður vegur. Merkið gefur til kynna að vegur sé án vegnúmers og ekki í umsjón Vegagerðarinnar.",
+      "image": "https://files.reglugerd.is/files/0250-2024/e647050c-4394-4113-a3c8-b08127948d64.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "723.13 Vegnúmer. Merkið gefur til kynna númer vegar. Á hvítum vegvísum er tákn vegnúmers haft gult.",
+      "image": "https://files.reglugerd.is/files/0250-2024/b364c2c1-d3e6-4153-a6bc-427f47c9b14a.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "723.14 Vegnúmer, leið að vegi. Merkið gefur til kynna að vegur liggi að öðrum vegi með tilgreindu númeri.",
+      "image": "https://files.reglugerd.is/files/0250-2024/7bc99ee5-df38-457f-8c23-1204cdd78826.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "723.41 Ferðamannastaður með Vörðu. Merkið gefur til kynna áhugaverðan áfangastað ferðamanna sem uppfyllir viðmið Vörðu sem ráðuneyti ferðamála setur.",
+      "image": "https://files.reglugerd.is/files/0250-2024/9d48d79b-6da8-4e02-a127-f5679ddcc2db.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "723.42 Staður á heimsminjaskrá Sameinuðu þjóðanna. Merki þetta gefur til kynna áfangastað sem er á heimsminjaskrá Sameinuðu þjóðanna.",
+      "image": "https://files.reglugerd.is/files/0250-2024/cb8b6e67-baac-4e0c-a1af-5907627e15fc.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "723.51 Eyðibýli. Merkið gefur til kynna að vegvísir með tákninu vísi á eyðibýli.",
+      "image": "https://files.reglugerd.is/files/0250-2024/56e47c53-bdfc-4a68-ae19-1b798fe8d11f.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "723.61 Jarðgöng. Merkið gefur til kynna að vegvísir með tákninu vísi á jarðgöng.",
+      "image": "https://files.reglugerd.is/files/0250-2024/3f2271c9-6741-46c7-a2f6-bca092cea64b.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "725.2 Fjarlægðartafla. Merki þetta gefur til kynna fjarlægðir til áfangastaða.",
+      "image": "https://files.reglugerd.is/files/0250-2024/c6587289-f9ec-47bb-b1f2-29608484ff95.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "725.3 Fjarlægðartafla. Merki þetta gefur til kynna fjarlægðir til áfangastaða.",
+      "image": "https://files.reglugerd.is/files/0250-2024/2a6bc4a6-1a55-4fb7-b502-a13a515ed277.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "727.1 Sveitarfélagsmerki. Merki þetta gefur til kynna að farið sé yfir stjórnsýslumörk. Á merkinu eru nafn og táknmynd viðkomandi sveitarfélags.",
+      "image": "https://files.reglugerd.is/files/0250-2024/43a942ca-dc75-42cb-9114-5e22da4e70c4.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "727.2 Sveitarfélagsmerki. Merki þetta gefur til kynna að farið sé yfir stjórnsýslumörk. Á merkinu eru nafn og táknmynd viðkomandi sveitarfélags.",
+      "image": "https://files.reglugerd.is/files/0250-2024/bbd7c80e-c2a3-4dea-a62f-2e37f328054e.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "728.31 Staðartafla. Merki þetta gefur til kynna áhugaverðan áfangastað. Staðartafla getur einnig gefið til kynna afmörkun svæðis t.d. aðkomu inn í friðland eða þjóðgarð. Uppfylli áfangastaður ferðamanna viðmið Vörðu sem ráðuneyti ferðamála setur er skiltið haft í brúnum lit.",
+      "image": "https://files.reglugerd.is/files/0250-2024/fad9b0f3-72b5-4d94-91f4-79bb07e9def8.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "728.32 Staðartafla. Merki þetta gefur til kynna áhugaverðan áfangastað. Staðartafla getur einnig gefið til kynna afmörkun svæðis t.d. aðkomu inn í friðland eða þjóðgarð. Uppfylli áfangastaður ferðamanna viðmið Vörðu sem ráðuneyti ferðamála setur er skiltið haft í brúnum lit.",
+      "image": "https://files.reglugerd.is/files/0250-2024/f410871b-9835-45ce-9c58-44755af617ee.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "728.41 Staðartafla. Merki þetta gefur til kynna áhugaverðan áfangastað. Staðartafla getur einnig gefið til kynna afmörkun svæðis t.d. aðkomu inn í friðland eða þjóðgarð. Uppfylli áfangastaður ferðamanna viðmið Vörðu sem ráðuneyti ferðamála setur er skiltið haft í brúnum lit.",
+      "image": "https://files.reglugerd.is/files/0250-2024/1626b0d8-a07f-4886-9e94-b90f10888318.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "728.42 Staðartafla. Merki þetta gefur til kynna áhugaverðan áfangastað. Staðartafla getur einnig gefið til kynna afmörkun svæðis t.d. aðkomu inn í friðland eða þjóðgarð. Uppfylli áfangastaður ferðamanna viðmið Vörðu sem ráðuneyti ferðamála setur er skiltið haft í brúnum lit.",
+      "image": "https://files.reglugerd.is/files/0250-2024/0b44a4fa-8edd-47fd-adcb-61d57ef1bad9.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "728.6 fyrra Þjóðgarður eða friðland endar. Merki þetta gefur til kynna að farið sé út fyrir mörk þjóðgarðs eða friðlands.",
+      "image": "https://files.reglugerd.is/files/0250-2024/8f5da638-a9f9-4ce6-9f3b-f588444a6482.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "728.6 seinna Þjóðgarður eða friðland endar. Merki þetta gefur til kynna að farið sé út fyrir mörk þjóðgarðs eða friðlands.",
+      "image": "https://files.reglugerd.is/files/0250-2024/1ab77b8b-5e88-4aa1-8a32-d427f268c9d7.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "729.1 Þjóðgarður eða friðland endar. Merki þetta gefur til kynna að farið sé út fyrir mörk þjóðgarðs eða friðlands.",
+      "image": "https://files.reglugerd.is/files/0250-2024/4437a075-faf5-4a13-af71-f1d87e591916.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "729.2 Staðarmerki. Merki þetta tilgreinir heiti staðar, örnefni o.þ.h.",
+      "image": "https://files.reglugerd.is/files/0250-2024/9d497bf2-baba-4f2e-b0c4-c8d03ef2aa9d.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "729.3 Húsnúmer. Merki þetta tilgreinir númer þeirra húsa sem standa við götu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/22da89d8-4d82-43bb-a104-0b8da60708bc.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "751 Vegvísir fyrir hjólastíga. Merki þetta gefur til kynna stígamót og vísar á hjólaleið sem er merkt með númeri eða lit.",
+      "image": "https://files.reglugerd.is/files/0250-2024/ba9fb769-64e6-4739-b59d-bce292cc2aee.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "753 Töfluvegvísir fyrir hjólastíga. Merki þetta stendur á eða við stígamót og gefur til kynna áfangastaði hjólaleiða í hverri akstursstefnu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/90e05937-b370-4fed-92bd-020003047614.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "755 Leiðamerki fyrir hjólastíga. Merki þetta gefur til kynna númer eða lit hjólaleiðar og er til að upplýsa vegfarendur um á hvaða leið þeir eru.",
+      "image": "https://files.reglugerd.is/files/0250-2024/92934a0c-ed05-4b01-ac36-c5700a986383.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "760.1 Þjónustumerki neyðarþjónustu. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á neyðarþjónustu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/2aaab7ae-9535-486e-8aad-41eaea0dcd29.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "760.2 Þjónustumerki neyðarþjónustu. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á neyðarþjónustu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/7cebb2e1-160d-4d84-a4d1-c27fa3093e26.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "760.3 Þjónustumerki neyðarþjónustu. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á neyðarþjónustu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/421007df-125e-42c6-9b75-92fc17aab265.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "760.4 Þjónustumerki neyðarþjónustu. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á neyðarþjónustu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/fd25bd78-db47-4003-8d4f-09a0b4651665.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "760.5 Þjónustumerki neyðarþjónustu. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á neyðarþjónustu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/9a415a27-33bc-451f-b303-7c69e13b4c67.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "760.6 Þjónustumerki neyðarþjónustu. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á neyðarþjónustu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/b1f84d65-1853-416b-8bd1-106759ef4653.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "760.7 Þjónustumerki neyðarþjónustu. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á neyðarþjónustu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/16519991-456e-4afc-8895-47eaec76e25a.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "762.1 Þjónustumerki umferðar og samgangna. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á samgöngutengda þjónustu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/e514f8e7-fe73-40e1-b4de-9aa2114e410f.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "762.2 Þjónustumerki umferðar og samgangna. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á samgöngutengda þjónustu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/12592d93-610c-4a69-92cc-40041b3a3ad9.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "762.3 Þjónustumerki umferðar og samgangna. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á samgöngutengda þjónustu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/8ed0e166-fa02-446e-a3d1-03965267f772.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "762.4 Þjónustumerki umferðar og samgangna. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á samgöngutengda þjónustu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/ce712917-be2e-489c-8e56-334b879fc19b.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "762.5 Þjónustumerki umferðar og samgangna. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á samgöngutengda þjónustu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/c8efb8a6-4e27-4f47-97ad-e07ac699deef.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "762.6 Þjónustumerki umferðar og samgangna. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á samgöngutengda þjónustu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/1fccb682-e8ed-445c-8da3-a0ef53ba5c98.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "762.7 Þjónustumerki umferðar og samgangna. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á samgöngutengda þjónustu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/377093bd-f9a3-44d8-b45b-a8c663f3af95.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "762.8 Þjónustumerki umferðar og samgangna. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á samgöngutengda þjónustu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/c0514689-5b7a-45f3-881e-8e01d20c56cc.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "762.9 Þjónustumerki umferðar og samgangna. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á samgöngutengda þjónustu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/77d97455-40da-46c5-82c3-e0b1a0362a94.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "762.10 Þjónustumerki umferðar og samgangna. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á samgöngutengda þjónustu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/1cd90111-09ab-4af4-be9f-1203dec947e7.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "762.11 Þjónustumerki umferðar og samgangna. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á samgöngutengda þjónustu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/b0197d9f-27ec-47c4-bc59-4d697e26dc35.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "764.1 Þjónustumerki fyrir upplýsingar og áhugaverða staði. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á upplýsingar, áhugaverða staði, áningarstaði og útsýnisstaði.",
+      "image": "https://files.reglugerd.is/files/0250-2024/08bbbada-e74b-48bf-aaf9-3c5901eb9e8b.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "764.2 Þjónustumerki fyrir upplýsingar og áhugaverða staði. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á upplýsingar, áhugaverða staði, áningarstaði og útsýnisstaði.",
+      "image": "https://files.reglugerd.is/files/0250-2024/e3f5c8f1-3817-42b0-b54e-4104f095b79d.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "764.3 Þjónustumerki fyrir upplýsingar og áhugaverða staði. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á upplýsingar, áhugaverða staði, áningarstaði og útsýnisstaði.",
+      "image": "https://files.reglugerd.is/files/0250-2024/ca97b8af-9f50-455e-8419-93a71cb2f1d9.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "764.4 Þjónustumerki fyrir upplýsingar og áhugaverða staði. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á upplýsingar, áhugaverða staði, áningarstaði og útsýnisstaði.",
+      "image": "https://files.reglugerd.is/files/0250-2024/32761128-2589-4d4d-8115-4e0662f8b75e.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "764.5 Þjónustumerki fyrir upplýsingar og áhugaverða staði. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á upplýsingar, áhugaverða staði, áningarstaði og útsýnisstaði.",
+      "image": "https://files.reglugerd.is/files/0250-2024/a9a51068-a912-4a08-b12c-9976cc7891c8.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "764.6 Þjónustumerki fyrir upplýsingar og áhugaverða staði. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á upplýsingar, áhugaverða staði, áningarstaði og útsýnisstaði.",
+      "image": "https://files.reglugerd.is/files/0250-2024/9d388ba7-b80c-49a2-a154-7142dcbf6a22.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "764.7 Þjónustumerki fyrir upplýsingar og áhugaverða staði. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á upplýsingar, áhugaverða staði, áningarstaði og útsýnisstaði.",
+      "image": "https://files.reglugerd.is/files/0250-2024/a6beaeb8-e863-41bd-9681-9efc0990d0e6.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "766.1 Þjónustumerki gistiþjónustu. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á þjónustu tengda gistingu og gistiaðstöðu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/473423a0-2b97-4de7-a0c9-be3d47ca268a.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "766.2 Þjónustumerki gistiþjónustu. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á þjónustu tengda gistingu og gistiaðstöðu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/9577c5cd-2070-4ecf-91ec-a9f8580546d5.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "766.3 Þjónustumerki gistiþjónustu. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á þjónustu tengda gistingu og gistiaðstöðu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/97737a44-ade5-427a-87dd-8a76122cbfe6.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "766.4 Þjónustumerki gistiþjónustu. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á þjónustu tengda gistingu og gistiaðstöðu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/60a52c81-9ef2-4aac-ae4b-5f2a64a42e12.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "766.5 Þjónustumerki gistiþjónustu. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á þjónustu tengda gistingu og gistiaðstöðu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/c885da2f-860c-4ef6-a44c-a011296f8033.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "768.11 Þjónustumerki annarrar þjónustu. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á aðra nauðsynlega þjónustu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/4becc149-f55b-4118-bb6b-5740e7948c64.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "768.12 Þjónustumerki annarrar þjónustu. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á aðra nauðsynlega þjónustu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/19006edc-97c6-4a21-8d24-48185ced1031.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "768.13 Þjónustumerki annarrar þjónustu. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á aðra nauðsynlega þjónustu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/f59063ae-207d-4bdd-a796-521fddee8d3c.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "768.21 Þjónustumerki annarrar þjónustu. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á aðra nauðsynlega þjónustu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/fb80dfd6-3b0d-431d-b741-f0b60d0fd514.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "768.31 Þjónustumerki annarrar þjónustu. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á aðra nauðsynlega þjónustu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/fd188b04-676a-4558-8b3b-f96e9af95a71.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "768.32 Þjónustumerki annarrar þjónustu. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á aðra nauðsynlega þjónustu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/d73f82d2-914b-4a23-ae64-8a63b6c78d76.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "768.33 Þjónustumerki annarrar þjónustu. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á aðra nauðsynlega þjónustu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/425b30e5-7d30-4f77-8c4a-2bbdd0344be9.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "768.34 Þjónustumerki annarrar þjónustu. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á aðra nauðsynlega þjónustu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/327998d5-8493-40df-a8ea-8168be8ace8e.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "768.35 Þjónustumerki annarrar þjónustu. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á aðra nauðsynlega þjónustu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/5825d2cf-b083-4b12-b529-22c913bc169f.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "768.41 Þjónustumerki annarrar þjónustu. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á aðra nauðsynlega þjónustu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/52478ef9-5353-4ad1-b1c9-ca8421da5cfa.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "768.42 Þjónustumerki annarrar þjónustu. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á aðra nauðsynlega þjónustu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/28c8cbcc-4d1a-4348-8428-1d38be0a379d.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "768.51 Þjónustumerki annarrar þjónustu. Merki þessi eru notuð ein og sér eða með öðrum vegvísum til að vísa á aðra nauðsynlega þjónustu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/e073aa3a-e464-4fe9-a263-22044390949d.jpg"
+    }
+  ]
+}

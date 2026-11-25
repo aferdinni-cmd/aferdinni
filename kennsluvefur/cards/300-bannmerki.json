@@ -1,0 +1,184 @@
+{
+  "cards": [
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "302 Innakstur bannaður. Merki þetta gefur til kynna að akstur allra ökutækja inn á veg, þ. á m. reiðhjóla og léttra bifhjóla, sé bannaður.",
+      "image": "https://files.reglugerd.is/files/0250-2024/1b0d922d-63e8-4c28-9640-3da104d7c48b.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "306.0 Allur akstur bannaður. Merki þetta gefur til kynna að akstur allra ökutækja, þ. á m. reiðhjóla og léttra bifhjóla, sé bannaður í báðar akstursáttir. Gangandi vegfarendum er heimilt að teyma reiðhjól.",
+      "image": "https://files.reglugerd.is/files/0250-2024/51415f34-e95d-4cbf-b2b8-c4e005458a86.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "306.1 Akstur vélknúinna ökutækja bannaður. Merki þetta gefur til kynna að akstur vélknúinna ökutækja sé bannaður.",
+      "image": "https://files.reglugerd.is/files/0250-2024/646f908e-0991-4c63-815e-d5e53ef3c071.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "306.2 Akstur vélknúinna ökutækja, annarra en tvíhjóla, bannaður. Merki þetta gefur til kynna að akstur vélknúinna ökutækja, annarra en tvíhjóla, sé bannaður.",
+      "image": "https://files.reglugerd.is/files/0250-2024/f9a022d7-e55b-4963-b40f-b3007d2305a3.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "306.3 Akstur dráttarvéla, torfærutækja á hjólum og vinnuvéla bannaður. Merki þetta gefur til kynna að akstur dráttarvéla, torfærutækja á hjólum og vinnuvéla sé bannaður.",
+      "image": "https://files.reglugerd.is/files/0250-2024/8fb14d06-045c-4f6a-b983-bc7a71d0f224.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "306.41 Akstur léttra bifhjóla bannaður. Merki þetta gefur til kynna að akstur léttra bifhjóla sé bannaður.",
+      "image": "https://files.reglugerd.is/files/0250-2024/dde007ec-14a0-42cc-8f6e-0304e6a7afc2.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "306.42 Akstur bifhjóla bannaður. Merki þetta gefur til kynna að akstur bifhjóla sé bannaður.",
+      "image": "https://files.reglugerd.is/files/0250-2024/e48bc347-3abf-49e8-a69d-79d87b30a7f7.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "306.43 Akstur torfærutækja á beltum (vélsleða) bannaður. Merki þetta gefur til kynna að akstur torfærutækja á beltum, þ. á m. vélsleða, sé bannaður.",
+      "image": "https://files.reglugerd.is/files/0250-2024/0bac27b1-46cd-4da7-8a32-c807d8ba3b47.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "306.5 Akstur vörubifreiða bannaður. Merki þetta gefur til kynna að akstur vörubifreiða sé bannaður.",
+      "image": "https://files.reglugerd.is/files/0250-2024/be6d9943-8b79-4505-85d5-c0efeced963a.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "306.6 Hjólreiðar bannaðar. Merki þetta gefur til kynna að hjólreiðar séu bannaðar.",
+      "image": "https://files.reglugerd.is/files/0250-2024/b5e8dd47-a934-4c50-8b99-07c5aa573a3f.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "306.7 Umferð gangandi vegfarenda bönnuð. Merki þetta gefur til kynna að umferð gangandi vegfarenda sé bönnuð.",
+      "image": "https://files.reglugerd.is/files/0250-2024/e7222d02-641a-4e53-9f6b-29108e32b00a.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "306.8 Umferð gangandi vegfarenda og hjólreiðar bannaðar. Merki þetta gefur til kynna að umferð gangandi vegfarenda og hjólreiðar séu bannaðar.",
+      "image": "https://files.reglugerd.is/files/0250-2024/eb9281a8-c07c-44c8-824e-e542669b4942.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "306.9 Umferð reiðmanna og rekstur hrossa bannaður. Merki þetta gefur til kynna að umferð reiðmanna og rekstur hrossa sé bannaður.",
+      "image": "https://files.reglugerd.is/files/0250-2024/6329c16e-aeb7-460c-9061-9a60a3c77e74.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "306.10 Akstur hópbifreiða bannaður. Merki þetta gefur til kynna að akstur hópbifreiða sé bannaður.",
+      "image": "https://files.reglugerd.is/files/0250-2024/aeec810f-c1cb-4e2f-99fa-057aa1fa37ba.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "308 Akstur ökutækja með hættulegan farm bannaður. Merki þetta gefur til kynna að akstur ökutækja með hættulegan farm, svo sem sprengiefni, bensín eða annað eldsneyti, sé bannaður.",
+      "image": "https://files.reglugerd.is/files/0250-2024/81702e35-7abe-424c-9547-031b6bb0c87e.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "309 Akstur ökutækja með vatnsspillandi farm bannaður. Merki þetta gefur til kynna að akstur ökutækja með vatnsspillandi farm sé bannaður.",
+      "image": "https://files.reglugerd.is/files/0250-2024/707a33c4-0b77-4cf4-9f4b-a4c45d70f9e4.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "312 Takmörkuð breidd ökutækja. Merki þetta gefur til kynna mestu leyfilegu breidd ökutækja, hvort heldur með eða án farms, í metrum með einum aukastaf.",
+      "image": "https://files.reglugerd.is/files/0250-2024/e0f9bb82-972a-47f4-ad53-f9c3fb1c7738.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "314 Takmörkuð hæð ökutækja. Merki þetta gefur til kynna mestu leyfilegu hæð ökutækja, hvort heldur með eða án farms, í metrum með einum aukastaf.",
+      "image": "https://files.reglugerd.is/files/0250-2024/33bb72e1-0c31-4f06-b15e-9c5033f1b3be.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "315 Minnsta bil milli vélknúinna ökutækja. Merki þetta gefur til kynna minnsta leyfilega bil milli vélknúinna ökutækja sem ferðast í sömu átt, í heilum metrum.",
+      "image": "https://files.reglugerd.is/files/0250-2024/2a1e0623-29b1-4e78-a5c5-bcfb2f77cb40.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "316 Takmörkuð lengd ökutækja. Merki þetta gefur til kynna mestu leyfilegu lengd ökutækja, þ.m.t. samtengdra ökutækja, hvort heldur með eða án farms, í heilum metrum.",
+      "image": "https://files.reglugerd.is/files/0250-2024/6ab2baf3-1a0e-4958-874b-577d9a89299a.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "318.1 Takmörkuð heildarþyngd ökutækja. Merki þetta gefur til kynna mestu leyfilegu heildarþyngd ökutækja, í heilum tonnum. Takmörkunin gildir um hvert ökutæki samtengdra ökutækja.",
+      "image": "https://files.reglugerd.is/files/0250-2024/66d1223a-fff9-4b8a-876f-eebae40f2ac9.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "318.2 Takmörkuð heildarþyngd samtengdra ökutækja. Merki þetta gefur til kynna mestu leyfilegu heildarþyngd samtengdra ökutækja, í heilum tonnum. Takmörkunin gildir einnig um stök ökutæki.",
+      "image": "https://files.reglugerd.is/files/0250-2024/c0cf7dcb-1f27-4a92-8e60-25fbb71632e0.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "320 Takmarkaður ásþungi. Merki þetta gefur til kynna mesta leyfilega þunga á ás með fjórum hjólum. Þyngd á ás með tveimur hjólum og þyngd á tví- og þríás skal vera í samræmi við reglur um þyngd ökutækja.",
+      "image": "https://files.reglugerd.is/files/0250-2024/4a5f593c-3a32-40b1-918c-fcba80e670b7.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "324 Sérstök stöðvunarskylda. Merki þetta gefur til kynna að stöðva skuli ökutæki við merkið eða stöðvunarlínu, annars staðar en við vegamót. Ástæða stöðvunarskyldunnar er letruð á neðri helming merkisins.",
+      "image": "https://files.reglugerd.is/files/0250-2024/e33be98e-4d37-426d-9dbb-86d404c63ba7.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "330.1 Beygja bönnuð. Merki þetta gefur til kynna að óheimilt sé að beygja í þá átt sem tilgreind er á merkinu á vegamótum eða við sambærilegar aðstæður, þ. á m. að óheimilt sé að snúa ökutæki við.",
+      "image": "https://files.reglugerd.is/files/0250-2024/d8341966-783e-46cf-b5e0-974e6ad395ee.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "330.2 Beygja bönnuð. Merki þetta gefur til kynna að óheimilt sé að beygja í þá átt sem tilgreind er á merkinu á vegamótum eða við sambærilegar aðstæður, þ. á m. að óheimilt sé að snúa ökutæki við.",
+      "image": "https://files.reglugerd.is/files/0250-2024/18a48f0d-c149-4fe5-bcad-e0cc119bdde8.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "332 U-beygja bönnuð. Merki þetta gefur til kynna að óheimilt sé að snúa ökutæki við á vegamótum eða við sambærilegar aðstæður.",
+      "image": "https://files.reglugerd.is/files/0250-2024/f6170f36-6d67-4364-bd87-906b104236e1.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "334 Framúrakstur bannaður. Merki þetta gefur til kynna að óheimilt sé að aka fram úr vélknúnum ökutækjum öðrum en tvíhjóla.",
+      "image": "https://files.reglugerd.is/files/0250-2024/ccfffd2b-00a0-416e-ab45-bc5f2dbd7e46.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "335 Framúrakstur vörubifreiða bannaður. Merki þetta gefur til kynna að vörubifreiðum, þ.m.t. samtengdum ökutækjum, með meiri leyfðri heildarþyngd en 3.500 kg sé óheimilt að aka fram úr vélknúnum ökutækjum öðrum en tvíhjóla.",
+      "image": "https://files.reglugerd.is/files/0250-2024/b56122eb-c87c-4744-817e-98d4df511ee3.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "336 Bann við framúrakstri afnumið. Merki þetta gefur til kynna að bann við framúrakstri sé afnumið.",
+      "image": "https://files.reglugerd.is/files/0250-2024/1de6b5fb-8b35-4ad1-8f2d-c899c38f147a.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "337 Bann við framúrakstri vörubifreiða afnumið. Merki þetta gefur til kynna að bann við framúrakstri vörubifreiða sé afnumið.",
+      "image": "https://files.reglugerd.is/files/0250-2024/a891dd1e-11ef-4f3f-81f0-7646b4149c5f.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "362 Sérstök takmörkun hámarkshraða. Merki þetta gefur til kynna hæsta leyfilega hraða ökutækis, hámarkshraða, í kílómetrum á klukkustund.",
+      "image": "https://files.reglugerd.is/files/0250-2024/f55c856b-bf2d-45fc-a87d-09f88312bfac.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "364 Sérstök takmörkun hámarkshraða afnumin. Merki þetta gefur til kynna að sérstök takmörkun hámarkshraða sé afnumin. Þar með tekur gildi almenn takmörkun hámarkshraða á svæðinu.",
+      "image": "https://files.reglugerd.is/files/0250-2024/0de2f00d-b7b7-46a9-91eb-1ec7999dd78b.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "370 Bannað að stöðva ökutæki. Merki þetta gefur til kynna að bannað sé að stöðva ökutæki, enda sé stöðvun eigi nauðsynleg vegna annarrar umferðar, þeim megin vegar sem merkið stendur, frá merkinu og að næstu vegamótum nema annað sé tekið fram á undirmerki. Ef bifreiðastæði er merkt eða afmarkað er heimilt að leggja í það en bannið gildir áfram að því loknu. Nánari lýsing á takmörkun kemur fram á undirmerki.",
+      "image": "https://files.reglugerd.is/files/0250-2024/4a4f73dc-1a8b-4e2b-8d59-60302d50616f.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "372 Bannað að leggja ökutæki. Merki þetta gefur til kynna að bannað sé að leggja ökutæki þeim megin vegar sem merkið stendur, frá merkinu og að næstu vegamótum nema annað sé tekið fram á undirmerki. Ef bifreiðastæði er merkt eða afmarkað er heimilt að leggja í það en bannið gildir áfram að því loknu. Nánari lýsing á takmörkun kemur fram á undirmerki.",
+      "image": "https://files.reglugerd.is/files/0250-2024/daa9a469-4712-4ac9-a21b-54e364022576.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "380 Afnám banna. Merki þetta kemur fyrir á framkvæmdasvæðum og við aðrar tímabundnar merkingar. Merkið gefur til kynna afnám banna sem hafa verið sett s.s. bann við framúrakstri og lækkun hámarkshraða. Merkið afnemur ekki bann við stöðvun eða lagningu ökutækja.",
+      "image": "https://files.reglugerd.is/files/0250-2024/c8262b19-b27f-4380-97c6-85c40c9efba7.jpg"
+    }
+  ]
+}

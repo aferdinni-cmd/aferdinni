@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="is">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kennsluvefur – Á ferðinni</title>
+  <meta name="robots" content="noindex">
+  <link rel="icon" type="image/png" href="../assets/favicon.png">
+  <link rel="apple-touch-icon" href="../assets/apple-touch-icon.png">
+  <link rel="stylesheet" href="kennsluvefur.css">
+</head>
+<body>
+
+  <!-- Lykilorðsgátt -->
+  <section class="gate" id="gate">
+    <div class="gate-card">
+      <div class="gate-top">
+        <a class="gate-back" href="../" data-i18n="back">← Á ferðinni</a>
+        <button class="lang-toggle" type="button" data-lang-toggle>English</button>
+      </div>
+      <div class="lock-icon" aria-hidden="true">
+        <svg viewBox="0 0 24 24" width="26" height="26"><path d="M12 3a4 4 0 0 0-4 4v2H7a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-8a2 2 0 0 0-2-2h-1V7a4 4 0 0 0-4-4Zm2 6H10V7a2 2 0 1 1 4 0v2Z" fill="currentColor"/></svg>
+      </div>
+      <h1 data-i18n="gateTitle">Kennsluvefur</h1>
+      <p class="gate-lead" data-i18n="gateLead">Þessi hluti vefsins er fyrir nemendur Á ferðinni. Sláðu inn lykilorðið sem þú fékkst hjá ökukennaranum.</p>
+
+      <form id="gateForm" novalidate>
+        <label class="sr-only" for="password" data-i18n="passLabel">Lykilorð</label>
+        <input type="password" id="password" name="password" placeholder="Lykilorð" data-i18n-placeholder="passPlaceholder" autocomplete="current-password" required>
+        <p class="gate-error" id="gateError" role="alert" data-i18n="wrongPass" hidden>Rangt lykilorð. Reyndu aftur.</p>
+        <button class="btn" type="submit" data-i18n="openBtn">Opna kennsluvef</button>
+      </form>
+
+      <p class="gate-help"><span data-i18n="helpText">Kannt þú ekki lykilorðið? Hafðu samband:</span> <a href="tel:+3548989488">898-9488</a> · <a href="mailto:aferdinni@gmail.com">aferdinni@gmail.com</a></p>
+    </div>
+  </section>
+
+  <!-- Kennsluvefur -->
+  <div class="reader" id="reader" hidden>
+    <header class="reader-header">
+      <a class="reader-brand" href="../">
+        <img class="reader-logo" src="../assets/logo.jpg" alt="" width="30" height="30">
+        <span>Á ferðinni <em data-i18n="brandSuffix">kennsluvefur</em></span>
+      </a>
+      <div class="reader-actions">
+        <button class="lang-toggle" type="button" data-lang-toggle>English</button>
+        <button class="logout" id="logout" type="button" data-i18n="logout">Loka</button>
+      </div>
+    </header>
+
+    <div class="reader-body">
+      <aside class="toc" aria-label="Efnisyfirlit">
+        <p class="toc-title" data-i18n="tocTitle">Efnisyfirlit</p>
+        <label class="sr-only" for="pageSelect" data-i18n="pageSelectLabel">Veldu síðu</label>
+        <select id="pageSelect" class="page-select" aria-label="Veldu síðu"></select>
+        <nav id="tocNav" class="toc-nav" aria-label="Efnisyfirlit"></nav>
+      </aside>
+
+      <main class="article" id="article" tabindex="-1">
+        <div id="pageBody">
+          <p class="loading" data-i18n="loading">Hleð námsefni…</p>
+        </div>
+      </main>
+    </div>
+  </div>
+
+  <script src="../read-aloud.js"></script>
+  <script src="gate.js"></script>
+</body>
+</html>

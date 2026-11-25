@@ -1,0 +1,28 @@
+{
+  "cards": [
+    { "q": "What is a safe following distance?", "a": "At least three seconds in good weather. Increase the gap in rain, darkness and icy conditions." },
+    { "q": "What does a triangular sign mean?", "a": "Warning: there is a hazard or a change in conditions ahead." },
+    { "q": "What does a round sign mean?", "a": "Prohibition, obligation or restriction, such as a speed limit." },
+    { "q": "What should you do at a stop sign?", "a": "Stop completely, check both directions and only then move off when it is safe." },
+    { "q": "What is the blind spot?", "a": "The area the mirrors do not cover. That is why you must glance over your shoulder before changing lane." },
+    { "q": "In what order do you check before changing lane?", "a": "Mirror, then over your shoulder, then indicate in good time – and then change lane." },
+    { "q": "What should you do when entering a roundabout?", "a": "Slow down, give way to those already inside it and choose your lane early." },
+    { "q": "When do you signal when leaving a roundabout?", "a": "In good time, before you leave the roundabout." },
+    { "q": "How do you best join a motorway?", "a": "Use the slip road to build speed and match the traffic, then check your mirror and look over your shoulder." },
+    { "q": "Which lane should you be in on a motorway?", "a": "The right-hand lane when you are not overtaking." },
+    { "q": "What should you check before setting off?", "a": "Seat, mirrors, seat belts, lights, wipers and that the windows are clean." },
+    { "q": "May you use your phone while driving?", "a": "Not unless it is hands-free – even a short message takes your attention off the road." },
+    { "q": "What should you do in the dark?", "a": "Use your lights, keep the windows clean, drive more slowly and look further ahead." },
+    { "q": "What should you do on a wet or icy road?", "a": "Increase the distance, reduce speed and brake gently and earlier than usual." },
+    { "q": "What is defensive driving?", "a": "Seeing hazards in advance, looking far ahead, allowing for other people's mistakes and always having an escape route." },
+    { "q": "How far ahead should you look?", "a": "About 12–15 seconds along the road." },
+    { "q": "What is a common mistake in a roundabout?", "a": "Entering too fast and deciding too late which exit to take." },
+    { "q": "What is assessed in the driving test?", "a": "Safe and steady driving, observation, roundabouts, speed control, understanding of signs and communication in traffic." },
+    { "q": "What should you do before the driving test?", "a": "Go over the material and the checklist, check the car, arrive on time with your documents and rest well." },
+    { "q": "May you drive faster than the speed limit?", "a": "No. The speed limit is a ceiling, not a target – your speed must always suit the conditions." },
+    { "q": "What should you do if something unexpected happens in the car?", "a": "Stop in a safe place before making a decision." },
+    { "q": "What should you do when a car is pulling out of a side road?", "a": "Give yourself room and keep an escape route in case it does not give way." },
+    { "q": "What is good to do after every lesson?", "a": "Go over what went well, what needs more practice and book the next lesson." },
+    { "q": "What matters in communication with other road users?", "a": "Clear signals in good time, consideration and allowing for other people's mistakes." }
+  ]
+}

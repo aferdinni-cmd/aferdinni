@@ -1,0 +1,52 @@
+{
+  "cards": [
+    {
+      "q": "Þú nálgast hringtorg á 50 km/klst. Enginn bíll er inni í hringtorginu. Hvað gerir þú?",
+      "a": "Dregur úr hraða fyrir hringtorgið, velur akrein snemma miðað við hvert þú á að fara, gefur merki og ekur inn á lágum hraða. Þótt hringtorgið sé autt á að vera tilbúin/n að stöðva ef einhver kemur skyndilega inn."
+    },
+    {
+      "q": "Þú ert á aðalvegi og bíll kemur úr hliðarvegi á móti. Hver hefur forgang og hvað gerir þú?",
+      "a": "Þú hefur forgang, en þú átt samt að fylgjast með bílnum og vera tilbúin/n að hægja á eða stöðva ef hann virðir ekki forgang. Gefðu þér alltaf pláss og hafðu útgönguleið."
+    },
+    {
+      "q": "Þú vilt fara fram úr hægfara bíl á 90 km/klst. vegi. Lýstu ferlinu í réttri röð.",
+      "a": "1) Athugaðu spegil og blindblett, 2) gefðu stefnuljós í tíma, 3) athugaðu að nógt pláss sé og að enginn sé að fara fram úr þér, 4) farðu út á vinstri akrein, 5) farðu fram hjá og 6) skilaðu þér aftur hægra megin með skýru merki þegar þú sérst bílinn í speglinum."
+    },
+    {
+      "q": "Það er dimmt, rigning og blautur vegur. Hvernig breytir þú akstrinum?",
+      "a": "Kveikir á ljósum, hreinsar gluggana, dregur úr hraða, eykur fjarlægðina í bílinn fyrir framan og bremsar mýkri og fyrr. Horfðu lengra fram og varastu skarpa ljósglætu frá mótframangreindum bílum."
+    },
+    {
+      "q": "Þú kemur að stoppskilti við vegamót. Hvaða skref þarftu að taka áður en þú heldur af stað?",
+      "a": "Stöðvaðu alveg við stöðvunarlínuna, athugaðu báðar áttir og spegla, gefðu merki ef við á og haltu svo af stað þegar það er öruggt. Stoppskilti er ekki „hægja á heldur“ — það er full stöðvun."
+    },
+    {
+      "q": "Bíllinn fyrir framan þig bremsar skyndilega. Hvað gerir þú?",
+      "a": "Bremsar strax og ákveðið, heldur stýrinu stöðugu og athugar spegilinn áður en þú breytir um akrein ef þú þarft að víkja. Góð fjarlægð gerir þetta mögulegt; of stutt fjarlægð er algengasta orsök aftanákeyrslu."
+    },
+    {
+      "q": "Þú ert að fara út úr hringtorgi. Hvenær gefur þú stefnuljós og hvaða akrein notar þú?",
+      "a": "Gefðu hægri stefnuljós í tíma, áður en þú ferð út, og haltu þér á þeirri akrein sem liggur að útganginum. Ekki skipta um akrein síðasta metrann."
+    },
+    {
+      "q": "Þú mætir gangbraut þar sem fólk er að fara yfir. Hvað gerir þú?",
+      "a": "Dregur úr hraða snemma og stöðvar fyrir gangbrautinni svo fólkið komist yfir. Þú mátt ekki keyra fram úr bíl sem hefur stöðvað við gangbraut — hann gæti verið að hleypa fólki yfir."
+    },
+    {
+      "q": "Þú ert í jarðgöngum og bíll kemur á móti. Hverju þarftu að huga að?",
+      "a": "Haltu hægri akrein, hafðu ljósin á og varastu glætu. Í göngum er oft þröngt og myrkt, svo hafðu meiri fjarlægð og fylgstu með merkingum um neyðarútskot og hraða."
+    },
+    {
+      "q": "Þú þarft að leggja bíl í þéttbýli. Hvað skoðar þú áður en þú leggur?",
+      "a": "Athugaðu skilti og yfirborðsmerkingar (bann við stöðvun eða lagningu, gjaldskyldu, tímatakmarkanir), að ekki sé verið að loka útkeyrslu, að plássið sé nógu stórt og að þú sért ekki á gangbraut eða hjólastíg."
+    },
+    {
+      "q": "Nemandi segir: „Ég þori ekki að fara út í þungt hringtorg.“ Hvað ráðleggur þú?",
+      "a": "Æfðu hringtorg á rólegum tíma fyrst, talaðu þig í gegnum ferlið (spegill, merki, hraði, akrein) og taka ákvarðanir snemma. Þor er afleiðing æfingar og skýrra skrefa, ekki eitthvað sem kemur af sjálfu sér."
+    },
+    {
+      "q": "Hvað á að gera ef eitthvað óvænt kemur upp í bílnum, t.d. viðvörunarljós eða hljóð?",
+      "a": "Hægðu á, gefðu merki og stöðvaðu á öruggum stað — ekki á akrein — áður en þú byrjar að fikta við neitt. Fyrst öryggi, svo skoðun."
+    }
+  ]
+}

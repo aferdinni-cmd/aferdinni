@@ -1,0 +1,58 @@
+{
+  "sections": [
+    {
+      "title": "Umferðarmerki",
+      "pages": [
+        { "id": "100-vidvorunarmerki", "title": "100 – Viðvörunarmerki", "type": "cards" },
+        { "id": "200-forgangsmerki", "title": "200 – Forgangsmerki", "type": "cards" },
+        { "id": "300-bannmerki", "title": "300 – Bannmerki", "type": "cards" },
+        { "id": "400-bodmerki", "title": "400 – Boðmerki", "type": "cards" },
+        { "id": "500-serreglumerki", "title": "500 – Sérreglumerki", "type": "cards" },
+        { "id": "600-upplysingamerki", "title": "600 – Upplýsingamerki", "type": "cards" },
+        { "id": "700-vegvisar", "title": "700 – Vegvísar og þjónustumerki", "type": "cards" },
+        { "id": "800-undirmerki", "title": "800 – Undirmerki", "type": "cards" },
+        { "id": "900-onnur-merki", "title": "900 – Önnur merki", "type": "cards" }
+      ]
+    },
+    {
+      "title": "Undirbúningsspurningar b-réttinda",
+      "pages": [
+        { "id": "b-rettindi", "title": "Undirbúningsspurningar b-réttinda", "type": "cards" }
+      ]
+    },
+    {
+      "title": "Undirbúningur fyrir munnlegt próf",
+      "pages": [
+        { "id": "munnlegt-prof", "title": "Undirbúningur fyrir munnlegt próf", "type": "cards" }
+      ]
+    },
+    {
+      "title": "Ýmsar spurningar",
+      "pages": [
+        { "id": "ymsar-spurningar", "title": "Ýmsar spurningar", "type": "cards" }
+      ]
+    },
+    {
+      "title": "Verkefni",
+      "pages": [
+        { "id": "verkefni", "title": "Verkefni til undirbúnings", "type": "cards" }
+      ]
+    },
+    {
+      "title": "Myndbönd",
+      "pages": [
+        { "id": "myndbond", "title": "Myndbönd", "type": "videos" }
+      ]
+    },
+    {
+      "title": "Heimildir",
+      "pages": [
+        { "id": "heimildir", "title": "Heimildir", "type": "sources" }
+      ]
+    },
+    {
+      "title": "Námsefni í köflum",
+      "source": "chapters"
+    }
+  ]
+}

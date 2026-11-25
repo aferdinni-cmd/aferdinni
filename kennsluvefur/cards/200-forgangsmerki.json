@@ -1,0 +1,39 @@
+{
+  "cards": [
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "202 Biðskylda. Merki þetta gefur til kynna að ökumanni beri að veita umferð á vegi sem ekið er inn á eða yfir forgang.",
+      "image": "https://files.reglugerd.is/files/0250-2024/6e9c0e64-1cef-4209-a37c-c5c53e0f5c79.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "204 Stöðvunarskylda. Merki þetta gefur til kynna að ökumanni beri skilyrðislaust að nema staðar og veita umferð á vegi sem ekið er inn á eða yfir forgang.",
+      "image": "https://files.reglugerd.is/files/0250-2024/6f8790dd-da66-4819-89a7-78c6934bf45b.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "206 Aðalbraut. Merki þetta gefur til kynna að umferð á vegi hafi forgang gagnvart umferð af hliðarvegum.",
+      "image": "https://files.reglugerd.is/files/0250-2024/6e55efee-3b37-4355-b752-b7176e62f3d1.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "208 Aðalbraut endar. Merki þetta gefur til kynna að aðalbraut endi og umferð á vegi hafi ekki lengur sérstakan forgang gagnvart umferð af hliðarvegum.",
+      "image": "https://files.reglugerd.is/files/0250-2024/7cfd0c7b-0541-4b11-964a-ab9962673e1d.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "212 Skylt að veita umferð sem kemur á móti forgang. Merki þetta gefur til kynna að ökumanni sé skylt að veita umferð sem kemur á móti forgang.",
+      "image": "https://files.reglugerd.is/files/0250-2024/1b3e3f1c-4842-4f4d-b1fb-d80dc07fbbb9.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "214 Umferð á móti veitir forgang. Merki þetta gefur til kynna að umferð á móti veiti forgang.",
+      "image": "https://files.reglugerd.is/files/0250-2024/e1304a62-63f6-4db3-a83a-9b95829337a9.jpg"
+    },
+    {
+      "q": "Hvaða umferðarmerki er þetta?",
+      "a": "216 Fléttuakstur. Merki þetta gefur til kynna að tvær samhliða akreinar á vegi renni saman í eina og að ökumenn skuli aka þannig að eitt ökutæki fari í senn af hvorri akrein eftir því sem við verður komið.",
+      "image": "https://files.reglugerd.is/files/0250-2024/43045e53-bd33-4938-864b-f5a5760ebe12.jpg"
+    }
+  ]
+}

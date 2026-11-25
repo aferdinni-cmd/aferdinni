@@ -1,0 +1,194 @@
+{
+  "chapters": [
+    {
+      "id": "umferdareglur",
+      "title": "Umferðareglur og skilti",
+      "blocks": [
+        { "type": "p", "text": "Grunnurinn að öruggum akstri er að þekkja umferðareglurnar og skilja hvað skiltin segja. Í tímum förum við yfir það helsta, en hér er samantekt sem gott er að lesa yfir fyrir hvern tíma." },
+        { "type": "h", "text": "Hraði og fjarlægð" },
+        { "type": "p", "text": "Aksturshraði á alltaf að vera í samræmi við aðstæður, ekki bara við hámarkshraða. Það þýðir að draga úr hraða þegar skyggni er lélegt, vegur er blautur eða hálkur, eða þegar fólk og dýr eru nálægt veginum." },
+        { "type": "ul", "items": [
+          "Haltu að minnsta kosti 3 sekúndna fjarlægð í bílinn fyrir framan í góðu veðri.",
+          "Auktu fjarlægðina í rigningu, myrkri eða hálku.",
+          "Hraði á að vera lægri þar sem börn, gangandi eða húsdýr geta komið skyndilega fram."
+        ]},
+        { "type": "h", "text": "Skilti sem skipta máli" },
+        { "type": "ul", "items": [
+          "Hringskilti: bann, skylda eða takmörkun (t.d. hámarkshraði).",
+          "Þríhyrningsskilti: varúð, framundan er hætta eða breyting.",
+          "Ferhyrnd skilti: upplýsingar og leiðbeiningar.",
+          "Stoppskilti og biðskylda: alltaf stöðva alveg og athuga áður en haldið er af stað."
+        ]},
+        { "type": "note", "title": "Minnisatriði", "text": "Skilti segja þér hvað er framundan – en þú þarft að lesa umferðina líka. Horfðu langt fram og fylgstu með hvað aðrir eru að gera." }
+      ]
+    },
+    {
+      "id": "vik-og-akstur",
+      "title": "Vík og akstur",
+      "blocks": [
+        { "type": "p", "text": "Vík er eitt af því sem við æfum mest í byrjun, því góð vík er forsenda þess að geta fylgst með umferðinni." },
+        { "type": "h", "text": "Fürstugt ferli" },
+        { "type": "ul", "items": [
+          "Skoðaðu spegilinn áður en þú breytir um akrein eða beygir.",
+          "Skoðaðu fram og til baka: eftir spegli, yfir öxl og í hliðarspegil.",
+          "Gefðu skýrt merki í tíma og athugaðu hvort einhver er í blindblettinum.",
+          "Lagaðu hraðann þannig að þú getir beygt eða skipt um akrein á öruggan hátt."
+        ]},
+        { "type": "h", "text": "Blindblettur" },
+        { "type": "p", "text": "Hliðarspeglar sýna ekki allt. Það svæði sem speglarnir ná ekki yfir kallast blindblettur og það er þar sem bílar og hjól geta falið sig. Þess vegna er alltaf nauðsynlegt að líta yfir öxl áður en akrein er skipt." },
+        { "type": "note", "title": "Æfing", "text": "Æfðu víkina hægt og skipulega. Það er betra að taka sér smá tíma en að sleppa skrefi." }
+      ]
+    },
+    {
+      "id": "hringtorg",
+      "title": "Hringtorg og gatnamót",
+      "blocks": [
+        { "type": "p", "text": "Á gatnamótum og í hringtorgum þarf að hugsa um forgang, hraða og skýr samskipti við aðra ökumenn." },
+        { "type": "h", "text": "Hringtorg" },
+        { "type": "ul", "items": [
+          "Farðu inn í hringtorgið á lágum hraða og gættu að ökumönnum sem eru þegar komnir inn.",
+          "Notaðu stefnuljós þegar þú ferð út úr hringtorginu – gefðu merki í tíma.",
+          "Veldu akrein snemma og haldu þér á henni inni í hringtorginu.",
+          "Horfðu á skilti og akreinamerkingar fyrir hringtorgið svo þú vitir hvert á að fara."
+        ]},
+        { "type": "h", "text": "Forgangur" },
+        { "type": "p", "text": "Lestu gatnamótin: skilti, merkingar og staðsetningu. Haltu áfram að horfa á báðar áttir þótt þú hafir forgang – það er alltaf betra að stöðva ef einhver virðir ekki reglurnar." },
+        { "type": "note", "title": "Gott ráð", "text": "Taktu ákvörðun snemma. Sein ákvörðun í hringtorgi er algengasti mistökinn hjá nýjum ökumönnum." }
+      ]
+    },
+    {
+      "id": "hraobraut",
+      "title": "Akstur á hraðbraut",
+      "blocks": [
+        { "type": "p", "text": "Akstur á hraðbraut krefst ákveðni og góðrar yfirsýnar. Hraðinn er meiri og því þarf að hugsa lengra fram." },
+        { "type": "h", "text": "Inn á hraðbraut" },
+        { "type": "ul", "items": [
+          "Notaðu aðreinina til að auka hraðann og aðlagast umferðinni.",
+          "Líttu í spegil og yfir öxl áður en þú ferð inn á aðalbrautina.",
+          "Gefðu merki í tíma og farðu inn þegar þú hefur öruggt tækifæri.",
+          "Ekki stöðva í lok aðreinarinnar nema nauðsynlegt sé."
+        ]},
+        { "type": "h", "text": "Á hraðbraut" },
+        { "type": "ul", "items": [
+          "Haltu stöðugum hraða og fjarlægð í bílinn fyrir framan.",
+          "Notaðu hægri akrein þegar þú ert ekki að fara fram úr.",
+          "Framúrakstur á að fara fram af ákveðni og með skýru merki.",
+          "Horfa langt fram svo þú sjáir hægagang og breytingar í tíma."
+        ]},
+        { "type": "note", "title": "Athugið", "text": "Léleg veðurskilyrði þýða lægri hraða og meiri fjarlægð – sérstaklega á hraðbraut þar sem bremsa þarf í tíma." }
+      ]
+    },
+    {
+      "id": "billinn",
+      "title": "Bíllinn og öryggi",
+      "blocks": [
+        { "type": "p", "text": "Öruggur akstur byrjar áður en bíllinn fer af stað. Farðu yfir bílinn og stilltu allt þannig að þér líði vel og hafir góða yfirsýn." },
+        { "type": "h", "text": "Fyrir hvern akstur" },
+        { "type": "ul", "items": [
+          "Stilltu sætið, stýrið og speglana.",
+          "Gakktu úr skugga um að allir séu í beltum.",
+          "Athugaðu ljós, þurrkurnar og að gluggarnir séu hreinir.",
+          "Kannaðu hvað bíllinn segir þér: viðvaranir á mælaborði, hitastig og eldsneyti."
+        ]},
+        { "type": "h", "text": "Ábyrgð í bílnum" },
+        { "type": "p", "text": "Sem ökumaður berðu ábyrgð á farþegum og umhverfi þínu. Hringdu ekki og notaðu ekki símann á meðan þú ert að aka – jafnvel stutt innsláttur dregur athyglina frá veginum." },
+        { "type": "note", "title": "Athugið", "text": "Ef eitthvað óvænt kemur upp skaltu stöðva á öruggum stað áður en þú tekur ákvörðun." }
+      ]
+    },
+    {
+      "id": "adstaedur",
+      "title": "Náttúrulegar aðstæður",
+      "blocks": [
+        { "type": "p", "text": "Veður og aðstæður á Íslandi geta breyst hratt. Góður ökumaður aðlagar aksturinn að aðstæðum hverju sinni." },
+        { "type": "h", "text": "Myrkur" },
+        { "type": "ul", "items": [
+          "Notaðu ljós og hafðu gluggana hreina.",
+          "Farðu hægar en venjulega og horfðu lengra fram.",
+          "Varastu skarpa ljós frá mótframangreindum bílum – horfðu til hægri við veginn."
+        ]},
+        { "type": "h", "text": "Rigning og hálka" },
+        { "type": "ul", "items": [
+          "Auktu fjarlægðina og dragðu úr hraða.",
+          "Bremsaðu mýkt og fyrr en venjulega.",
+          "Forðastu skyndilegar stýrihreyfingar á blautum eða hálum vegi.",
+          "Athugaðu nagladekk og slit á dekkjum fyrir veturinn."
+        ]},
+        { "type": "note", "title": "Minnisatriði", "text": "Ef þú ert ekki viss um aðstæður skaltu hægja á. Það er alltaf rétt ákvörðun að aka hægar í slæmu veðri." }
+      ]
+    },
+    {
+      "id": "haettur",
+      "title": "Hættur og fyrirbyggjandi akstur",
+      "blocks": [
+        { "type": "p", "text": "Fyrirbyggjandi akstur snýst um að sjá hættur áður en þær verða að vandamáli. Það þýðir að horfa langt fram, gera ráð fyrir mistökum annarra og hafa alltaf plan B." },
+        { "type": "ul", "items": [
+          "Horfðu 12–15 sekúndur fram á veginn.",
+          "Fylgstu með bílum í kringum þig, ekki bara þeim fyrir framan.",
+          "Gefðu þér pláss ef einhver er að fara út úr hliðarvegi eða bílastæði.",
+          "Hafðu alltaf útgönguleið ef eitthvað gerist skyndilega."
+        ]},
+        { "type": "h", "text": "Algeng mistök" },
+        { "type": "ul", "items": [
+          "Of hratt inn í beygju eða hringtorg.",
+          "Að gleyma að líta yfir öxl fyrir akreinaskipti.",
+          "Að halda of stuttri fjarlægð í þungri umferð.",
+          "Að bregðast of seint við skiltum eða merkingum."
+        ]},
+        { "type": "note", "title": "Æfing", "text": "Farðu yfir aksturinn eftir hvern tíma: hvað gekk vel og hvað þarf að æfa næst? Það flýtir fyrir náminu." }
+      ]
+    },
+    {
+      "id": "okuprof",
+      "title": "Ökuprófið",
+      "blocks": [
+        { "type": "p", "text": "Ökuprófið er ekki bara próf í akstri heldur líka í öryggi, yfirsýn og sjálfstæði. Þegar þú getur keyrt á öruggan og sjálfstæðan hátt ertu tilbúin." },
+        { "type": "h", "text": "Það sem er metið" },
+        { "type": "ul", "items": [
+          "Öruggt og stöðugt akstur í mismunandi aðstæðum.",
+          "Vík, akreinaskipti og beygjur.",
+          "Hringtorg og gatnamót.",
+          "Hraðastýring og fjarlægð.",
+          "Skilningur á skiltum og merkingum.",
+          "Samskipti við aðra í umferðinni."
+        ]},
+        { "type": "h", "text": "Fyrir prófið" },
+        { "type": "ul", "items": [
+          "Farðu yfir námsefnið og gátlistann hér á vefnum.",
+          "Athugaðu að bíllinn sé í góðu ástandi ef þú notar eigin bíl.",
+          "Mættu í tíma og hafðu skjölin með þér.",
+          "Hvíldu þig vel – þreyta er ein stærsta hættan í prófi."
+        ]},
+        { "type": "note", "title": "Góð ráð", "text": "Talaðu þér hljótt í gegnum aksturinn: hvað sérðu, hvað ætlar þú að gera og hvers vegna. Það hjálpar þér að vera skipulegur og sýnir skýrt hvernig þú hugsar." }
+      ]
+    },
+    {
+      "id": "gatlisti",
+      "title": "Gátlisti fyrir hvern tíma",
+      "blocks": [
+        { "type": "p", "text": "Þessi listi er hugsaður sem stutt áminning fyrir hvern ökutíma. Farðu yfir hann áður en þú kemur í tímann." },
+        { "type": "h", "text": "Áður en lagt er af stað" },
+        { "type": "ul", "items": [
+          "Námsheimild og skjöl meðferðis.",
+          "Sæti og speglar stilltir.",
+          "Allir í beltum.",
+          "Ljós og þurrkur í lagi."
+        ]},
+        { "type": "h", "text": "Meðan á akstri stendur" },
+        { "type": "ul", "items": [
+          "Horfðu langt fram og fylgstu með umferðinni.",
+          "Haltu stöðugum hraða og góðri fjarlægð.",
+          "Notaðu stefnuljós í tíma.",
+          "Líttu yfir öxl fyrir akreinaskipti."
+        ]},
+        { "type": "h", "text": "Eftir tímann" },
+        { "type": "ul", "items": [
+          "Hvað gekk vel?",
+          "Hvað þarf að æfa betur?",
+          "Hvað tekur næsti tími á?",
+          "Bókaðu næsta tíma í Noona."
+        ]},
+        { "type": "note", "title": "Samband", "text": "Hafðu samband ef eitthvað er óljóst: 898-9488 eða aferdinni@gmail.com." }
+      ]
+    }
+  ]
+}
