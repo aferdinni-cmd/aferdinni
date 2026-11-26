@@ -162,20 +162,21 @@ Athugið að læsing kennsluvefsins er aðeins í vafranum (sjá hér að ofan) 
 
 ## Lén
 
-Lénið er **aferdinniokukennsla.is** og er skráð hjá ISNIC. ISNIC hýsir ekki vefsíður, svo lénið þarf að vísa á hýsinguna. Skráin `CNAME` í rót verkefnisins geymir lénið fyrir GitHub Pages.
+Lénið er **aferdinniokukennsla.is** og er skráð hjá ISNIC. ISNIC hýsir ekki vefsíður, svo lénið þarf að vísa á hýsinguna. `CNAME`-skráin í rót verkefnisins er skrifuð af GitHub þegar sérsniðna lénið er sett upp í *Settings → Pages*; hún er ekki handskrifuð.
 
-Lénið er í biðstöðu hjá ISNIC (parking) og ekkert birt á því fyrr en síðan er birt og DNS-færslum er komið fyrir. Það er því ekkert sem þarf að gera strax — hægt að bíða með DNS þar til birtingin er ákveðin.
+**Röð skiptir máli.** Sérsniðið lénið á að setja upp hjá hýsingunni *eftir* að DNS-færslurnar eru komnar í gagnið. Ef lénið er sett inn fyrst beinir GitHub Pages `github.io`-slóðinni á lénið, og á meðan engar DNS-færslur eru til virkar hvorgt — síðan hverfur af netinu. Það er það sem gerðist 25. nóvember 2026: `CNAME` var sett inn áður en DNS-færslurnar voru til, svo bæði `github.io`-slóðin og lénið voru óvirk. `CNAME`-skráin var því fjarlægð og síðan er aftur á `https://aferdinni-cmd.github.io/aferdinni/`.
 
 ### GitHub Pages
 
 1. Ýttu verkefninu í GitHub-verkefni (repo).
 2. *Settings → Pages*: Source = **Deploy from a branch**, branch `main`, mappa `/ (root)`.
-3. Undir **Custom domain** setur þú `aferdinniokukennsla.is` og pantar **Enforce HTTPS**.
-4. Hjá ISNIC: *Breyta DNS færslum* í DNS Hýsingu og settu inn:
+3. Athugaðu að síðan birtist á `https://aferdinni-cmd.github.io/aferdinni/`.
+4. Hjá ISNIC: *Breyta DNS færslum* í DNS Hýsingu (kveiktu á DNS Hýsingu ef hún er ekki virk) og settu inn:
    - **A-færslur** fyrir rótina (`@`): `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`
    - **AAAA-færslur** (valfrjálst): `2606:50c0:8000::153`, `2606:50c0:8001::153`, `2606:50c0:8002::153`, `2606:50c0:8003::153`
-   - **CNAME** fyrir `www`: `<notandi>.github.io`
-5. Bíddu eftir að lénið dreifist (allt að 24 klst.) og athugaðu að HTTPS sé virkt.
+   - **CNAME** fyrir `www`: `aferdinni-cmd.github.io`
+5. Bíddu eftir að lénið dreifist (allt að 24 klst.) og athugaðu að `https://aferdinniokukennsla.is/` opnist.
+6. Aðeins þá: *Settings → Pages → Custom domain* = `aferdinniokukennsla.is`, vistaðu, og hakaðu við **Enforce HTTPS** þegar GitHub býður það (getur tekið allt að 24 klst.). Þá býr GitHub til `CNAME`-skrána aftur.
 
 ### FreeMilk
 
