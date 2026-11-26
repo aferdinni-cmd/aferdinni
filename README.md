@@ -162,19 +162,20 @@ Athugið að læsing kennsluvefsins er aðeins í vafranum (sjá hér að ofan) 
 
 ## Lén
 
-Lénið er **aferdinniokukennsla.is** og er skráð hjá ISNIC. ISNIC hýsir ekki vefsíður, svo lénið þarf að vísa á hýsinguna. `CNAME`-skráin í rót verkefnisins er skrifuð af GitHub þegar sérsniðna lénið er sett upp í *Settings → Pages*; hún er ekki handskrifuð.
+Lénið er **aferdinniokukennsla.is** og er skráð hjá ISNIC. ISNIC hýsir ekki vefsíður, svo lénið þarf að vísa á hýsinguna. `CNAME`-skráin í rót verkefnisins er skrifuð af GitHub þegar sérsniðna lénið er sett upp í *Settings → Pages*; hún er ekki handskrifuð. Síðan er nú komin á `https://aferdinniokukennsla.is/` með virku HTTPS (*Enforce HTTPS*) og `https://www.aferdinniokukennsla.is/` vísar á sama stað.
 
-**Röð skiptir máli.** Sérsniðið lénið á að setja upp hjá hýsingunni *eftir* að DNS-færslurnar eru komnar í gagnið. Ef lénið er sett inn fyrst beinir GitHub Pages `github.io`-slóðinni á lénið, og á meðan engar DNS-færslur eru til virkar hvorgt — síðan hverfur af netinu. Það er það sem gerðist 25. nóvember 2026: `CNAME` var sett inn áður en DNS-færslurnar voru til, svo bæði `github.io`-slóðin og lénið voru óvirk. `CNAME`-skráin var því fjarlægð og síðan er aftur á `https://aferdinni-cmd.github.io/aferdinni/`.
+**Röð skiptir máli.** Sérsniðið lénið á að setja upp hjá hýsingunni *eftir* að DNS-færslurnar eru komnar í gagnið. Ef lénið er sett inn fyrst beinir GitHub Pages `github.io`-slóðinni á lénið, og á meðan engar DNS-færslur eru til virkar hvorgt — síðan hverfur af netinu. Það er það sem gerðist 25. nóvember 2026: `CNAME` var sett inn áður en DNS-færslurnar voru til, svo bæði `github.io`-slóðin og lénið voru óvirk. Lausnin var að setja DNS-færslurnar upp fyrst (A-færslur fyrir rótina og CNAME fyrir `www`) og setja lénið svo inn í *Settings → Pages*, þar sem *Enforce HTTPS* er nú virkt.
 
 ### GitHub Pages
 
 1. Ýttu verkefninu í GitHub-verkefni (repo).
 2. *Settings → Pages*: Source = **Deploy from a branch**, branch `main`, mappa `/ (root)`.
 3. Athugaðu að síðan birtist á `https://aferdinni-cmd.github.io/aferdinni/`.
-4. Hjá ISNIC: *Breyta DNS færslum* í DNS Hýsingu (kveiktu á DNS Hýsingu ef hún er ekki virk) og settu inn:
+4. Hjá ISNIC: farðu í *Mín síða*, smelltu á lénið í lénatöflunni og á skiptilykilinn í dálkinum *Stjórnborð*. Undir *Nafnaþjónar* velurðu *Flytja* → *DNS Hýsing ISNIC* → *Áfram*; það getur tekið um 10 mínútur þar til DNS-færsluviðmótið virkjast. Farðu svo aftur á lénið og opnaðu *Breyta DNS færslum* undir *DNS færslur* (hafðu *Stök DNS færsla* valið efst) og settu inn:
    - **A-færslur** fyrir rótina (`@`): `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`
-   - **AAAA-færslur** (valfrjálst): `2606:50c0:8000::153`, `2606:50c0:8001::153`, `2606:50c0:8002::153`, `2606:50c0:8003::153`
+   - **AAAA-færslur** (valfrjálst; A-færslurnar fjórar hér fyrir ofan eru þær sem skipta máli, AAAA einar og sér duga ekki): `2606:50c0:8000::153`, `2606:50c0:8001::153`, `2606:50c0:8002::153`, `2606:50c0:8003::153`
    - **CNAME** fyrir `www`: `aferdinni-cmd.github.io`
+   - Ef *heiti* er skilið eftir autt jafngildir það `@` (rót lénsins); fyrir `www` er aðeins `www` skrifað í heitið. CNAME má ekki setja á rótina. *TTL* má vera 3600 (það er sjálfgefið og gott) — það stýrir aðeins því hversu lengi vafrar og netþjónar geyma færsluna og hefur ekkert með það að gera hvort hún virkar.
 5. Bíddu eftir að lénið dreifist (allt að 24 klst.) og athugaðu að `https://aferdinniokukennsla.is/` opnist.
 6. Aðeins þá: *Settings → Pages → Custom domain* = `aferdinniokukennsla.is`, vistaðu, og hakaðu við **Enforce HTTPS** þegar GitHub býður það (getur tekið allt að 24 klst.). Þá býr GitHub til `CNAME`-skrána aftur.
 
