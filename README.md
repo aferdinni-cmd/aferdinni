@@ -95,6 +95,16 @@ YouTube-hlekkir verða að innfelldum spilara, beinir .mp4-hlekkir verða að my
 
 Á hverri spjaldasíðu birtast „Flettispjöld“ með spurningu á framhlið og svari á bakhlið. Ýttu á spjaldið til að snúa því, notaðu „Fyrri“ og „Næsta“ (hringinn) og „Stokka“ til að blanda. Lyklaborð: Enter/bil snýr, örvar fara á milli.
 
+### Ýmsar spurningar
+
+`kennsluvefur/cards/ymsar-spurningar.json` hefur 154 spjöld: 24 frá upphaflegu safni og 130 úr „Stoppspjöld“ á skjáborðinu (myndir 14–60), í þremur gerðum:
+
+- **Rétt eða rangt** (50 spjöld) — fullyrðing á framhlið, „Rétt.“ eða „Rangt.“ á bakhlið.
+- **Krossaspurningar** (50 spjöld) — spurning með valkostum A, B og C á framhlið (aðskildir með „·“) og rétti kosturinn á bakhlið.
+- **Upplýsingaspjöld** (30 spjöld) — stutt spurning á framhlið og staðreynd úr heimildinni orðrétt á bakhlið.
+
+Rétta svarið var lesið af því hvaða orði er undirstrikað í heimildinni. Enska þýðingin er í `cards/en/ymsar-spurningar.json`, í sömu röð og sama fjölda.
+
 ### Undirbúningsspurningar b-réttinda
 
 `kennsluvefur/cards/b-rettindi.json` hefur 141 spjald í 18 þemum, unnið úr „B-réttindi – Undirbúningspakki fyrir bóklegt ökupróf“ (myndirnar 2–36 í möppunni). Þemun eru: fyrstu viðbrögð á slysstað (9+9+9 spjöld), stöðvun og lagning (9+9+7), umferðarmerki og skilti (9+9+3), forgangur og biðskylda (9+6), gangandi vegfarendur (8), hraði og hemlunarvegalengd (9+5), áhrifaþættir á aksturshæfni (9), stefnuljós og ljós (8), öryggisbúnaður og bíllinn (9) og próftækni (5).
