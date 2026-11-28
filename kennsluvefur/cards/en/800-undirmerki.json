@@ -1,3 +1,399 @@
 {
-  "cards": []
+  "cards": [
+    {
+      "q": "Which road sign is this?",
+      "a": "802.1 Distance. This sign states how far it is to the place the main sign applies to.",
+      "image": "https://files.reglugerd.is/files/0250-2024/216c0f75-354c-4037-a6de-0d34c832c7f9.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "802.2 Distance. This sign states how far it is to the place the main sign applies to.",
+      "image": "https://files.reglugerd.is/files/0250-2024/6d1ca7d2-f33a-4535-b4f5-9bbf18dc5063.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "804.1 Length of validity. This sign states the area of validity of the main sign. The sign shows the distance to the start of the area of validity and the distance to its end, measured from the sign.",
+      "image": "https://files.reglugerd.is/files/0250-2024/7518bc83-97aa-4c82-affc-bda0e4f823b0.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "804.2 Length of validity. This sign states the area of validity of the main sign. The sign shows the distance to the start of the area of validity and the distance to its end, measured from the sign.",
+      "image": "https://files.reglugerd.is/files/0250-2024/398d42dd-d354-470a-b924-7f7153dba71b.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "806.1 Period of validity. This sign states the period of validity of the main sign. The time is given in whole numbers from 0 to 24.",
+      "image": "https://files.reglugerd.is/files/0250-2024/7a89850a-bd75-4da8-8dbf-df85a47f265a.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "806.2 Period of validity. This sign states the period of validity of the main sign. The time is given in whole numbers from 0 to 24.",
+      "image": "https://files.reglugerd.is/files/0250-2024/f6e7ac64-248c-42b8-8bd3-a633f3ad6643.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "807.1 Passenger car under 3,500 kg. The symbol stands for a car under 3,500 kg intended mainly for carrying goods or passengers.",
+      "image": "https://files.reglugerd.is/files/0250-2024/1c2019fa-1141-457a-91d6-86a72a42f67d.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "807.2 Goods vehicle. The symbol stands for a vehicle intended for carrying goods, with a permitted total weight of more than 3.5 tonnes and for a maximum of eight passengers.",
+      "image": "https://files.reglugerd.is/files/0250-2024/35390d60-4662-49be-ab7b-aa3df9460dda.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "807.21 Goods handling. The symbol stands for the loading and unloading of heavy or bulky goods.",
+      "image": "https://files.reglugerd.is/files/0250-2024/a7078348-04d6-4d2e-a3c0-d1f53559e08d.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "807.3 Bus. The symbol stands for a bus intended for more than 8 passengers.",
+      "image": "https://files.reglugerd.is/files/0250-2024/002fff3f-87d8-43e4-bfc2-a93bffdb7531.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "807.4 Goods vehicle with trailer, vehicle combination. The symbol stands for a combination of a vehicle and a trailer, where the vehicle is intended for carrying goods, with a permitted total weight of more than 3.5 tonnes and for a maximum of eight passengers (goods vehicle).",
+      "image": "https://files.reglugerd.is/files/0250-2024/d5ab9073-4f91-4a2d-a802-7cc33956d343.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "807.51 Tractor. The symbol stands for tractors and work machines.",
+      "image": "https://files.reglugerd.is/files/0250-2024/8a9a2c1a-5882-4050-8662-2babec748f65.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "807.52 Tracked off-road vehicle. The symbol stands for a motor vehicle intended mainly for carrying people or goods off-road and fitted with tracks.",
+      "image": "https://files.reglugerd.is/files/0250-2024/fa252e74-5a4f-48ce-b190-af8892a8ae09.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "807.6 Bicycle. The symbol stands for a bicycle as defined in the traffic law.",
+      "image": "https://files.reglugerd.is/files/0250-2024/98425b77-a959-4021-aa84-f052e609dfe0.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "807.65 Powered scooter. The symbol stands for a small motor vehicle that is not classed as a light moped and is designed for speeds from 6 km/h up to 25 km/h, e.g. a powered scooter and a two-wheeled vehicle on one axle. Such vehicles must not be driven on the carriageway.",
+      "image": "https://files.reglugerd.is/files/0250-2024/532ae19c-794a-41f0-9a5a-878bf414e05c.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "807.71 Light moped. The symbol stands for a light moped as defined in the traffic law.",
+      "image": "https://files.reglugerd.is/files/0250-2024/a210980f-ad83-4e35-afb2-031873456d17.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "807.72 Motorcycle. The symbol stands for a motorcycle as defined in the traffic law.",
+      "image": "https://files.reglugerd.is/files/0250-2024/52c9f87b-9f82-4d3d-89a8-9cda062d8903.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "807.81 Pedestrians. The symbol stands for pedestrian traffic.",
+      "image": "https://files.reglugerd.is/files/0250-2024/ce515fdc-d5fc-4883-928e-e27b24ffdbac.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "807.82 Disabled road users. The symbol stands for traffic of disabled road users.",
+      "image": "https://files.reglugerd.is/files/0250-2024/a486bf76-faa0-4ab9-aac1-4495ca387e58.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "807.91 Motorhome. The symbol stands for motorhomes.",
+      "image": "https://files.reglugerd.is/files/0250-2024/d0638251-3b2e-4027-9b51-cea172f1fea7.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "807.92 Caravans, folding caravans and trailer tents. The symbol stands for touring caravans such as caravans, folding caravans and trailer tents.",
+      "image": "https://files.reglugerd.is/files/0250-2024/ce1a8585-c9b5-4f3e-8559-adbf06413f56.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "808.1 Text. This sign gives a more detailed definition of the area of validity, an exemption from, or an explanation of the traffic sign it stands beside.",
+      "image": "https://files.reglugerd.is/files/0250-2024/e58423e6-73d8-43c1-8088-cbadb5817858.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "808.2 Text. This sign gives a more detailed definition of the area of validity, an exemption from, or an explanation of the traffic sign it stands beside.",
+      "image": "https://files.reglugerd.is/files/0250-2024/82221967-cf54-43e8-8265-d099058ca7cf.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "808.3 Text. This sign gives a more detailed definition of the area of validity, an exemption from, or an explanation of the traffic sign it stands beside.",
+      "image": "https://files.reglugerd.is/files/0250-2024/76e3cc6e-e620-4300-a1aa-401ef5cbb5f1.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "808.4 Text. This sign gives a more detailed definition of the area of validity, an exemption from, or an explanation of the traffic sign it stands beside.",
+      "image": "https://files.reglugerd.is/files/0250-2024/745b0cb5-8b5a-49c9-ad1b-4eea16c5c392.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "808.5 Text. This sign gives a more detailed definition of the area of validity, an exemption from, or an explanation of the traffic sign it stands beside.",
+      "image": "https://files.reglugerd.is/files/0250-2024/cb214379-7420-4358-8797-4f4a4f68b1b2.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "808.6 Text. This sign gives a more detailed definition of the area of validity, an exemption from, or an explanation of the traffic sign it stands beside.",
+      "image": "https://files.reglugerd.is/files/0250-2024/abaa2843-48e8-4141-bc1e-1d8ac5efba61.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "810.1 Direction the main sign applies to. This sign points in the direction the main sign applies to.",
+      "image": "https://files.reglugerd.is/files/0250-2024/b543ac19-4eb1-41e9-bd42-c4b9a7fe5ceb.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "810.2 Direction the main sign applies to. This sign points in the direction the main sign applies to.",
+      "image": "https://files.reglugerd.is/files/0250-2024/bdaa8aca-ff50-45df-8b34-91cc50470038.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "810.3 Direction the main sign applies to. This sign points in the direction the main sign applies to.",
+      "image": "https://files.reglugerd.is/files/0250-2024/2639d027-9a6d-4c31-b864-db2845d4d774.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "810.4 Direction the main sign applies to. This sign points in the direction the main sign applies to.",
+      "image": "https://files.reglugerd.is/files/0250-2024/84079aea-0b07-4052-97be-cfef6f160bba.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "810.5 Direction the main sign applies to. This sign points in the direction the main sign applies to.",
+      "image": "https://files.reglugerd.is/files/0250-2024/572f5409-78e1-4e08-920c-c90422898339.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "810.6 Direction the main sign applies to. This sign points in the direction the main sign applies to.",
+      "image": "https://files.reglugerd.is/files/0250-2024/9f0d7eb1-d94f-420b-84a1-6372126f3fc6.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "810.7 Direction the main sign applies to. This sign points in the direction the main sign applies to.",
+      "image": "https://files.reglugerd.is/files/0250-2024/29bc850d-38c1-47f8-bd5e-a1c3b6725077.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "811.1 Cycle path, two-way. This sign indicates two-way traffic on a cycle path.",
+      "image": "https://files.reglugerd.is/files/0250-2024/e2af7938-a1d1-4efe-8c97-6a8d42599f96.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "811.2 Cycle path, end of two-way traffic. This sign indicates the end of two-way traffic on a cycle path.",
+      "image": "https://files.reglugerd.is/files/0250-2024/0805f784-8f16-4866-81ce-7caaeafe3a8c.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "812 Recommended maximum speed. This sign indicates the maximum speed recommended on the stretch of road the plate covers.",
+      "image": "https://files.reglugerd.is/files/0250-2024/f434aa3d-ea4f-419f-9727-374971c62dc2.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "815.1 Route of the priority road at a junction. This sign indicates the route of the priority road at a junction, where a thick line marks the route of the priority road and a thin line marks a road that must give way or stop for the priority road.",
+      "image": "https://files.reglugerd.is/files/0250-2024/488501b9-e35b-43e3-a794-2edea6df0eef.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "815.2 Route of the priority road at a junction. This sign indicates the route of the priority road at a junction, where a thick line marks the route of the priority road and a thin line marks a road that must give way or stop for the priority road.",
+      "image": "https://files.reglugerd.is/files/0250-2024/7d86406b-3c36-4d22-a2b4-9bddaae58ddc.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "815.3 Route of the priority road at a junction. This sign indicates the route of the priority road at a junction, where a thick line marks the route of the priority road and a thin line marks a road that must give way or stop for the priority road.",
+      "image": "https://files.reglugerd.is/files/0250-2024/50482c6d-408f-49f0-8e24-8123d030a07c.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "815.4 Route of the priority road at a junction. This sign indicates the route of the priority road at a junction, where a thick line marks the route of the priority road and a thin line marks a road that must give way or stop for the priority road.",
+      "image": "https://files.reglugerd.is/files/0250-2024/0c606833-2973-44cd-9776-de9f1f373a03.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "815.5 Route of the priority road at a junction. This sign indicates the route of the priority road at a junction, where a thick line marks the route of the priority road and a thin line marks a road that must give way or stop for the priority road.",
+      "image": "https://files.reglugerd.is/files/0250-2024/c4dc77f2-6fa8-401e-9894-0c8dcdda1049.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "824 Stop ahead.",
+      "image": "https://files.reglugerd.is/files/0250-2024/b322d616-f9f2-4f52-be49-bc0e56ba42ad.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "826.1 Cyclists from both directions.",
+      "image": "https://files.reglugerd.is/files/0250-2024/c423c044-9f15-4edd-a124-b9c9673c2e0d.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "826.2 Buses from both directions.",
+      "image": "https://files.reglugerd.is/files/0250-2024/4a3410e5-0328-474d-81d3-95f9b35af88b.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "828.1 Area of validity. This sign indicates that the prohibitory or special regulation sign it stands beside applies in the direction shown by the arrow. The length in whole metres may be shown on the arrow.",
+      "image": "https://files.reglugerd.is/files/0250-2024/d75cc5bb-9e47-4a42-b278-440bf73cf5bd.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "828.2 Area of validity. This sign indicates that the prohibitory or special regulation sign it stands beside applies in the direction shown by the arrow. The length in whole metres may be shown on the arrow.",
+      "image": "https://files.reglugerd.is/files/0250-2024/29601f01-b956-41a8-8d8f-a8e49adfcf77.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "828.3 Area of validity. This sign indicates that the prohibitory or special regulation sign it stands beside applies in the direction shown by the arrow. The length in whole metres may be shown on the arrow.",
+      "image": "https://files.reglugerd.is/files/0250-2024/1a9c58d2-5dbe-4559-8d91-10e725603758.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "828.4 Area of validity. This sign indicates that the prohibitory or special regulation sign it stands beside applies in the direction shown by the arrow. The length in whole metres may be shown on the arrow.",
+      "image": "https://files.reglugerd.is/files/0250-2024/ace368a9-3373-4df3-8a8e-93cd05f90c41.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "828.5 Area of validity. This sign indicates that the prohibitory or special regulation sign it stands beside applies in the direction shown by the arrow. The length in whole metres may be shown on the arrow.",
+      "image": "https://files.reglugerd.is/files/0250-2024/56973d76-731c-4b6b-8530-fa6ff6a98310.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "828.6 Area of validity. This sign indicates that the prohibitory or special regulation sign it stands beside applies in the direction shown by the arrow. The length in whole metres may be shown on the arrow.",
+      "image": "https://files.reglugerd.is/files/0250-2024/09bef110-0a6c-4b4c-8f47-9ff678747b43.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "828.7 Area of validity. This sign indicates that the prohibitory or special regulation sign it stands beside applies in the direction shown by the arrow. The length in whole metres may be shown on the arrow.",
+      "image": "https://files.reglugerd.is/files/0250-2024/80a40a56-ad66-4ea2-8cb0-a234c1d32e15.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "828.8 Area of validity. This sign indicates that the prohibitory or special regulation sign it stands beside applies in the direction shown by the arrow. The length in whole metres may be shown on the arrow.",
+      "image": "https://files.reglugerd.is/files/0250-2024/222446d5-6455-4c90-a687-2880af1f9dcc.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "828.9 Area of validity. This sign indicates that the prohibitory or special regulation sign it stands beside applies in the direction shown by the arrow. The length in whole metres may be shown on the arrow.",
+      "image": "https://files.reglugerd.is/files/0250-2024/5f5007a1-0478-4213-a0d1-0d714424b7d3.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "829.1 Parking layout. This sign indicates the layout of parking spaces: parallel, perpendicular or at an angle.",
+      "image": "https://files.reglugerd.is/files/0250-2024/9e709d36-4c6c-4f87-bb71-b1d54e531176.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "829.2 Parking layout. This sign indicates the layout of parking spaces: parallel, perpendicular or at an angle.",
+      "image": "https://files.reglugerd.is/files/0250-2024/2a7bb9b7-3986-4d86-b814-5fd6b4a60760.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "829.3 Parking layout. This sign indicates the layout of parking spaces: parallel, perpendicular or at an angle.",
+      "image": "https://files.reglugerd.is/files/0250-2024/bde7f4d0-76ce-46e9-b6e7-e7712cbcd36e.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "831.1 Maximum time.",
+      "image": "https://files.reglugerd.is/files/0250-2024/b850411c-45d6-4f9e-b89a-1f0a7496d9ba.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "831.2 Maximum time.",
+      "image": "https://files.reglugerd.is/files/0250-2024/3238562f-47a5-412f-8ed0-2388ffa04f31.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "831.51 Offenders will be removed. This sign indicates that a vehicle parked illegally may be removed.",
+      "image": "https://files.reglugerd.is/files/0250-2024/52dbacd5-f027-4033-95c2-7e0e4fbea7f3.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "831.52 Offenders will be removed. This sign indicates that a vehicle parked illegally may be removed.",
+      "image": "https://files.reglugerd.is/files/0250-2024/00a0a51a-146e-4e2b-b541-2c8ede40e293.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "840.1 Visually impaired road users. This sign draws attention to the fact that visually impaired people may be expected in traffic.",
+      "image": "https://files.reglugerd.is/files/0250-2024/3a097a95-6e5c-4c40-bc80-a45ca0fd09ed.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "840.2 Hearing impaired road users. This sign draws attention to the fact that hearing impaired people may be expected in traffic.",
+      "image": "https://files.reglugerd.is/files/0250-2024/849f75f1-e0bd-4753-8a80-c1da7a45b4c0.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "842.1 Newly laid surface. This sign indicates that you are driving on a newly laid surface.",
+      "image": "https://files.reglugerd.is/files/0250-2024/46b01379-88e8-46a6-9fb4-75c372f4efca.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "842.2 End of asphalt. This sign indicates that the paved surface ends and a gravel road begins.",
+      "image": "https://files.reglugerd.is/files/0250-2024/e284a6d1-f46a-4024-a635-b319dd693c6c.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "844.1 Slow road. This sign indicates that you are driving onto a route that is passable for cars but is slow and possibly rough and steep.",
+      "image": "https://files.reglugerd.is/files/0250-2024/621ea716-812c-49b9-bc9c-685ace561620.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "844.2 Difficult road. This sign indicates that you are driving onto a route that is impassable for ordinary cars but passable for four-wheel-drive vehicles that are higher than ordinary cars, such as jeeps.",
+      "image": "https://files.reglugerd.is/files/0250-2024/0e79f678-6154-4a2a-b36a-ba416d396157.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "844.3 Demanding track. This sign indicates that you are driving onto a route that is passable only for specially equipped off-road vehicles, such as jeeps and mountain trucks. The route may have very steep hills, snow patches and rivers that are barely passable for vehicles.",
+      "image": "https://files.reglugerd.is/files/0250-2024/788fc4b2-16c0-421f-b723-3ba6d2b3049b.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "846.3 Unbridged rivers. This sign indicates that you are driving onto a route with unbridged rivers that may be hazardous.",
+      "image": "https://files.reglugerd.is/files/0250-2024/144ccd3b-4b9e-400c-ba2b-3e2226c7bc7e.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "848.3 Snow on the road. This sign indicates that you are driving onto a route where impassable conditions may be expected and which may be passable only for larger or specially equipped jeeps and mountain trucks. The route may have steep hills and snow patches.",
+      "image": "https://files.reglugerd.is/files/0250-2024/4bbe2690-e929-4898-8772-cebcc30903e6.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "848.5 Slippery when wet. This sign indicates conditions that must be particularly guarded against in rain and wet weather.",
+      "image": "https://files.reglugerd.is/files/0250-2024/818df512-34cd-41de-b3ed-633ffd1686c3.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "850.1 Blind summit. This sign indicates that a rise that severely limits visibility is ahead.",
+      "image": "https://files.reglugerd.is/files/0250-2024/e84b0bf5-a65c-4edb-848b-7c21b4f8d692.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "850.2 Blind summit. This sign indicates that a rise that severely limits visibility is ahead.",
+      "image": "https://files.reglugerd.is/files/0250-2024/5e47325c-f755-4e40-9dc6-43f023936b3f.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "852 Accident area. This sign indicates that accidents are unusually frequent in the area.",
+      "image": "https://files.reglugerd.is/files/0250-2024/5faa7b89-19d5-45c3-8ba2-10e87c3d1453.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "854.1 Single-track surface. This sign indicates that the paved surface is 5 metres wide or narrower. Road users must therefore move out onto the gravel shoulder when they meet.",
+      "image": "https://files.reglugerd.is/files/0250-2024/a0fe6617-c440-4e4e-92a1-73810dcd4d3d.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "854.2 Single-track bridge. This sign indicates that a single-track bridge is ahead.",
+      "image": "https://files.reglugerd.is/files/0250-2024/5f1aa686-5ecc-491e-bd5f-42fa9017a16b.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "854.3 Single-track bridge with a narrow carriageway. This sign indicates that a single-track bridge with a carriageway narrower than 3.05 m is ahead.",
+      "image": "https://files.reglugerd.is/files/0250-2024/18c90657-6206-43f5-b618-501783a27920.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "854.4 Single-track tunnel. This sign indicates that a single-track tunnel is ahead.",
+      "image": "https://files.reglugerd.is/files/0250-2024/cb510c33-e33b-4b69-8c21-d5a2cd52a0d9.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "860 Chain-up area. This sign indicates a lay-by by the road intended specifically for drivers who need to fit or remove chains.",
+      "image": "https://files.reglugerd.is/files/0250-2024/924d0eb5-b00d-43ec-9a0f-3bde4cc34959.jpg"
+    }
+  ]
 }

@@ -1,3 +1,129 @@
 {
-  "cards": []
+  "cards": [
+    {
+      "q": "Which road sign is this?",
+      "a": "402.1 Mandatory direction. This sign requires the driver to drive in a particular direction. The driver shall drive in the direction the arrow points, or in one of the directions the arrows point if the sign has more than one arrow.",
+      "image": "https://files.reglugerd.is/files/0250-2024/33ffe42d-cb9c-4a2d-99f4-00c8359190ce.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "402.2 Mandatory direction. This sign requires the driver to drive in a particular direction. The driver shall drive in the direction the arrow points, or in one of the directions the arrows point if the sign has more than one arrow.",
+      "image": "https://files.reglugerd.is/files/0250-2024/4cc70a7a-940f-4b3d-9fab-21b8aad050d3.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "402.3 Mandatory direction. This sign requires the driver to drive in a particular direction. The driver shall drive in the direction the arrow points, or in one of the directions the arrows point if the sign has more than one arrow.",
+      "image": "https://files.reglugerd.is/files/0250-2024/bf3353d4-7aef-4b76-a10d-e466ed098aef.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "402.4 Mandatory direction. This sign requires the driver to drive in a particular direction. The driver shall drive in the direction the arrow points, or in one of the directions the arrows point if the sign has more than one arrow.",
+      "image": "https://files.reglugerd.is/files/0250-2024/8c0428af-1823-46f1-ab7a-a3001e01859e.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "402.5 Mandatory direction. This sign requires the driver to drive in a particular direction. The driver shall drive in the direction the arrow points, or in one of the directions the arrows point if the sign has more than one arrow.",
+      "image": "https://files.reglugerd.is/files/0250-2024/9a7169b0-8b50-4686-afa2-bf3843d8d9b9.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "402.6 Mandatory direction. This sign requires the driver to drive in a particular direction. The driver shall drive in the direction the arrow points, or in one of the directions the arrows point if the sign has more than one arrow.",
+      "image": "https://files.reglugerd.is/files/0250-2024/40b1adf9-8748-40c2-bcfe-076d0e052b2f.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "402.7 Mandatory direction. This sign requires the driver to drive in a particular direction. The driver shall drive in the direction the arrow points, or in one of the directions the arrows point if the sign has more than one arrow.",
+      "image": "https://files.reglugerd.is/files/0250-2024/c850b1ce-8cee-4529-af53-84ddd4fc852e.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "402.8 Mandatory direction. This sign requires the driver to drive in a particular direction. The driver shall drive in the direction the arrow points, or in one of the directions the arrows point if the sign has more than one arrow.",
+      "image": "https://files.reglugerd.is/files/0250-2024/c479905d-6d02-4369-9dbd-b62ddf6f08f1.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "402.9 Mandatory direction. This sign requires the driver to drive in a particular direction. The driver shall drive in the direction the arrow points, or in one of the directions the arrows point if the sign has more than one arrow.",
+      "image": "https://files.reglugerd.is/files/0250-2024/757438da-f8da-4e74-83f5-f9e1d94472a3.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "404.1 Lane sign. This sign requires the driver to drive in the lane or part of the carriageway that the sign refers to.",
+      "image": "https://files.reglugerd.is/files/0250-2024/f9d4fedf-92d4-4999-bff9-89b4bcb5646b.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "404.2 Lane sign. This sign requires the driver to drive in the lane or part of the carriageway that the sign refers to.",
+      "image": "https://files.reglugerd.is/files/0250-2024/bdd2c31d-c0d2-48cc-a7ff-a57fa7105fd3.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "405 Lane sign. This sign requires the driver to drive on either side of the sign where the road splits in two but comes together again further on.",
+      "image": "https://files.reglugerd.is/files/0250-2024/ad872928-bfbd-4ddd-9cc2-fd646afa7d83.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "406 Roundabout. This sign indicates that you are driving into a roundabout. The arrows indicate the direction of travel in the roundabout.",
+      "image": "https://files.reglugerd.is/files/0250-2024/c8e41668-6a7d-46e6-88cd-6eb7385a4afc.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "410 Cycle path. This sign indicates that a path is intended solely for bicycles and light mopeds of class I.",
+      "image": "https://files.reglugerd.is/files/0250-2024/06ffaf85-aa28-4d45-af6c-52b9ad0d63bf.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "412 Footpath. This sign indicates that a path is intended mainly for pedestrians.",
+      "image": "https://files.reglugerd.is/files/0250-2024/25ee4f30-6a64-4eef-96ef-0df24a5f641e.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "414 Bridle path. This sign indicates that a path is intended specifically for horse riders.",
+      "image": "https://files.reglugerd.is/files/0250-2024/8efd53d7-4deb-4ced-898b-b0ca1997f3ca.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "416.1 Shared path. This sign indicates that a path is intended solely for the traffic shown on the sign. The sign is varied according to the type of traffic. Road users shall show each other mutual consideration.",
+      "image": "https://files.reglugerd.is/files/0250-2024/f0c5e570-6c44-40d9-a390-66ffa635e6c4.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "416.2 Shared path. This sign indicates that a path is intended solely for the traffic shown on the sign. The sign is varied according to the type of traffic. Road users shall show each other mutual consideration.",
+      "image": "https://files.reglugerd.is/files/0250-2024/63f3b68a-0f06-4f7f-9e29-ff687be25aef.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "418.1 Segregated paths. This sign indicates two parallel paths that are separated by a surface marking, a difference in level, an island or something comparable. The sign is varied according to the type of traffic. The position of the symbols on the sign indicates which path is intended for which type of traffic.",
+      "image": "https://files.reglugerd.is/files/0250-2024/03d5e58f-4367-46e0-a029-f6f23ae2b95e.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "418.2 Segregated paths. This sign indicates two parallel paths that are separated by a surface marking, a difference in level, an island or something comparable. The sign is varied according to the type of traffic. The position of the symbols on the sign indicates which path is intended for which type of traffic.",
+      "image": "https://files.reglugerd.is/files/0250-2024/546fd798-e55d-4659-8f51-d035752a1f50.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "418.3 Segregated paths. This sign indicates two parallel paths that are separated by a surface marking, a difference in level, an island or something comparable. The sign is varied according to the type of traffic. The position of the symbols on the sign indicates which path is intended for which type of traffic.",
+      "image": "https://files.reglugerd.is/files/0250-2024/57124be3-fcec-4a34-9e78-188f9f693241.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "418.4 Segregated paths. This sign indicates two parallel paths that are separated by a surface marking, a difference in level, an island or something comparable. The sign is varied according to the type of traffic. The position of the symbols on the sign indicates which path is intended for which type of traffic.",
+      "image": "https://files.reglugerd.is/files/0250-2024/f2a7def3-5797-4d2d-b902-720f1d2b5124.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "418.5 Segregated paths. This sign indicates two parallel paths that are separated by a surface marking, a difference in level, an island or something comparable. The sign is varied according to the type of traffic. The position of the symbols on the sign indicates which path is intended for which type of traffic.",
+      "image": "https://files.reglugerd.is/files/0250-2024/06ee12c0-2070-49ae-a08e-68429a914da9.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "418.6 Segregated paths. This sign indicates two parallel paths that are separated by a surface marking, a difference in level, an island or something comparable. The sign is varied according to the type of traffic. The position of the symbols on the sign indicates which path is intended for which type of traffic.",
+      "image": "https://files.reglugerd.is/files/0250-2024/c1a314c9-5ea2-4ba9-b2ae-61fef9ee3662.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "455 Minimum speed. This sign is used on a lane sign and indicates the minimum speed in the relevant lane in kilometres per hour.",
+      "image": "https://files.reglugerd.is/files/0250-2024/b369ce5b-cd89-442e-b49d-b58ebbd56f1e.jpg"
+    }
+  ]
 }

@@ -1,3 +1,264 @@
 {
-  "cards": []
+  "cards": [
+    {
+      "q": "Which road sign is this?",
+      "a": "500.a Lane sign. The signs indicate lanes and permit their use, including the direction in which traffic may drive, where it is permitted to drive when reaching a junction, where one lane merges with another and where lanes separate.",
+      "image": "https://files.reglugerd.is/files/0250-2024/4e16f34e-5359-4a33-ae55-7680d77743c3.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "500.b Lane sign. The signs indicate lanes and permit their use, including the direction in which traffic may drive, where it is permitted to drive when reaching a junction, where one lane merges with another and where lanes separate.",
+      "image": "https://files.reglugerd.is/files/0250-2024/3a3c1ba5-fdc0-4665-a0f1-d6e2f454afab.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "500.c Lane sign. The signs indicate lanes and permit their use, including the direction in which traffic may drive, where it is permitted to drive when reaching a junction, where one lane merges with another and where lanes separate.",
+      "image": "https://files.reglugerd.is/files/0250-2024/90309611-288a-4ab6-91bd-50eb15ed2502.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "500.d Lane sign. The signs indicate lanes and permit their use, including the direction in which traffic may drive, where it is permitted to drive when reaching a junction, where one lane merges with another and where lanes separate.",
+      "image": "https://files.reglugerd.is/files/0250-2024/e112242c-51d3-41fc-937a-56064f0a11c9.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "500.e Lane sign. The signs indicate lanes and permit their use, including the direction in which traffic may drive, where it is permitted to drive when reaching a junction, where one lane merges with another and where lanes separate.",
+      "image": "https://files.reglugerd.is/files/0250-2024/f07470e5-ba78-4815-acbf-5776afb1d293.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "500.f Lane sign. The signs indicate lanes and permit their use, including the direction in which traffic may drive, where it is permitted to drive when reaching a junction, where one lane merges with another and where lanes separate.",
+      "image": "https://files.reglugerd.is/files/0250-2024/7cd46d37-133b-49bb-a5cd-9e8b725f5641.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "500.g Lane sign. The signs indicate lanes and permit their use, including the direction in which traffic may drive, where it is permitted to drive when reaching a junction, where one lane merges with another and where lanes separate.",
+      "image": "https://files.reglugerd.is/files/0250-2024/00416287-3b3a-4537-8f61-8307d6a06388.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "500.h Lane sign. The signs indicate lanes and permit their use, including the direction in which traffic may drive, where it is permitted to drive when reaching a junction, where one lane merges with another and where lanes separate.",
+      "image": "https://files.reglugerd.is/files/0250-2024/19a7e150-0c11-40d2-95b5-513852706893.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "500.i Lane sign. The signs indicate lanes and permit their use, including the direction in which traffic may drive, where it is permitted to drive when reaching a junction, where one lane merges with another and where lanes separate.",
+      "image": "https://files.reglugerd.is/files/0250-2024/e2734092-5d06-4477-93b1-3cdb498400d8.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "500.j Lane sign. The signs indicate lanes and permit their use, including the direction in which traffic may drive, where it is permitted to drive when reaching a junction, where one lane merges with another and where lanes separate.",
+      "image": "https://files.reglugerd.is/files/0250-2024/455f442e-d1a7-46dc-ab8d-d73ebfd72c45.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "500F Lane sign. The signs indicate lanes and permit their use, including the direction in which traffic may drive, where it is permitted to drive when reaching a junction, where one lane merges with another and where lanes separate.",
+      "image": "https://files.reglugerd.is/files/0250-2024/8e4aaa19-147e-4a4a-b8fc-a759b4662a94.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "501.a Overhead lane sign. The sign is located above the carriageway and indicates the permitted directions of travel in the lane beneath it.",
+      "image": "https://files.reglugerd.is/files/0250-2024/25a6cd8b-73fc-4b96-8f64-0191c60f5ad2.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "501.b Overhead lane sign. The sign is located above the carriageway and indicates the permitted directions of travel in the lane beneath it.",
+      "image": "https://files.reglugerd.is/files/0250-2024/dddab55d-cc67-43a6-8402-a43b33c83a29.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "501.c Overhead lane sign. The sign is located above the carriageway and indicates the permitted directions of travel in the lane beneath it.",
+      "image": "https://files.reglugerd.is/files/0250-2024/be12c3d2-9088-42c3-9db3-9c97cedcc237.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "501.d Overhead lane sign. The sign is located above the carriageway and indicates the permitted directions of travel in the lane beneath it.",
+      "image": "https://files.reglugerd.is/files/0250-2024/a1561d41-4f9f-4be8-890d-3aacd03d525e.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "501.e Overhead lane sign. The sign is located above the carriageway and indicates the permitted directions of travel in the lane beneath it.",
+      "image": "https://files.reglugerd.is/files/0250-2024/1b5f32e0-dbd3-4611-a58d-6148dea08941.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "508 Bus lane. This sign indicates a lane intended solely for buses in public transport.",
+      "image": "https://files.reglugerd.is/files/0250-2024/1d671384-02f9-49e2-a693-4b275e4e95ac.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "512 Bus stop. This sign indicates a stop intended solely for buses in public transport. The sign may show the logo of the bus operator.",
+      "image": "https://files.reglugerd.is/files/0250-2024/218249c9-1d72-4085-87dc-7662a40d514c.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "514 Taxi rank. This sign indicates a taxi rank.",
+      "image": "https://files.reglugerd.is/files/0250-2024/000ae2ea-9c92-41a7-87e9-dd4d3391bab2.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "516.1 Pedestrian crossing. This sign indicates a pedestrian crossing intended for pedestrians to cross the carriageway. The sign is varied so that the pedestrian symbol faces the crossing in question.",
+      "image": "https://files.reglugerd.is/files/0250-2024/5bb040d7-904e-444d-a1f8-726932e2b7ed.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "516.2 Pedestrian crossing. This sign indicates a pedestrian crossing intended for pedestrians to cross the carriageway. The sign is varied so that the pedestrian symbol faces the crossing in question.",
+      "image": "https://files.reglugerd.is/files/0250-2024/b092cbf5-bace-47fc-9360-c9d066398d06.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "521 Cycle lane. This sign indicates a lane intended solely for bicycles and light mopeds of class I.",
+      "image": "https://files.reglugerd.is/files/0250-2024/51d2c029-9b3a-49a3-a63d-475fc22d885b.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "526 One-way traffic. This sign indicates that traffic travels one way along the road in the direction the arrow points.",
+      "image": "https://files.reglugerd.is/files/0250-2024/380e05f2-668d-4641-b4e7-d22e4b36e9fc.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "540 Home zone. This sign indicates that you are entering an area where the traffic law provisions on home zones apply.",
+      "image": "https://files.reglugerd.is/files/0250-2024/3925b26f-c060-4858-83e3-4e56ab829994.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "542 End of home zone. This sign indicates that you are leaving an area where the traffic law provisions on home zones apply.",
+      "image": "https://files.reglugerd.is/files/0250-2024/0dc7b6cc-1f70-4101-8873-d398d3445216.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "544 Built-up area. This sign indicates that you are entering an area where the traffic law provisions on built-up areas apply.",
+      "image": "https://files.reglugerd.is/files/0250-2024/af9a3a8b-e5e6-4fdc-90e1-fc410d35c10a.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "546 End of built-up area. This sign indicates that you are leaving an area where the traffic law provisions on built-up areas apply.",
+      "image": "https://files.reglugerd.is/files/0250-2024/01a3d5f1-2f1f-49e1-a962-18bbbf7e28f9.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "548 Pedestrian street. This sign indicates that you are entering an area where the traffic law provisions on pedestrian streets apply. Further details of the rules within the area may be shown on the sign.",
+      "image": "https://files.reglugerd.is/files/0250-2024/5d9bb2fd-c448-4c62-a728-da3f91ad6263.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "550 End of pedestrian street. This sign indicates that you are leaving an area where the traffic law provisions on pedestrian streets apply.",
+      "image": "https://files.reglugerd.is/files/0250-2024/943374b8-8860-440b-8215-8923a5faa3ff.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "552.1 Parking. This sign indicates that parking is permitted, provided it does not conflict with the traffic law provisions on stopping or parking vehicles. The sign applies to a defined parking area or on the side of the road where the sign stands, from the sign to the next junction unless stated otherwise on a supplementary plate. Further details of the restriction are given on a supplementary plate.",
+      "image": "https://files.reglugerd.is/files/0250-2024/9c676f0d-93b3-4c71-87ed-fcc78bd96ba8.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "552.2 Multi-storey car park. This sign indicates a multi-storey car park.",
+      "image": "https://files.reglugerd.is/files/0250-2024/03d7c35a-71f9-41b6-b7ca-18256e441cb1.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "552.3 Paid parking. This sign indicates that a parking charge applies. The sign applies to a defined parking area or on the side of the road where the sign stands, from the sign to the next junction unless stated otherwise on a supplementary plate. Different charging zones are shown by a numeral. Further details of the restriction are given on a supplementary plate.",
+      "image": "https://files.reglugerd.is/files/0250-2024/ed1429f4-bf29-4960-b037-f43ccaaa01f3.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "553.1 Parking reserved for specific users. 553.1 Parking for buses.",
+      "image": "https://files.reglugerd.is/files/0250-2024/90131f0b-41b2-4aac-b9f6-92280a75cf7b.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "553.2 Parking reserved for specific users. 553.2 Parking for buses.",
+      "image": "https://files.reglugerd.is/files/0250-2024/88680dea-e8ed-4a94-9a3c-8e45f57a4627.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "553.3 Parking reserved for specific users. 553.3 Parking for buses.",
+      "image": "https://files.reglugerd.is/files/0250-2024/67b5d131-59a8-4845-b581-d73599f6d45e.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "553.4 Parking reserved for specific users. 553.4 Parking for buses.",
+      "image": "https://files.reglugerd.is/files/0250-2024/94380310-5eec-4077-b084-d37500ab31ec.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "553.5 Parking reserved for specific users. 553.5 Parking for buses.",
+      "image": "https://files.reglugerd.is/files/0250-2024/0dc5bcc7-e0c4-4542-9654-aac2e1e9adcf.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "553.6 Parking reserved for specific users. 553.6 Parking for buses.",
+      "image": "https://files.reglugerd.is/files/0250-2024/5c50cd41-bd02-4289-8461-20cb707cf11d.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "553.7 Parking reserved for specific users. 553.7 Parking for buses.",
+      "image": "https://files.reglugerd.is/files/0250-2024/94b88a1a-015c-45ff-a262-266fbfd33a1f.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "553.8 Parking reserved for specific users. 553.8 Parking for buses.",
+      "image": "https://files.reglugerd.is/files/0250-2024/d7bac2c3-62cb-482a-a699-793def095d8b.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "553.9 Parking reserved for specific users. 553.9 Parking for buses.",
+      "image": "https://files.reglugerd.is/files/0250-2024/b4e5827c-1a60-4f8e-9c31-098734f1026f.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "554.1 Parking for disabled people. Sign 554.1 indicates that the parking space is intended solely for holders of parking permits for disabled people.",
+      "image": "https://files.reglugerd.is/files/0250-2024/7b635a39-e33b-454f-8609-5b93b2755ffd.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "554.2 Parking for disabled people. Sign 554.1 indicates that the parking space is intended solely for holders of parking permits for disabled people.",
+      "image": "https://files.reglugerd.is/files/0250-2024/bfe9a425-d748-4d37-8100-ddf2ef92b4cc.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "554.3 Parking for disabled people. Sign 554.1 indicates that the parking space is intended solely for holders of parking permits for disabled people.",
+      "image": "https://files.reglugerd.is/files/0250-2024/7a4581c6-5ddd-4ead-b08e-92aa956c652d.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "555.1 Emergency lay-by. This sign indicates a lay-by on a road or in a tunnel intended solely for use in an emergency. The sign is varied according to the direction in which the lay-by lies.",
+      "image": "https://files.reglugerd.is/files/0250-2024/1d6384c7-0f4a-47f9-ae9e-1f6d134feb6f.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "555.2 Emergency lay-by. This sign indicates a lay-by on a road or in a tunnel intended solely for use in an emergency. The sign is varied according to the direction in which the lay-by lies.",
+      "image": "https://files.reglugerd.is/files/0250-2024/b3003847-ff8e-46ec-bc74-25edab99946b.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "562 Start of area with a special speed limit. This sign indicates that you are entering an area where a special speed limit applies.",
+      "image": "https://files.reglugerd.is/files/0250-2024/f24aa7fc-0b0c-4521-a238-cf23be60fa8b.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "563 End of area with a special speed limit. This sign indicates that you are leaving an area where a special speed limit applies.",
+      "image": "https://files.reglugerd.is/files/0250-2024/063e6aba-1a1d-458d-bae5-602c903d14c4.gif"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "572 Start of area with restricted parking. This sign indicates that you are entering an area where permission to park a vehicle is restricted. Further details of the restriction may be shown on the sign.",
+      "image": "https://files.reglugerd.is/files/0250-2024/f13ef5d0-6632-4002-8776-62ac1f3420c7.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "573 End of area with restricted parking. This sign indicates that you are leaving an area where permission to park a vehicle is restricted.",
+      "image": "https://files.reglugerd.is/files/0250-2024/738b224e-f765-4c26-9075-0a5090d2898b.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "576 Start of parking area. This sign indicates that you are entering an area where parking a vehicle is permitted. Further details of the permission may be shown on the sign.",
+      "image": "https://files.reglugerd.is/files/0250-2024/4f1cad1c-d33a-4056-b9e6-4f0f0294a9a9.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "577 End of parking area. This sign indicates that you are leaving an area where parking a vehicle is permitted.",
+      "image": "https://files.reglugerd.is/files/0250-2024/d0651dfa-cb75-4298-8ad8-a9bf431fc50e.jpg"
+    }
+  ]
 }

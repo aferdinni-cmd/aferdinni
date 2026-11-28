@@ -1,3 +1,204 @@
 {
-  "cards": []
+  "cards": [
+    {
+      "q": "Which road sign is this?",
+      "a": "650.1 Information board. An information board with a short text or symbols gives road users important information that cannot be set out clearly with other traffic signs.",
+      "image": "https://files.reglugerd.is/files/0250-2024/ff7132d6-c38e-4d5c-9198-9e59422918c6.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "650.2 Information board. An information board with a short text or symbols gives road users important information that cannot be set out clearly with other traffic signs.",
+      "image": "https://files.reglugerd.is/files/0250-2024/211496ca-5160-4152-ba6e-619bde8de218.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "650.3 Information board. An information board with a short text or symbols gives road users important information that cannot be set out clearly with other traffic signs.",
+      "image": "https://files.reglugerd.is/files/0250-2024/07ca740f-3fd0-48fd-a920-aebcc807feb9.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "650F.4 Information board. An information board with a short text or symbols gives road users important information that cannot be set out clearly with other traffic signs.",
+      "image": "https://files.reglugerd.is/files/0250-2024/16772d98-a574-4d7e-a1c0-f51f59401340.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "650F.5 Information board. An information board with a short text or symbols gives road users important information that cannot be set out clearly with other traffic signs.",
+      "image": "https://files.reglugerd.is/files/0250-2024/d484b61b-3025-4cde-af3d-b5d34987d848.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "650F.61 Information board. An information board with a short text or symbols gives road users important information that cannot be set out clearly with other traffic signs.",
+      "image": "https://files.reglugerd.is/files/0250-2024/0750a123-e1f9-4b98-816b-ab0b62123ae7.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "650F.62 Information board. An information board with a short text or symbols gives road users important information that cannot be set out clearly with other traffic signs.",
+      "image": "https://files.reglugerd.is/files/0250-2024/e4dd1f3a-6553-42ca-9155-e9354fe2e156.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "650F.63 Information board. An information board with a short text or symbols gives road users important information that cannot be set out clearly with other traffic signs.",
+      "image": "https://files.reglugerd.is/files/0250-2024/8d8f24af-facc-4921-813e-6d4a4bf05ea3.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "650F.64 Information board. An information board with a short text or symbols gives road users important information that cannot be set out clearly with other traffic signs.",
+      "image": "https://files.reglugerd.is/files/0250-2024/8ccf121c-1ad5-48c0-97e0-14e0bb0a254e.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "652.1 Turning area for long vehicles. This sign indicates a lay-by where long vehicles, such as those in tunnels, may be turned around.",
+      "image": "https://files.reglugerd.is/files/0250-2024/9b415741-3db4-4705-a54e-d0b109ea7470.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "652.2 Turning area for long vehicles. This sign indicates a lay-by where long vehicles, such as those in tunnels, may be turned around.",
+      "image": "https://files.reglugerd.is/files/0250-2024/49e39c92-930b-40a6-9cd0-dcceafb1951b.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "652.4 Passing place. This sign indicates a lay-by on a narrow road where there is a particular space for meeting or overtaking.",
+      "image": "https://files.reglugerd.is/files/0250-2024/adbc9540-f28f-46f7-91de-32fdefdc845f.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "652.71 Dead end. This sign indicates that the road is closed at one end. The sign may indicate that a footpath, cycle path or shared path continues from the road. The sign is varied according to the conditions.",
+      "image": "https://files.reglugerd.is/files/0250-2024/f617acab-b16c-44c9-9133-ba2e995edebc.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "652.72 Dead end. This sign indicates that the road is closed at one end. The sign may indicate that a footpath, cycle path or shared path continues from the road. The sign is varied according to the conditions.",
+      "image": "https://files.reglugerd.is/files/0250-2024/4b2f4e35-d948-4989-af02-5c6d94d714a3.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "652.73 Dead end. This sign indicates that the road is closed at one end. The sign may indicate that a footpath, cycle path or shared path continues from the road. The sign is varied according to the conditions.",
+      "image": "https://files.reglugerd.is/files/0250-2024/993550ca-5cae-46f5-ba87-ae2f9ad1aea5.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "652.74 Dead end. This sign indicates that the road is closed at one end. The sign may indicate that a footpath, cycle path or shared path continues from the road. The sign is varied according to the conditions.",
+      "image": "https://files.reglugerd.is/files/0250-2024/227b928f-d984-4987-8443-16fc729ca793.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "652.75 Dead end. This sign indicates that the road is closed at one end. The sign may indicate that a footpath, cycle path or shared path continues from the road. The sign is varied according to the conditions.",
+      "image": "https://files.reglugerd.is/files/0250-2024/89113670-4e29-4cf1-87e2-f717007e56ba.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "652.76 Dead end. This sign indicates that the road is closed at one end. The sign may indicate that a footpath, cycle path or shared path continues from the road. The sign is varied according to the conditions.",
+      "image": "https://files.reglugerd.is/files/0250-2024/08216bdd-2a60-4e13-a3f8-04efea0ca86d.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "652.77 Dead end. This sign indicates that the road is closed at one end. The sign may indicate that a footpath, cycle path or shared path continues from the road. The sign is varied according to the conditions.",
+      "image": "https://files.reglugerd.is/files/0250-2024/0dea4707-3572-4d01-9614-bd4484fa6bef.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "652.78 Dead end. This sign indicates that the road is closed at one end. The sign may indicate that a footpath, cycle path or shared path continues from the road. The sign is varied according to the conditions.",
+      "image": "https://files.reglugerd.is/files/0250-2024/417ac868-97fc-4615-92e8-287a367ef55c.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "653.11 Underpass. This sign indicates a walking route through an underpass.",
+      "image": "https://files.reglugerd.is/files/0250-2024/f4a9041a-8f63-4a21-87c4-64db28422c7a.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "653.12 Underpass. This sign indicates a walking route through an underpass.",
+      "image": "https://files.reglugerd.is/files/0250-2024/a180d9c7-f264-4723-98dc-6e3e7d4e00f2.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "653.21 Bridge. This sign indicates a walking route to a bridge.",
+      "image": "https://files.reglugerd.is/files/0250-2024/13144ea0-04db-4c8c-a369-b46738812c41.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "653.22 Bridge. This sign indicates a walking route to a bridge.",
+      "image": "https://files.reglugerd.is/files/0250-2024/0a213453-b866-4877-9213-e60a867d06f4.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "654.11 Entrance. This sign indicates where you drive into a particular area.",
+      "image": "https://files.reglugerd.is/files/0250-2024/b017d459-d7de-4784-99da-19b8ba1a363b.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "654.12 Entrance. This sign indicates where you drive into a particular area.",
+      "image": "https://files.reglugerd.is/files/0250-2024/397555f7-34af-46d7-b895-ae9e6f9895df.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "654.21 Exit. This sign indicates where you drive out of a particular area.",
+      "image": "https://files.reglugerd.is/files/0250-2024/89be483b-e5e1-441d-864c-2f6b16ee7375.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "654.22 Exit. This sign indicates where you drive out of a particular area.",
+      "image": "https://files.reglugerd.is/files/0250-2024/3d2edf6a-acbe-4d20-b482-609968d40466.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "655.61 Speed camera. This sign indicates that an automatic speed camera, which may photograph a traffic offence, is ahead.",
+      "image": "https://files.reglugerd.is/files/0250-2024/556dfc75-0d9c-4c59-a87f-8a000c6388b3.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "655.62 Average speed check. This sign indicates that a stretch of road is ahead where automatic speed cameras measure the average speed of a vehicle, that is the speed at which the vehicle travels on average over a given distance.",
+      "image": "https://files.reglugerd.is/files/0250-2024/a61ddb44-a5b9-4914-93b1-08138d1e9576.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "655.71 Surveillance camera. This sign indicates that at the location or on the stretch of road there is an automatic surveillance camera monitoring traffic.",
+      "image": "https://files.reglugerd.is/files/0250-2024/1bccd4cd-a43f-4d05-a350-e4e3696e7827.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "656 Speed limit information. This sign gives information on the general traffic law rules on the permitted maximum speed in different conditions.",
+      "image": "https://files.reglugerd.is/files/0250-2024/885c3f4e-e564-4804-9eb7-1af7ad0c8a52.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "658.1 Recommended route for a type of traffic. This sign indicates the recommended route for the type of traffic specified on the sign. The sign is varied according to the type of traffic, e.g. goods vehicles, cyclists, traffic of disabled road users and horse riders. Other traffic is permitted unless a ban is specifically imposed on it.",
+      "image": "https://files.reglugerd.is/files/0250-2024/cf58268f-7d65-4446-a505-e8c147842f92.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "658.2 Recommended route for a type of traffic. This sign indicates the recommended route for the type of traffic specified on the sign. The sign is varied according to the type of traffic, e.g. goods vehicles, cyclists, traffic of disabled road users and horse riders. Other traffic is permitted unless a ban is specifically imposed on it.",
+      "image": "https://files.reglugerd.is/files/0250-2024/da37f250-2d83-4d32-9247-81c9e9f6d087.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "658.3 Recommended route for a type of traffic. This sign indicates the recommended route for the type of traffic specified on the sign. The sign is varied according to the type of traffic, e.g. goods vehicles, cyclists, traffic of disabled road users and horse riders. Other traffic is permitted unless a ban is specifically imposed on it.",
+      "image": "https://files.reglugerd.is/files/0250-2024/a65dd4c1-9ed6-4f39-aa52-406b2e45f5cc.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "658.4 Recommended route for a type of traffic. This sign indicates the recommended route for the type of traffic specified on the sign. The sign is varied according to the type of traffic, e.g. goods vehicles, cyclists, traffic of disabled road users and horse riders. Other traffic is permitted unless a ban is specifically imposed on it.",
+      "image": "https://files.reglugerd.is/files/0250-2024/f1b80eab-6441-4e36-a655-cfc128b43c0f.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "659 Electronic toll. This sign indicates that you are driving onto a road or into an area where a toll is collected electronically.",
+      "image": "https://files.reglugerd.is/files/0250-2024/af03d8d3-f935-483c-b85a-ca821f333c95.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "660.1 Emergency exit. This sign indicates an emergency exit, or the direction and distance to an emergency exit, in tunnels.",
+      "image": "https://files.reglugerd.is/files/0250-2024/d6e7da1c-1691-4304-a554-03a8143db36d.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "660.2 Emergency exit. This sign indicates an emergency exit, or the direction and distance to an emergency exit, in tunnels.",
+      "image": "https://files.reglugerd.is/files/0250-2024/18e96df0-5bc8-408b-a78b-4ac93e45e464.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "662 Water protection area. This sign indicates that you are entering a water protection area where traffic carrying water-polluting substances must take particular care.",
+      "image": "https://files.reglugerd.is/files/0250-2024/b98e8144-40f8-4c44-90c4-812208e86ae8.jpg"
+    }
+  ]
 }

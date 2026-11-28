@@ -60,6 +60,7 @@ Hver síða hefur sína skrá í `kennsluvefur/cards/` (enska í `cards/en/`). T
 ```
 
 - `q` er spurningin (framhlið) og `a` er svarið (bakhlið).
+- Enska útgáfan les `cards/en/<id>.json` með sama heiti og sama fjölda spjalda; haldið röðinni svo hægt sé að bera skrárnar saman. Ef hún vantar eða er tóm birtist íslenska safnið í staðinn.
 - Valfrjálst er að bæta `"image": "images/merki.png"` við spjald til að sýna mynd ofan við textann.
 - Ef spjaldasafn er tómt birtist skilaboðin „Engin spjöld hér enn þegar.“
 - Til að bæta við nýrri síðu þarf líka færslu í `pages.json` og `pages.en.json`, og samsvarandi skrá í `cards/`.
@@ -94,6 +95,12 @@ YouTube-hlekkir verða að innfelldum spilara, beinir .mp4-hlekkir verða að my
 
 Á hverri spjaldasíðu birtast „Flettispjöld“ með spurningu á framhlið og svari á bakhlið. Ýttu á spjaldið til að snúa því, notaðu „Fyrri“ og „Næsta“ (hringinn) og „Stokka“ til að blanda. Lyklaborð: Enter/bil snýr, örvar fara á milli.
 
+### Undirbúningsspurningar b-réttinda
+
+`kennsluvefur/cards/b-rettindi.json` hefur 141 spjald í 18 þemum, unnið úr „B-réttindi – Undirbúningspakki fyrir bóklegt ökupróf“ (myndirnar 2–36 í möppunni). Þemun eru: fyrstu viðbrögð á slysstað (9+9+9 spjöld), stöðvun og lagning (9+9+7), umferðarmerki og skilti (9+9+3), forgangur og biðskylda (9+6), gangandi vegfarendur (8), hraði og hemlunarvegalengd (9+5), áhrifaþættir á aksturshæfni (9), stefnuljós og ljós (8), öryggisbúnaður og bíllinn (9) og próftækni (5).
+
+Spjöldin fylgja röðinni í heimildinni; reitir sem eru merktir „xxx“ þar (óunnir) eru ekki hafðir inn. Ensk þýðing safnsins er í `cards/en/b-rettindi.json` (141 spjald í sömu röð); hún er til í `cards/en/` ásamt þýðingum allra annarra spjaldasafna.
+
 ### Umferðarmerkin
 
 Spjaldasöfnin fyrir umferðarmerkin (100–900) voru unnin sjálfvirkn úr reglugerð nr. 250/2024 um umferðarmerki og notkun þeirra á `island.is/reglugerdir/nr/0250-2024`:
@@ -112,7 +119,7 @@ Spjaldasöfnin fyrir umferðarmerkin (100–900) voru unnin sjálfvirkn úr regl
 
 Hvert spjald hefur mynd á framhlið en á bakhlið er númer merkis, heiti og skýring úr reglugerðinni. Myndirnar eru sóttar beint af `files.reglugerd.is` (samskonar slóð og `https://files.reglugerd.is/files/0250-2024/<id>.jpg`), ekki afritaðar inn í verkefnið. Ef óskað er eftir að hafa þær staðbundnar þarf að sækja þær og breyta `image` slóðunum í `cards/*.json`.
 
-Enska útgáfan notar íslensku spjaldasöfnin þar til ensk þýðing liggur fyrir (spurningin er þýdd, svarinn á íslensku).
+Enska útgáfan hefur sína eigin þýðingu á öllum spjaldasöfnum í `cards/en/` og spjöldin þar eru í sömu röð og sömu fjölda og í `cards/`, svo auðvelt er að bera skrárnar saman. Ef ensk skrá vantar eða er tóm birtir enski vefurinn íslenska safnið í staðinn (sjá `gate.js`), en þá er spurningin á íslensku.
 
 ## Upplestur
 

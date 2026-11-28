@@ -1,3 +1,184 @@
 {
-  "cards": []
+  "cards": [
+    {
+      "q": "Which road sign is this?",
+      "a": "302 No entry. This sign indicates that the entry of all vehicles onto the road, including bicycles and light mopeds, is prohibited.",
+      "image": "https://files.reglugerd.is/files/0250-2024/1b0d922d-63e8-4c28-9640-3da104d7c48b.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "306.0 Closed to all traffic. This sign indicates that driving of all vehicles, including bicycles and light mopeds, is prohibited in both directions. Pedestrians are permitted to lead bicycles.",
+      "image": "https://files.reglugerd.is/files/0250-2024/51415f34-e95d-4cbf-b2b8-c4e005458a86.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "306.1 No motor vehicles. This sign indicates that driving of motor vehicles is prohibited.",
+      "image": "https://files.reglugerd.is/files/0250-2024/646f908e-0991-4c63-815e-d5e53ef3c071.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "306.2 No motor vehicles other than two-wheeled vehicles. This sign indicates that driving of motor vehicles other than two-wheeled vehicles is prohibited.",
+      "image": "https://files.reglugerd.is/files/0250-2024/f9a022d7-e55b-4963-b40f-b3007d2305a3.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "306.3 No tractors, wheeled off-road vehicles or work machines. This sign indicates that driving of tractors, wheeled off-road vehicles and work machines is prohibited.",
+      "image": "https://files.reglugerd.is/files/0250-2024/8fb14d06-045c-4f6a-b983-bc7a71d0f224.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "306.41 No light mopeds. This sign indicates that driving of light mopeds is prohibited.",
+      "image": "https://files.reglugerd.is/files/0250-2024/dde007ec-14a0-42cc-8f6e-0304e6a7afc2.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "306.42 No motorcycles. This sign indicates that driving of motorcycles is prohibited.",
+      "image": "https://files.reglugerd.is/files/0250-2024/e48bc347-3abf-49e8-a69d-79d87b30a7f7.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "306.43 No tracked off-road vehicles (snowmobiles). This sign indicates that driving of tracked off-road vehicles, including snowmobiles, is prohibited.",
+      "image": "https://files.reglugerd.is/files/0250-2024/0bac27b1-46cd-4da7-8a32-c807d8ba3b47.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "306.5 No goods vehicles. This sign indicates that driving of goods vehicles is prohibited.",
+      "image": "https://files.reglugerd.is/files/0250-2024/be6d9943-8b79-4505-85d5-c0efeced963a.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "306.6 No cycling. This sign indicates that cycling is prohibited.",
+      "image": "https://files.reglugerd.is/files/0250-2024/b5e8dd47-a934-4c50-8b99-07c5aa573a3f.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "306.7 No pedestrians. This sign indicates that pedestrian traffic is prohibited.",
+      "image": "https://files.reglugerd.is/files/0250-2024/e7222d02-641a-4e53-9f6b-29108e32b00a.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "306.8 No pedestrians or cycling. This sign indicates that pedestrian traffic and cycling are prohibited.",
+      "image": "https://files.reglugerd.is/files/0250-2024/eb9281a8-c07c-44c8-824e-e542669b4942.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "306.9 No horse riders or droving. This sign indicates that horse riders and the droving of horses are prohibited.",
+      "image": "https://files.reglugerd.is/files/0250-2024/6329c16e-aeb7-460c-9061-9a60a3c77e74.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "306.10 No buses. This sign indicates that driving of buses is prohibited.",
+      "image": "https://files.reglugerd.is/files/0250-2024/aeec810f-c1cb-4e2f-99fa-057aa1fa37ba.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "308 No vehicles carrying dangerous goods. This sign indicates that driving of vehicles carrying dangerous goods, such as explosives, petrol or other fuel, is prohibited.",
+      "image": "https://files.reglugerd.is/files/0250-2024/81702e35-7abe-424c-9547-031b6bb0c87e.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "309 No vehicles carrying water-polluting goods. This sign indicates that driving of vehicles carrying water-polluting goods is prohibited.",
+      "image": "https://files.reglugerd.is/files/0250-2024/707a33c4-0b77-4cf4-9f4b-a4c45d70f9e4.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "312 Width limit. This sign indicates the maximum permitted width of vehicles, with or without a load, in metres to one decimal place.",
+      "image": "https://files.reglugerd.is/files/0250-2024/e0f9bb82-972a-47f4-ad53-f9c3fb1c7738.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "314 Height limit. This sign indicates the maximum permitted height of vehicles, with or without a load, in metres to one decimal place.",
+      "image": "https://files.reglugerd.is/files/0250-2024/33bb72e1-0c31-4f06-b15e-9c5033f1b3be.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "315 Minimum distance between motor vehicles. This sign indicates the minimum permitted distance between motor vehicles travelling in the same direction, in whole metres.",
+      "image": "https://files.reglugerd.is/files/0250-2024/2a1e0623-29b1-4e78-a5c5-bcfb2f77cb40.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "316 Length limit. This sign indicates the maximum permitted length of vehicles, including combinations of vehicles, with or without a load, in whole metres.",
+      "image": "https://files.reglugerd.is/files/0250-2024/6ab2baf3-1a0e-4958-874b-577d9a89299a.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "318.1 Weight limit. This sign indicates the maximum permitted total weight of vehicles, in whole tonnes. The limit applies to each vehicle of a combination of vehicles.",
+      "image": "https://files.reglugerd.is/files/0250-2024/66d1223a-fff9-4b8a-876f-eebae40f2ac9.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "318.2 Weight limit for combinations of vehicles. This sign indicates the maximum permitted total weight of combinations of vehicles, in whole tonnes. The limit also applies to single vehicles.",
+      "image": "https://files.reglugerd.is/files/0250-2024/c0cf7dcb-1f27-4a92-8e60-25fbb71632e0.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "320 Axle weight limit. This sign indicates the maximum permitted weight on a four-wheel axle. The weight on a two-wheel axle and the weight on two- and three-axle vehicles shall be in accordance with the rules on vehicle weights.",
+      "image": "https://files.reglugerd.is/files/0250-2024/4a5f593c-3a32-40b1-918c-fcba80e670b7.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "324 Stop, special. This sign indicates that a vehicle must be stopped at the sign or at a stop line, at a place other than a junction. The reason for the obligation to stop is written on the lower half of the sign.",
+      "image": "https://files.reglugerd.is/files/0250-2024/e33be98e-4d37-426d-9dbb-86d404c63ba7.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "330.1 No turn. This sign indicates that it is not permitted to turn in the direction shown on the sign at junctions or in comparable conditions, including that it is not permitted to turn a vehicle around.",
+      "image": "https://files.reglugerd.is/files/0250-2024/d8341966-783e-46cf-b5e0-974e6ad395ee.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "330.2 No turn. This sign indicates that it is not permitted to turn in the direction shown on the sign at junctions or in comparable conditions, including that it is not permitted to turn a vehicle around.",
+      "image": "https://files.reglugerd.is/files/0250-2024/18a48f0d-c149-4fe5-bcad-e0cc119bdde8.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "332 No U-turn. This sign indicates that it is not permitted to turn a vehicle around at junctions or in comparable conditions.",
+      "image": "https://files.reglugerd.is/files/0250-2024/f6170f36-6d67-4364-bd87-906b104236e1.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "334 No overtaking. This sign indicates that it is not permitted to overtake motor vehicles other than two-wheeled vehicles.",
+      "image": "https://files.reglugerd.is/files/0250-2024/ccfffd2b-00a0-416e-ab45-bc5f2dbd7e46.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "335 No overtaking by goods vehicles. This sign indicates that goods vehicles, including combinations of vehicles, with a permitted total weight of more than 3,500 kg are not permitted to overtake motor vehicles other than two-wheeled vehicles.",
+      "image": "https://files.reglugerd.is/files/0250-2024/b56122eb-c87c-4744-817e-98d4df511ee3.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "336 End of no overtaking. This sign indicates that the ban on overtaking is lifted.",
+      "image": "https://files.reglugerd.is/files/0250-2024/1de6b5fb-8b35-4ad1-8f2d-c899c38f147a.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "337 End of no overtaking by goods vehicles. This sign indicates that the ban on overtaking by goods vehicles is lifted.",
+      "image": "https://files.reglugerd.is/files/0250-2024/a891dd1e-11ef-4f3f-81f0-7646b4149c5f.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "362 Special speed limit. This sign indicates the highest permitted speed of a vehicle, the speed limit, in kilometres per hour.",
+      "image": "https://files.reglugerd.is/files/0250-2024/f55c856b-bf2d-45fc-a87d-09f88312bfac.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "364 End of special speed limit. This sign indicates that the special speed limit is lifted. The general speed limit for the area then applies.",
+      "image": "https://files.reglugerd.is/files/0250-2024/0de2f00d-b7b7-46a9-91eb-1ec7999dd78b.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "370 No stopping. This sign indicates that stopping a vehicle is prohibited, unless stopping is necessary because of other traffic, on the side of the road where the sign stands, from the sign to the next junction unless stated otherwise on a supplementary plate. Where a parking space is marked or defined it is permitted to park there, but the ban applies again afterwards. Further details of the restriction are given on a supplementary plate.",
+      "image": "https://files.reglugerd.is/files/0250-2024/4a4f73dc-1a8b-4e2b-8d59-60302d50616f.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "372 No parking. This sign indicates that parking a vehicle is prohibited on the side of the road where the sign stands, from the sign to the next junction unless stated otherwise on a supplementary plate. Where a parking space is marked or defined it is permitted to park there, but the ban applies again afterwards. Further details of the restriction are given on a supplementary plate.",
+      "image": "https://files.reglugerd.is/files/0250-2024/daa9a469-4712-4ac9-a21b-54e364022576.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "380 End of prohibitions. This sign is used at roadworks and with other temporary markings. It indicates the end of prohibitions that have been imposed, such as a ban on overtaking and a reduced speed limit. The sign does not lift a ban on stopping or parking a vehicle.",
+      "image": "https://files.reglugerd.is/files/0250-2024/c8262b19-b27f-4380-97c6-85c40c9efba7.jpg"
+    }
+  ]
 }

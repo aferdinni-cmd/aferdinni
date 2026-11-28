@@ -1,3 +1,274 @@
 {
-  "cards": []
+  "cards": [
+    {
+      "q": "Which road sign is this?",
+      "a": "100.1 Dangerous bend. This sign indicates that a single bend is ahead which is dangerous because of the alignment of the road or because visibility is limited. The sign is varied to show the direction of the bend.",
+      "image": "https://files.reglugerd.is/files/0250-2024/2348f4b9-20f0-40ca-8e22-78b3fff606b2.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "100.2 Dangerous bend. This sign indicates that a single bend is ahead which is dangerous because of the alignment of the road or because visibility is limited. The sign is varied to show the direction of the bend.",
+      "image": "https://files.reglugerd.is/files/0250-2024/663afab2-951b-4165-8c82-da0a50e065e2.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "102.1 Dangerous bends. This sign indicates that a stretch of road with two or more dangerous bends is ahead. The sign is varied to show the direction of the first bend.",
+      "image": "https://files.reglugerd.is/files/0250-2024/1d2ca1d2-339a-4f60-a836-d0a5651531cd.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "102.2 Dangerous bends. This sign indicates that a stretch of road with two or more dangerous bends is ahead. The sign is varied to show the direction of the first bend.",
+      "image": "https://files.reglugerd.is/files/0250-2024/81eced6f-620b-4e4d-ba5f-d53f58d712ae.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "104.1 Steep hill. This sign indicates that a steep hill with the gradient shown on the sign in percent is ahead. The sign is varied according to whether the hill is driven up (104.1) or down (104.2).",
+      "image": "https://files.reglugerd.is/files/0250-2024/3e571226-c396-422d-96fc-c265039c1797.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "104.2 Steep hill. This sign indicates that a steep hill with the gradient shown on the sign in percent is ahead. The sign is varied according to whether the hill is driven up (104.1) or down (104.2).",
+      "image": "https://files.reglugerd.is/files/0250-2024/42dc6a78-8686-4e69-b54e-bb168c9373d3.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "106.1 Road narrows. This sign indicates that the road narrows considerably. The sign is varied according to the side from which the road narrows.",
+      "image": "https://files.reglugerd.is/files/0250-2024/43803353-1a0e-41d1-a274-5032402b0603.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "106.2 Road narrows. This sign indicates that the road narrows considerably. The sign is varied according to the side from which the road narrows.",
+      "image": "https://files.reglugerd.is/files/0250-2024/123c5a88-7374-40ec-879a-7c85ba2a81c9.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "106.3 Road narrows. This sign indicates that the road narrows considerably. The sign is varied according to the side from which the road narrows.",
+      "image": "https://files.reglugerd.is/files/0250-2024/1a4cec12-7da2-4c9c-bdb5-3de1200215ca.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "108.1 Uneven road. This sign indicates that a stretch of road with severe unevenness in the surface of the carriageway is ahead.",
+      "image": "https://files.reglugerd.is/files/0250-2024/edd9391f-c0bf-420a-919e-eee7726673bd.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "108.2 Potholes. This sign indicates that a stretch of road is ahead where potholes have formed or may suddenly form in a paved road surface.",
+      "image": "https://files.reglugerd.is/files/0250-2024/8eeceb87-3ddb-4f84-b25b-85d0d655938f.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "109 Speed bump. This sign indicates that a speed bump is ahead.",
+      "image": "https://files.reglugerd.is/files/0250-2024/eb47a0fb-c863-4b8a-a4d5-b32db45ab208.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "110 Roadworks. This sign indicates that works on or beside the road are ahead.",
+      "image": "https://files.reglugerd.is/files/0250-2024/6db57c62-4c7b-4879-b024-bf86f578032e.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "111 Grading. This sign indicates that maintenance of a gravel road with a grader is ahead.",
+      "image": "https://files.reglugerd.is/files/0250-2024/550fb7f3-e3af-48c2-8d38-d82c86bb63f0.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "112 Loose chippings. This sign indicates that a stretch of road where there is a risk of flying stones is ahead.",
+      "image": "https://files.reglugerd.is/files/0250-2024/ddb7612a-a9cd-4a7d-a14b-cd52699707f9.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "114.1 Rockfall, avalanche. This sign indicates that there is a risk ahead of rocks on the road, rockfall or avalanche. The sign is varied according to the direction from which the risk of a fall comes.",
+      "image": "https://files.reglugerd.is/files/0250-2024/5b86b3f3-01c8-4990-b991-a24dee7a87b1.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "114.2 Rockfall, avalanche. This sign indicates that there is a risk ahead of rocks on the road, rockfall or avalanche. The sign is varied according to the direction from which the risk of a fall comes.",
+      "image": "https://files.reglugerd.is/files/0250-2024/ef22d5f5-fba8-456f-b285-5e47e4fe9f35.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "115 Reduced visibility due to weather. This sign indicates that a stretch of road is ahead where the likelihood of reduced visibility due to weather, such as fog, is greater than usual. The sign is used mainly as a variable message sign.",
+      "image": "https://files.reglugerd.is/files/0250-2024/9d82dab9-e37c-49b5-ac15-3e08af30e3cc.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "116.1 Slippery road. This sign indicates that a stretch of road is ahead where there is a particular risk that the road is very slippery or icy.",
+      "image": "https://files.reglugerd.is/files/0250-2024/2323ef84-c9d2-4b6b-ad0e-7a9398e10257.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "116.2 Ice on the road. This sign indicates that a stretch of road where there is a risk of unexpected ice on the road is ahead.",
+      "image": "https://files.reglugerd.is/files/0250-2024/93d3fd27-ecb4-4a9d-b8b8-44f1487ba72d.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "117.1 High pavement edge. This sign indicates a high edge of the paved surface at the road shoulder.",
+      "image": "https://files.reglugerd.is/files/0250-2024/4f07cf16-11f6-43bd-9321-4e8cf8292e43.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "117.2 Unsafe verge. This sign indicates that the verge does not bear heavy vehicles.",
+      "image": "https://files.reglugerd.is/files/0250-2024/7c8bf971-61b8-4f8a-8acc-4642f876fc68.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "120 Quayside. This sign indicates that a pier, harbour edge or ferry berth is ahead.",
+      "image": "https://files.reglugerd.is/files/0250-2024/8c710a07-013c-4788-8b14-c795bc4c5d5f.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "122 Tunnel. This sign indicates that a tunnel is ahead.",
+      "image": "https://files.reglugerd.is/files/0250-2024/4bf32322-4145-4c90-9de5-1450c131e1fd.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "124 Dangerous junction. This sign indicates that a dangerous junction where traffic from the right has priority is ahead.",
+      "image": "https://files.reglugerd.is/files/0250-2024/19279aac-6c79-4797-9a57-45761450ba52.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "125.1 Dangerous junction where traffic on the road has priority. This sign indicates that a junction is ahead where traffic on the road the sign stands beside has priority over traffic from side roads. The sign is varied according to the layout of the junction.",
+      "image": "https://files.reglugerd.is/files/0250-2024/26f3074b-1dd3-49ab-a442-8c3ce71de2df.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "125.2 Dangerous junction where traffic on the road has priority. This sign indicates that a junction is ahead where traffic on the road the sign stands beside has priority over traffic from side roads. The sign is varied according to the layout of the junction.",
+      "image": "https://files.reglugerd.is/files/0250-2024/49f6caed-d8f6-4e12-acd5-fccb693f1e44.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "125.3 Dangerous junction where traffic on the road has priority. This sign indicates that a junction is ahead where traffic on the road the sign stands beside has priority over traffic from side roads. The sign is varied according to the layout of the junction.",
+      "image": "https://files.reglugerd.is/files/0250-2024/28f5ade0-f1c2-42cb-8207-c74c5368719f.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "125.4 Dangerous junction where traffic on the road has priority. This sign indicates that a junction is ahead where traffic on the road the sign stands beside has priority over traffic from side roads. The sign is varied according to the layout of the junction.",
+      "image": "https://files.reglugerd.is/files/0250-2024/c2cc332a-c011-46b2-9d7c-ce6c208095d3.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "125.5 Dangerous junction where traffic on the road has priority. This sign indicates that a junction is ahead where traffic on the road the sign stands beside has priority over traffic from side roads. The sign is varied according to the layout of the junction.",
+      "image": "https://files.reglugerd.is/files/0250-2024/74753787-80c3-468d-bd14-2b76fb1ba1f0.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "125.6 Dangerous junction where traffic on the road has priority. This sign indicates that a junction is ahead where traffic on the road the sign stands beside has priority over traffic from side roads. The sign is varied according to the layout of the junction.",
+      "image": "https://files.reglugerd.is/files/0250-2024/34e8ea96-baa5-4118-840b-5a0b63b28dfb.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "125.7 Dangerous junction where traffic on the road has priority. This sign indicates that a junction is ahead where traffic on the road the sign stands beside has priority over traffic from side roads. The sign is varied according to the layout of the junction.",
+      "image": "https://files.reglugerd.is/files/0250-2024/8925897e-e123-4216-b1cd-a736c5345169.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "126 Roundabout. This sign indicates that a roundabout is ahead.",
+      "image": "https://files.reglugerd.is/files/0250-2024/4a5e53b5-fb3f-4373-a192-78f7c88b9088.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "132 Traffic lights. This sign indicates that traffic lights are ahead.",
+      "image": "https://files.reglugerd.is/files/0250-2024/cf88ff26-10e6-4bd0-9b00-a6d498dd6135.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "140 Pedestrian crossing. This sign indicates that a pedestrian crossing is ahead.",
+      "image": "https://files.reglugerd.is/files/0250-2024/7f916118-1d0a-4dcd-acc0-97311d42f1ca.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "141 Pedestrians. This sign indicates that pedestrians may be expected ahead.",
+      "image": "https://files.reglugerd.is/files/0250-2024/b5dfd82c-5f8a-4d47-aa9d-40c413e58976.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "142 Children. This sign indicates that children may be expected ahead by the road.",
+      "image": "https://files.reglugerd.is/files/0250-2024/e4983916-968a-412b-bf07-59c7fbb790ee.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "144 Cyclists. This sign indicates that a heavy flow of bicycles and/or light mopeds of class I may be expected ahead crossing the road, or that such traffic needs to use part of the carriageway in narrow conditions.",
+      "image": "https://files.reglugerd.is/files/0250-2024/b5e2debf-00e3-4e75-8a0d-e238b6a6e842.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "146.1 Animals. This sign indicates that particular care is needed because of animals on or beside the road. The sign is varied according to the animals being warned of. The sign may therefore show, for example, horses, reindeer, birds, cattle, sheep or rabbits.",
+      "image": "https://files.reglugerd.is/files/0250-2024/ce1899c8-4a94-4635-90ba-c3d7f58dce89.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "146.2 Animals. This sign indicates that particular care is needed because of animals on or beside the road. The sign is varied according to the animals being warned of. The sign may therefore show, for example, horses, reindeer, birds, cattle, sheep or rabbits.",
+      "image": "https://files.reglugerd.is/files/0250-2024/fd0b3802-049c-4359-ba59-0c3d8f249dac.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "146.3 Animals. This sign indicates that particular care is needed because of animals on or beside the road. The sign is varied according to the animals being warned of. The sign may therefore show, for example, horses, reindeer, birds, cattle, sheep or rabbits.",
+      "image": "https://files.reglugerd.is/files/0250-2024/bb6654c3-c415-4dc3-b744-496a95a624e3.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "146.4 Animals. This sign indicates that particular care is needed because of animals on or beside the road. The sign is varied according to the animals being warned of. The sign may therefore show, for example, horses, reindeer, birds, cattle, sheep or rabbits.",
+      "image": "https://files.reglugerd.is/files/0250-2024/e312d7f4-12f1-4ae3-9ee2-7001fd39bcae.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "146.5 Animals. This sign indicates that particular care is needed because of animals on or beside the road. The sign is varied according to the animals being warned of. The sign may therefore show, for example, horses, reindeer, birds, cattle, sheep or rabbits.",
+      "image": "https://files.reglugerd.is/files/0250-2024/46e1c478-0983-47d4-8923-0a36202cc42f.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "146.6 Animals. This sign indicates that particular care is needed because of animals on or beside the road. The sign is varied according to the animals being warned of. The sign may therefore show, for example, horses, reindeer, birds, cattle, sheep or rabbits.",
+      "image": "https://files.reglugerd.is/files/0250-2024/e54ab80a-1ae6-4070-9ca4-1f4e123765ac.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "148 Two-way traffic. This sign indicates that traffic travels in both directions along the road or path.",
+      "image": "https://files.reglugerd.is/files/0250-2024/13044cf0-f10e-4b0d-82c1-ac6f8b6f71e5.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "149 Traffic queues. This sign indicates that delays due to traffic may be expected ahead.",
+      "image": "https://files.reglugerd.is/files/0250-2024/bcbca101-0290-416c-a640-435e3991bc49.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "150.1 Low-flying aircraft. This sign indicates that an area is ahead where an aircraft taking off or landing at an airport may fly low over the nearby road. The sign is varied so that the aircraft points towards the airport.",
+      "image": "https://files.reglugerd.is/files/0250-2024/572ddf20-95a5-4539-a8f4-1004b40764a4.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "150.2 Low-flying aircraft. This sign indicates that an area is ahead where an aircraft taking off or landing at an airport may fly low over the nearby road. The sign is varied so that the aircraft points towards the airport.",
+      "image": "https://files.reglugerd.is/files/0250-2024/a68bc48e-1021-4e99-a6c9-fa4d81db7d8f.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "152.1 Crosswinds. This sign indicates that an area is ahead where strong crosswinds are frequent. The sign is varied according to the prevailing wind direction in the area.",
+      "image": "https://files.reglugerd.is/files/0250-2024/f13519c7-590e-42d9-b06f-9005efe88c04.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "152.2 Crosswinds. This sign indicates that an area is ahead where strong crosswinds are frequent. The sign is varied according to the prevailing wind direction in the area.",
+      "image": "https://files.reglugerd.is/files/0250-2024/de6a8197-812b-4090-83ae-6e40ba2eeb80.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "153 Accident. This sign indicates that an accident has occurred ahead. The sign is used only as a variable message sign.",
+      "image": "https://files.reglugerd.is/files/0250-2024/d4bd55ab-645b-4d89-b2f4-f144d77d1f08.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "154 Machinery. This sign indicates that traffic connected with commercial activity may be expected ahead, in an area that is not closed to pedestrians.",
+      "image": "https://files.reglugerd.is/files/0250-2024/484ed290-45f4-44fe-a39c-3e3799c302bf.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "155 Horse riders. This sign indicates that horse riders may be expected ahead or that a bridle path crosses the road.",
+      "image": "https://files.reglugerd.is/files/0250-2024/7fea4c63-525e-42b5-b3f4-b8df78ca666f.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "156 Other danger. This sign indicates another danger that is specified in more detail on a supplementary plate.",
+      "image": "https://files.reglugerd.is/files/0250-2024/2c715a18-ff75-4601-a0dd-9e2b7b20de32.jpg"
+    }
+  ]
 }

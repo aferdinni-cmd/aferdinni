@@ -1,3 +1,39 @@
 {
-  "cards": []
+  "cards": [
+    {
+      "q": "Which road sign is this?",
+      "a": "202 Give way. This sign indicates that the driver must give way to traffic on the road being joined or crossed.",
+      "image": "https://files.reglugerd.is/files/0250-2024/6e9c0e64-1cef-4209-a37c-c5c53e0f5c79.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "204 Stop. This sign indicates that the driver must stop unconditionally and give way to traffic on the road being joined or crossed.",
+      "image": "https://files.reglugerd.is/files/0250-2024/6f8790dd-da66-4819-89a7-78c6934bf45b.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "206 Priority road. This sign indicates that traffic on the road has priority over traffic from side roads.",
+      "image": "https://files.reglugerd.is/files/0250-2024/6e55efee-3b37-4355-b752-b7176e62f3d1.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "208 End of priority road. This sign indicates that the priority road ends and that traffic on the road no longer has particular priority over traffic from side roads.",
+      "image": "https://files.reglugerd.is/files/0250-2024/7cfd0c7b-0541-4b11-964a-ab9962673e1d.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "212 Give way to oncoming traffic. This sign indicates that the driver must give way to oncoming traffic.",
+      "image": "https://files.reglugerd.is/files/0250-2024/1b3e3f1c-4842-4f4d-b1fb-d80dc07fbbb9.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "214 Priority over oncoming traffic. This sign indicates that oncoming traffic must give way.",
+      "image": "https://files.reglugerd.is/files/0250-2024/e1304a62-63f6-4db3-a83a-9b95829337a9.jpg"
+    },
+    {
+      "q": "Which road sign is this?",
+      "a": "216 Merging traffic. This sign indicates that two parallel lanes on the road merge into one and that drivers shall drive so that one vehicle at a time comes from each lane as circumstances allow.",
+      "image": "https://files.reglugerd.is/files/0250-2024/43045e53-bd33-4938-864b-f5a5760ebe12.jpg"
+    }
+  ]
 }
